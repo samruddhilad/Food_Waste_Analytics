@@ -1,0 +1,1001 @@
+Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type,Country
+1,Paneer Butter Masala & Naan,43,3/17/2025,110,Restaurant,Lucknow,Vegetarian,Lunch,India
+2,Dal Makhani & Jeera Rice,22,3/24/2025,791,Catering Service,Chandigarh,Vegetarian,Dinner,India
+3,Chole Bhature,46,3/28/2025,478,Restaurant,Coimbatore,Vegetarian,Snacks,India
+4,Sambar Rice & Papad,15,3/16/2025,930,Restaurant,Lucknow,Vegetarian,Dinner,India
+5,Pav Bhaji,14,3/19/2025,279,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+6,Idli Vada & Sambar,4,3/24/2025,378,Restaurant,Coimbatore,Vegetarian,Snacks,India
+7,Veg Dum Biryani & Raita,29,3/25/2025,268,Grocery Store,Ahmedabad,Vegetarian,Lunch,India
+8,Masala Dosa & Chutney,49,3/28/2025,343,Catering Service,Bengaluru,Vegetarian,Snacks,India
+9,Chapati & Mix Veg Curry,46,3/25/2025,47,Catering Service,Pune,Vegetarian,Lunch,India
+10,Aloo Paratha & Fresh Curd,41,3/20/2025,528,Grocery Store,Ahmedabad,Vegetarian,Snacks,India
+11,Dhokla & Khandvi Platter,39,3/17/2025,96,Grocery Store,Patna,Vegetarian,Breakfast,India
+12,Rajma Chawal,15,3/28/2025,899,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+13,Kadhai Paneer & Rotis,33,3/22/2025,115,Catering Service,Surat,Vegetarian,Lunch,India
+14,Poha & Jalebi,19,3/30/2025,621,Supermarket,Mumbai,Vegetarian,Snacks,India
+15,Vegetable Pulao & Raita,3,3/22/2025,74,Restaurant,Kochi,Vegetarian,Lunch,India
+16,Chicken Biryani,6,3/26/2025,862,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+17,Egg Curry & Steamed Rice,42,3/22/2025,417,Supermarket,Nagpur,Non-Vegetarian,Lunch,India
+18,Butter Chicken & Naan,28,3/27/2025,455,Catering Service,Surat,Non-Vegetarian,Dinner,India
+19,Fish Curry & Rice,13,3/30/2025,419,Catering Service,Visakhapatnam,Non-Vegetarian,Lunch,India
+20,Chicken Kathi Roll,41,3/17/2025,306,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+21,Egg Bhurji & Pav,38,3/26/2025,277,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+22,Chicken Fried Rice,46,3/21/2025,892,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+23,Mutton Rogan Josh & Roti,43,3/26/2025,1,Supermarket,Mumbai,Non-Vegetarian,Lunch,India
+24,Fresh Fruit Assortment,20,3/30/2025,897,Supermarket,Nagpur,Vegan,Snacks,India
+25,Moong Dal Khichdi,48,3/22/2025,898,Restaurant,Coimbatore,Vegan,Lunch,India
+26,Steamed Rice & Yellow Dal Tadka,34,3/27/2025,95,Catering Service,Surat,Vegan,Dinner,India
+27,Garden Green Salad & Sprout Bowl,12,3/23/2025,262,Restaurant,Delhi,Vegan,Lunch,India
+28,Rava Upma & Coconut Chutney,5,3/22/2025,606,Restaurant,Kolkata,Vegan,Snacks,India
+29,Whole Wheat Bread & Jam,18,3/19/2025,196,Grocery Store,Patna,Vegan,Breakfast,India
+30,Steamed Veggie Bowl with Corn,4,3/16/2025,616,Grocery Store,Patna,Vegan,Dinner,India
+31,Paneer Butter Masala & Naan,42,3/22/2025,535,Catering Service,Surat,Vegetarian,Lunch,India
+32,Dal Makhani & Jeera Rice,27,3/21/2025,611,Catering Service,Chandigarh,Vegetarian,Dinner,India
+33,Chole Bhature,9,3/27/2025,798,Restaurant,Coimbatore,Vegetarian,Snacks,India
+34,Sambar Rice & Papad,3,3/30/2025,396,Grocery Store,Patna,Vegetarian,Dinner,India
+35,Pav Bhaji,6,3/23/2025,108,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+36,Idli Vada & Sambar,35,3/20/2025,1,Supermarket,Mumbai,Vegetarian,Snacks,India
+37,Veg Dum Biryani & Raita,19,3/20/2025,389,Supermarket,Jaipur,Vegetarian,Lunch,India
+38,Masala Dosa & Chutney,48,3/22/2025,440,Grocery Store,Vadodara,Vegetarian,Snacks,India
+39,Chapati & Mix Veg Curry,48,3/22/2025,758,Restaurant,Coimbatore,Vegetarian,Lunch,India
+40,Aloo Paratha & Fresh Curd,12,3/27/2025,965,Supermarket,Chennai,Vegetarian,Snacks,India
+41,Dhokla & Khandvi Platter,14,3/27/2025,450,Restaurant,Lucknow,Vegetarian,Breakfast,India
+42,Rajma Chawal,50,3/16/2025,179,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+43,Kadhai Paneer & Rotis,44,3/22/2025,29,Supermarket,Jaipur,Vegetarian,Lunch,India
+44,Poha & Jalebi,39,3/22/2025,290,Restaurant,Lucknow,Vegetarian,Snacks,India
+45,Vegetable Pulao & Raita,17,3/24/2025,874,Restaurant,Kochi,Vegetarian,Lunch,India
+46,Chicken Biryani,25,3/28/2025,576,Grocery Store,Patna,Non-Vegetarian,Dinner,India
+47,Egg Curry & Steamed Rice,3,3/17/2025,420,Grocery Store,Vadodara,Non-Vegetarian,Lunch,India
+48,Butter Chicken & Naan,30,3/16/2025,150,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+49,Fish Curry & Rice,41,3/17/2025,700,Grocery Store,Vadodara,Non-Vegetarian,Lunch,India
+50,Chicken Kathi Roll,28,3/23/2025,514,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+51,Egg Bhurji & Pav,14,3/27/2025,828,Grocery Store,Ahmedabad,Non-Vegetarian,Dinner,India
+52,Chicken Fried Rice,23,3/29/2025,460,Grocery Store,Vadodara,Non-Vegetarian,Dinner,India
+53,Mutton Rogan Josh & Roti,13,3/16/2025,174,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+54,Fresh Fruit Assortment,15,3/17/2025,368,Grocery Store,Ahmedabad,Vegan,Snacks,India
+55,Moong Dal Khichdi,19,3/17/2025,967,Catering Service,Pune,Vegan,Lunch,India
+56,Steamed Rice & Yellow Dal Tadka,9,3/23/2025,125,Supermarket,Chennai,Vegan,Dinner,India
+57,Garden Green Salad & Sprout Bowl,23,3/17/2025,977,Supermarket,Nagpur,Vegan,Lunch,India
+58,Rava Upma & Coconut Chutney,39,3/28/2025,270,Restaurant,Lucknow,Vegan,Snacks,India
+59,Whole Wheat Bread & Jam,38,3/22/2025,251,Catering Service,Chandigarh,Vegan,Breakfast,India
+60,Steamed Veggie Bowl with Corn,49,3/28/2025,153,Supermarket,Bhopal,Vegan,Dinner,India
+61,Paneer Butter Masala & Naan,33,3/22/2025,243,Catering Service,Bengaluru,Vegetarian,Lunch,India
+62,Dal Makhani & Jeera Rice,21,3/21/2025,520,Grocery Store,Vadodara,Vegetarian,Dinner,India
+63,Chole Bhature,6,3/20/2025,335,Catering Service,Surat,Vegetarian,Snacks,India
+64,Sambar Rice & Papad,41,3/26/2025,678,Restaurant,Coimbatore,Vegetarian,Dinner,India
+65,Pav Bhaji,45,3/26/2025,602,Restaurant,Delhi,Vegetarian,Dinner,India
+66,Idli Vada & Sambar,6,3/22/2025,577,Supermarket,Nagpur,Vegetarian,Snacks,India
+67,Veg Dum Biryani & Raita,50,3/24/2025,455,Catering Service,Surat,Vegetarian,Lunch,India
+68,Masala Dosa & Chutney,15,3/25/2025,113,Supermarket,Bhopal,Vegetarian,Snacks,India
+69,Chapati & Mix Veg Curry,47,3/16/2025,504,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+70,Aloo Paratha & Fresh Curd,7,3/16/2025,313,Supermarket,Bhopal,Vegetarian,Snacks,India
+71,Dhokla & Khandvi Platter,45,3/19/2025,750,Restaurant,Lucknow,Vegetarian,Breakfast,India
+72,Rajma Chawal,11,3/24/2025,293,Supermarket,Bhopal,Vegetarian,Dinner,India
+73,Kadhai Paneer & Rotis,48,3/19/2025,485,Supermarket,Chennai,Vegetarian,Lunch,India
+74,Poha & Jalebi,12,3/29/2025,387,Catering Service,Pune,Vegetarian,Snacks,India
+75,Vegetable Pulao & Raita,35,3/24/2025,389,Supermarket,Jaipur,Vegetarian,Lunch,India
+76,Chicken Biryani,40,3/16/2025,905,Supermarket,Chennai,Non-Vegetarian,Dinner,India
+77,Egg Curry & Steamed Rice,4,3/19/2025,890,Restaurant,Lucknow,Non-Vegetarian,Lunch,India
+78,Butter Chicken & Naan,1,3/23/2025,913,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+79,Fish Curry & Rice,25,3/19/2025,100,Grocery Store,Vadodara,Non-Vegetarian,Lunch,India
+80,Chicken Kathi Roll,36,3/29/2025,434,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+81,Egg Bhurji & Pav,33,3/18/2025,848,Grocery Store,Ahmedabad,Non-Vegetarian,Dinner,India
+82,Chicken Fried Rice,26,3/23/2025,631,Catering Service,Chandigarh,Non-Vegetarian,Dinner,India
+83,Mutton Rogan Josh & Roti,44,3/28/2025,312,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+84,Fresh Fruit Assortment,25,3/23/2025,967,Catering Service,Pune,Vegan,Snacks,India
+85,Moong Dal Khichdi,28,3/16/2025,554,Restaurant,Kochi,Vegan,Lunch,India
+86,Steamed Rice & Yellow Dal Tadka,13,3/30/2025,288,Grocery Store,Ahmedabad,Vegan,Dinner,India
+87,Garden Green Salad & Sprout Bowl,37,3/28/2025,34,Restaurant,Kochi,Vegan,Lunch,India
+88,Rava Upma & Coconut Chutney,22,3/21/2025,491,Catering Service,Chandigarh,Vegan,Snacks,India
+89,Whole Wheat Bread & Jam,3,3/27/2025,844,Grocery Store,Hyderabad,Vegan,Breakfast,India
+90,Steamed Veggie Bowl with Corn,29,3/23/2025,477,Supermarket,Nagpur,Vegan,Dinner,India
+91,Paneer Butter Masala & Naan,9,3/22/2025,275,Catering Service,Surat,Vegetarian,Lunch,India
+92,Dal Makhani & Jeera Rice,42,3/20/2025,752,Grocery Store,Indore,Vegetarian,Dinner,India
+93,Chole Bhature,49,3/20/2025,264,Grocery Store,Hyderabad,Vegetarian,Snacks,India
+94,Sambar Rice & Papad,35,3/16/2025,722,Restaurant,Delhi,Vegetarian,Dinner,India
+95,Pav Bhaji,19,3/24/2025,120,Grocery Store,Vadodara,Vegetarian,Dinner,India
+96,Idli Vada & Sambar,5,3/25/2025,656,Grocery Store,Patna,Vegetarian,Snacks,India
+97,Veg Dum Biryani & Raita,44,3/21/2025,346,Restaurant,Kolkata,Vegetarian,Lunch,India
+98,Masala Dosa & Chutney,26,3/29/2025,632,Grocery Store,Indore,Vegetarian,Snacks,India
+99,Chapati & Mix Veg Curry,8,3/28/2025,162,Restaurant,Delhi,Vegetarian,Lunch,India
+100,Aloo Paratha & Fresh Curd,22,3/18/2025,647,Catering Service,Pune,Vegetarian,Snacks,India
+101,Dhokla & Khandvi Platter,35,3/23/2025,538,Restaurant,Coimbatore,Vegetarian,Breakfast,India
+102,Rajma Chawal,35,3/19/2025,584,Grocery Store,Hyderabad,Vegetarian,Dinner,India
+103,Kadhai Paneer & Rotis,35,3/30/2025,391,Catering Service,Chandigarh,Vegetarian,Lunch,India
+104,Poha & Jalebi,3,3/29/2025,468,Grocery Store,Ahmedabad,Vegetarian,Snacks,India
+105,Vegetable Pulao & Raita,2,3/24/2025,698,Restaurant,Coimbatore,Vegetarian,Lunch,India
+106,Chicken Biryani,31,3/19/2025,253,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+107,Egg Curry & Steamed Rice,29,3/25/2025,464,Grocery Store,Hyderabad,Non-Vegetarian,Lunch,India
+108,Butter Chicken & Naan,22,3/25/2025,835,Catering Service,Surat,Non-Vegetarian,Dinner,India
+109,Fish Curry & Rice,7,3/24/2025,998,Restaurant,Coimbatore,Non-Vegetarian,Lunch,India
+110,Chicken Kathi Roll,49,3/17/2025,354,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+111,Egg Bhurji & Pav,13,3/17/2025,904,Grocery Store,Hyderabad,Non-Vegetarian,Dinner,India
+112,Chicken Fried Rice,32,3/25/2025,308,Grocery Store,Ahmedabad,Non-Vegetarian,Dinner,India
+113,Mutton Rogan Josh & Roti,14,3/16/2025,623,Catering Service,Bengaluru,Non-Vegetarian,Lunch,India
+114,Fresh Fruit Assortment,28,3/27/2025,906,Restaurant,Kolkata,Vegan,Snacks,India
+115,Moong Dal Khichdi,8,3/26/2025,963,Catering Service,Bengaluru,Vegan,Lunch,India
+116,Steamed Rice & Yellow Dal Tadka,32,3/23/2025,570,Restaurant,Lucknow,Vegan,Dinner,India
+117,Garden Green Salad & Sprout Bowl,32,3/21/2025,530,Restaurant,Lucknow,Vegan,Lunch,India
+118,Rava Upma & Coconut Chutney,42,3/28/2025,863,Catering Service,Bengaluru,Vegan,Snacks,India
+119,Whole Wheat Bread & Jam,49,3/28/2025,135,Catering Service,Surat,Vegan,Breakfast,India
+120,Steamed Veggie Bowl with Corn,30,3/18/2025,785,Supermarket,Chennai,Vegan,Dinner,India
+121,Paneer Butter Masala & Naan,16,3/30/2025,314,Restaurant,Kochi,Vegetarian,Lunch,India
+122,Dal Makhani & Jeera Rice,7,3/20/2025,846,Restaurant,Kolkata,Vegetarian,Dinner,India
+123,Chole Bhature,11,3/25/2025,148,Grocery Store,Ahmedabad,Vegetarian,Snacks,India
+124,Sambar Rice & Papad,50,3/19/2025,909,Supermarket,Jaipur,Vegetarian,Dinner,India
+125,Pav Bhaji,21,3/17/2025,982,Restaurant,Delhi,Vegetarian,Dinner,India
+126,Idli Vada & Sambar,27,3/18/2025,54,Restaurant,Kochi,Vegetarian,Snacks,India
+127,Veg Dum Biryani & Raita,48,3/30/2025,763,Catering Service,Bengaluru,Vegetarian,Lunch,India
+128,Masala Dosa & Chutney,39,3/22/2025,235,Catering Service,Surat,Vegetarian,Snacks,India
+129,Chapati & Mix Veg Curry,26,3/21/2025,798,Restaurant,Coimbatore,Vegetarian,Lunch,India
+130,Aloo Paratha & Fresh Curd,47,3/29/2025,997,Supermarket,Nagpur,Vegetarian,Snacks,India
+131,Dhokla & Khandvi Platter,16,3/18/2025,241,Supermarket,Mumbai,Vegetarian,Breakfast,India
+132,Rajma Chawal,20,3/19/2025,840,Grocery Store,Vadodara,Vegetarian,Dinner,India
+133,Kadhai Paneer & Rotis,28,3/19/2025,795,Catering Service,Surat,Vegetarian,Lunch,India
+134,Poha & Jalebi,1,3/16/2025,39,Catering Service,Visakhapatnam,Vegetarian,Snacks,India
+135,Vegetable Pulao & Raita,44,3/23/2025,980,Grocery Store,Vadodara,Vegetarian,Lunch,India
+136,Chicken Biryani,29,3/17/2025,723,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+137,Egg Curry & Steamed Rice,29,3/19/2025,87,Catering Service,Pune,Non-Vegetarian,Lunch,India
+138,Butter Chicken & Naan,24,3/18/2025,558,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+139,Fish Curry & Rice,3,3/20/2025,446,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+140,Chicken Kathi Roll,18,3/16/2025,967,Catering Service,Pune,Non-Vegetarian,Dinner,India
+141,Egg Bhurji & Pav,33,3/29/2025,702,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+142,Chicken Fried Rice,41,3/29/2025,368,Grocery Store,Ahmedabad,Non-Vegetarian,Dinner,India
+143,Mutton Rogan Josh & Roti,18,3/24/2025,938,Restaurant,Coimbatore,Non-Vegetarian,Lunch,India
+144,Fresh Fruit Assortment,18,3/18/2025,810,Restaurant,Lucknow,Vegan,Snacks,India
+145,Moong Dal Khichdi,12,3/29/2025,751,Catering Service,Chandigarh,Vegan,Lunch,India
+146,Steamed Rice & Yellow Dal Tadka,17,3/25/2025,172,Grocery Store,Indore,Vegan,Dinner,India
+147,Garden Green Salad & Sprout Bowl,47,3/30/2025,619,Catering Service,Visakhapatnam,Vegan,Lunch,India
+148,Rava Upma & Coconut Chutney,16,3/18/2025,650,Restaurant,Lucknow,Vegan,Snacks,India
+149,Whole Wheat Bread & Jam,18,3/20/2025,816,Grocery Store,Patna,Vegan,Breakfast,India
+150,Steamed Veggie Bowl with Corn,50,3/28/2025,332,Grocery Store,Indore,Vegan,Dinner,India
+151,Paneer Butter Masala & Naan,19,3/23/2025,902,Restaurant,Delhi,Vegetarian,Lunch,India
+152,Dal Makhani & Jeera Rice,46,3/24/2025,58,Restaurant,Coimbatore,Vegetarian,Dinner,India
+153,Chole Bhature,20,3/21/2025,737,Supermarket,Nagpur,Vegetarian,Snacks,India
+154,Sambar Rice & Papad,46,3/30/2025,4,Grocery Store,Hyderabad,Vegetarian,Dinner,India
+155,Pav Bhaji,20,3/20/2025,602,Restaurant,Delhi,Vegetarian,Dinner,India
+156,Idli Vada & Sambar,24,3/19/2025,970,Restaurant,Lucknow,Vegetarian,Snacks,India
+157,Veg Dum Biryani & Raita,37,3/20/2025,600,Grocery Store,Vadodara,Vegetarian,Lunch,India
+158,Masala Dosa & Chutney,22,3/30/2025,687,Catering Service,Pune,Vegetarian,Snacks,India
+159,Chapati & Mix Veg Curry,7,3/27/2025,653,Supermarket,Bhopal,Vegetarian,Lunch,India
+160,Aloo Paratha & Fresh Curd,27,3/23/2025,367,Catering Service,Pune,Vegetarian,Snacks,India
+161,Dhokla & Khandvi Platter,32,3/20/2025,414,Restaurant,Kochi,Vegetarian,Breakfast,India
+162,Rajma Chawal,50,3/21/2025,826,Restaurant,Kolkata,Vegetarian,Dinner,India
+163,Kadhai Paneer & Rotis,45,3/16/2025,251,Catering Service,Chandigarh,Vegetarian,Lunch,India
+164,Poha & Jalebi,22,3/27/2025,432,Grocery Store,Indore,Vegetarian,Snacks,India
+165,Vegetable Pulao & Raita,22,3/28/2025,90,Restaurant,Lucknow,Vegetarian,Lunch,India
+166,Chicken Biryani,9,3/17/2025,58,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+167,Egg Curry & Steamed Rice,4,3/20/2025,134,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+168,Butter Chicken & Naan,26,3/20/2025,306,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+169,Fish Curry & Rice,18,3/20/2025,336,Grocery Store,Patna,Non-Vegetarian,Lunch,India
+170,Chicken Kathi Roll,49,3/17/2025,403,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+171,Egg Bhurji & Pav,25,3/22/2025,103,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+172,Chicken Fried Rice,45,3/28/2025,826,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+173,Mutton Rogan Josh & Roti,17,3/19/2025,538,Restaurant,Coimbatore,Non-Vegetarian,Lunch,India
+174,Fresh Fruit Assortment,23,3/22/2025,903,Catering Service,Bengaluru,Vegan,Snacks,India
+175,Moong Dal Khichdi,26,3/30/2025,465,Supermarket,Chennai,Vegan,Lunch,India
+176,Steamed Rice & Yellow Dal Tadka,19,3/30/2025,316,Grocery Store,Patna,Vegan,Dinner,India
+177,Garden Green Salad & Sprout Bowl,22,3/22/2025,863,Catering Service,Bengaluru,Vegan,Lunch,India
+178,Rava Upma & Coconut Chutney,47,3/21/2025,847,Catering Service,Pune,Vegan,Snacks,India
+179,Whole Wheat Bread & Jam,11,3/27/2025,601,Supermarket,Mumbai,Vegan,Breakfast,India
+180,Steamed Veggie Bowl with Corn,35,3/28/2025,7,Catering Service,Pune,Vegan,Dinner,India
+181,Paneer Butter Masala & Naan,35,3/16/2025,47,Catering Service,Pune,Vegetarian,Lunch,India
+182,Dal Makhani & Jeera Rice,29,3/18/2025,247,Catering Service,Pune,Vegetarian,Dinner,India
+183,Chole Bhature,15,3/30/2025,730,Restaurant,Lucknow,Vegetarian,Snacks,India
+184,Sambar Rice & Papad,7,3/29/2025,182,Restaurant,Delhi,Vegetarian,Dinner,India
+185,Pav Bhaji,19,3/27/2025,498,Restaurant,Coimbatore,Vegetarian,Dinner,India
+186,Idli Vada & Sambar,48,3/17/2025,306,Restaurant,Kolkata,Vegetarian,Snacks,India
+187,Veg Dum Biryani & Raita,38,3/21/2025,910,Restaurant,Lucknow,Vegetarian,Lunch,India
+188,Masala Dosa & Chutney,4,3/20/2025,55,Catering Service,Surat,Vegetarian,Snacks,India
+189,Chapati & Mix Veg Curry,7,3/20/2025,948,Grocery Store,Ahmedabad,Vegetarian,Lunch,India
+190,Aloo Paratha & Fresh Curd,25,3/22/2025,262,Restaurant,Delhi,Vegetarian,Snacks,India
+191,Dhokla & Khandvi Platter,13,3/22/2025,508,Grocery Store,Ahmedabad,Vegetarian,Breakfast,India
+192,Rajma Chawal,5,3/17/2025,320,Grocery Store,Vadodara,Vegetarian,Dinner,India
+193,Kadhai Paneer & Rotis,25,3/21/2025,354,Restaurant,Kochi,Vegetarian,Lunch,India
+194,Poha & Jalebi,39,3/26/2025,31,Catering Service,Chandigarh,Vegetarian,Snacks,India
+195,Vegetable Pulao & Raita,31,3/25/2025,847,Catering Service,Pune,Vegetarian,Lunch,India
+196,Chicken Biryani,27,3/28/2025,989,Supermarket,Jaipur,Non-Vegetarian,Dinner,India
+197,Egg Curry & Steamed Rice,21,3/24/2025,453,Supermarket,Bhopal,Non-Vegetarian,Lunch,India
+198,Butter Chicken & Naan,50,3/23/2025,287,Catering Service,Pune,Non-Vegetarian,Dinner,India
+199,Fish Curry & Rice,16,3/17/2025,244,Grocery Store,Hyderabad,Non-Vegetarian,Lunch,India
+200,Chicken Kathi Roll,3,3/24/2025,794,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+201,Egg Bhurji & Pav,35,3/29/2025,330,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+202,Chicken Fried Rice,17,3/18/2025,319,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+203,Mutton Rogan Josh & Roti,8,3/24/2025,215,Catering Service,Surat,Non-Vegetarian,Lunch,India
+204,Fresh Fruit Assortment,11,3/26/2025,896,Grocery Store,Patna,Vegan,Snacks,India
+205,Moong Dal Khichdi,13,3/20/2025,22,Restaurant,Delhi,Vegan,Lunch,India
+206,Steamed Rice & Yellow Dal Tadka,28,3/29/2025,931,Catering Service,Chandigarh,Vegan,Dinner,India
+207,Garden Green Salad & Sprout Bowl,42,3/23/2025,523,Catering Service,Bengaluru,Vegan,Lunch,India
+208,Rava Upma & Coconut Chutney,27,3/26/2025,215,Catering Service,Surat,Vegan,Snacks,India
+209,Whole Wheat Bread & Jam,31,3/26/2025,422,Restaurant,Delhi,Vegan,Breakfast,India
+210,Steamed Veggie Bowl with Corn,17,3/28/2025,990,Restaurant,Lucknow,Vegan,Dinner,India
+211,Paneer Butter Masala & Naan,37,3/22/2025,242,Restaurant,Delhi,Vegetarian,Lunch,India
+212,Dal Makhani & Jeera Rice,33,3/20/2025,228,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+213,Chole Bhature,20,3/26/2025,122,Restaurant,Delhi,Vegetarian,Snacks,India
+214,Sambar Rice & Papad,9,3/28/2025,24,Grocery Store,Hyderabad,Vegetarian,Dinner,India
+215,Pav Bhaji,50,3/30/2025,315,Catering Service,Surat,Vegetarian,Dinner,India
+216,Idli Vada & Sambar,33,3/16/2025,206,Restaurant,Kolkata,Vegetarian,Snacks,India
+217,Veg Dum Biryani & Raita,42,3/23/2025,290,Restaurant,Lucknow,Vegetarian,Lunch,India
+218,Masala Dosa & Chutney,38,3/24/2025,159,Catering Service,Visakhapatnam,Vegetarian,Snacks,India
+219,Chapati & Mix Veg Curry,26,3/18/2025,323,Catering Service,Bengaluru,Vegetarian,Lunch,India
+220,Aloo Paratha & Fresh Curd,18,3/24/2025,976,Grocery Store,Patna,Vegetarian,Snacks,India
+221,Dhokla & Khandvi Platter,11,3/19/2025,211,Catering Service,Chandigarh,Vegetarian,Breakfast,India
+222,Rajma Chawal,23,3/20/2025,333,Supermarket,Bhopal,Vegetarian,Dinner,India
+223,Kadhai Paneer & Rotis,38,3/17/2025,524,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+224,Poha & Jalebi,29,3/19/2025,556,Grocery Store,Patna,Vegetarian,Snacks,India
+225,Vegetable Pulao & Raita,26,3/24/2025,340,Grocery Store,Vadodara,Vegetarian,Lunch,India
+226,Chicken Biryani,26,3/22/2025,242,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+227,Egg Curry & Steamed Rice,25,3/29/2025,923,Catering Service,Bengaluru,Non-Vegetarian,Lunch,India
+228,Butter Chicken & Naan,12,3/29/2025,98,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+229,Fish Curry & Rice,26,3/22/2025,210,Restaurant,Lucknow,Non-Vegetarian,Lunch,India
+230,Chicken Kathi Roll,17,3/16/2025,596,Grocery Store,Patna,Non-Vegetarian,Dinner,India
+231,Egg Bhurji & Pav,33,3/29/2025,782,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+232,Chicken Fried Rice,19,3/28/2025,610,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+233,Mutton Rogan Josh & Roti,19,3/26/2025,26,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+234,Fresh Fruit Assortment,10,3/16/2025,888,Grocery Store,Ahmedabad,Vegan,Snacks,India
+235,Moong Dal Khichdi,38,3/21/2025,170,Restaurant,Lucknow,Vegan,Lunch,India
+236,Steamed Rice & Yellow Dal Tadka,50,3/21/2025,231,Catering Service,Chandigarh,Vegan,Dinner,India
+237,Garden Green Salad & Sprout Bowl,39,3/27/2025,643,Catering Service,Bengaluru,Vegan,Lunch,India
+238,Rava Upma & Coconut Chutney,2,3/27/2025,621,Supermarket,Mumbai,Vegan,Snacks,India
+239,Whole Wheat Bread & Jam,26,3/17/2025,372,Grocery Store,Indore,Vegan,Breakfast,India
+240,Steamed Veggie Bowl with Corn,46,3/26/2025,319,Catering Service,Visakhapatnam,Vegan,Dinner,India
+241,Paneer Butter Masala & Naan,4,3/23/2025,135,Catering Service,Surat,Vegetarian,Lunch,India
+242,Dal Makhani & Jeera Rice,17,3/21/2025,655,Catering Service,Surat,Vegetarian,Dinner,India
+243,Chole Bhature,30,3/24/2025,750,Restaurant,Lucknow,Vegetarian,Snacks,India
+244,Sambar Rice & Papad,17,3/26/2025,46,Restaurant,Kolkata,Vegetarian,Dinner,India
+245,Pav Bhaji,5,3/16/2025,48,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+246,Idli Vada & Sambar,50,3/28/2025,768,Grocery Store,Ahmedabad,Vegetarian,Snacks,India
+247,Veg Dum Biryani & Raita,17,3/30/2025,47,Catering Service,Pune,Vegetarian,Lunch,India
+248,Masala Dosa & Chutney,32,3/21/2025,960,Grocery Store,Vadodara,Vegetarian,Snacks,India
+249,Chapati & Mix Veg Curry,39,3/28/2025,596,Grocery Store,Patna,Vegetarian,Lunch,India
+250,Aloo Paratha & Fresh Curd,8,3/16/2025,316,Grocery Store,Patna,Vegetarian,Snacks,India
+251,Dhokla & Khandvi Platter,12,3/24/2025,241,Supermarket,Mumbai,Vegetarian,Breakfast,India
+252,Rajma Chawal,18,3/19/2025,113,Supermarket,Bhopal,Vegetarian,Dinner,India
+253,Kadhai Paneer & Rotis,20,3/19/2025,231,Catering Service,Chandigarh,Vegetarian,Lunch,India
+254,Poha & Jalebi,30,3/24/2025,703,Catering Service,Bengaluru,Vegetarian,Snacks,India
+255,Vegetable Pulao & Raita,44,3/24/2025,825,Supermarket,Chennai,Vegetarian,Lunch,India
+256,Chicken Biryani,33,3/28/2025,384,Grocery Store,Hyderabad,Non-Vegetarian,Dinner,India
+257,Egg Curry & Steamed Rice,41,3/25/2025,344,Grocery Store,Hyderabad,Non-Vegetarian,Lunch,India
+258,Butter Chicken & Naan,24,3/21/2025,101,Supermarket,Mumbai,Non-Vegetarian,Dinner,India
+259,Fish Curry & Rice,44,3/27/2025,815,Catering Service,Surat,Non-Vegetarian,Lunch,India
+260,Chicken Kathi Roll,50,3/29/2025,723,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+261,Egg Bhurji & Pav,15,3/21/2025,112,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+262,Chicken Fried Rice,47,3/30/2025,693,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+263,Mutton Rogan Josh & Roti,21,3/30/2025,408,Grocery Store,Ahmedabad,Non-Vegetarian,Lunch,India
+264,Fresh Fruit Assortment,49,3/24/2025,484,Grocery Store,Hyderabad,Vegan,Snacks,India
+265,Moong Dal Khichdi,32,3/26/2025,862,Restaurant,Delhi,Vegan,Lunch,India
+266,Steamed Rice & Yellow Dal Tadka,30,3/23/2025,589,Supermarket,Jaipur,Vegan,Dinner,India
+267,Garden Green Salad & Sprout Bowl,6,3/30/2025,107,Catering Service,Pune,Vegan,Lunch,India
+268,Rava Upma & Coconut Chutney,21,3/29/2025,485,Supermarket,Chennai,Vegan,Snacks,India
+269,Whole Wheat Bread & Jam,36,3/28/2025,595,Catering Service,Surat,Vegan,Breakfast,India
+270,Steamed Veggie Bowl with Corn,29,3/29/2025,201,Supermarket,Mumbai,Vegan,Dinner,India
+271,Paneer Butter Masala & Naan,22,3/17/2025,254,Restaurant,Kochi,Vegetarian,Lunch,India
+272,Dal Makhani & Jeera Rice,30,3/25/2025,151,Catering Service,Chandigarh,Vegetarian,Dinner,India
+273,Chole Bhature,32,3/16/2025,446,Restaurant,Kolkata,Vegetarian,Snacks,India
+274,Sambar Rice & Papad,37,3/29/2025,768,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+275,Pav Bhaji,35,3/24/2025,657,Supermarket,Nagpur,Vegetarian,Dinner,India
+276,Idli Vada & Sambar,47,3/29/2025,839,Catering Service,Visakhapatnam,Vegetarian,Snacks,India
+277,Veg Dum Biryani & Raita,30,3/22/2025,244,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+278,Masala Dosa & Chutney,35,3/24/2025,66,Restaurant,Kolkata,Vegetarian,Snacks,India
+279,Chapati & Mix Veg Curry,3,3/25/2025,326,Restaurant,Kolkata,Vegetarian,Lunch,India
+280,Aloo Paratha & Fresh Curd,44,3/27/2025,393,Supermarket,Bhopal,Vegetarian,Snacks,India
+281,Dhokla & Khandvi Platter,28,3/23/2025,356,Grocery Store,Patna,Vegetarian,Breakfast,India
+282,Rajma Chawal,27,3/25/2025,640,Grocery Store,Vadodara,Vegetarian,Dinner,India
+283,Kadhai Paneer & Rotis,7,3/30/2025,312,Grocery Store,Indore,Vegetarian,Lunch,India
+284,Poha & Jalebi,36,3/27/2025,161,Supermarket,Mumbai,Vegetarian,Snacks,India
+285,Vegetable Pulao & Raita,44,3/19/2025,353,Supermarket,Bhopal,Vegetarian,Lunch,India
+286,Chicken Biryani,37,3/26/2025,43,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+287,Egg Curry & Steamed Rice,20,3/17/2025,882,Restaurant,Delhi,Non-Vegetarian,Lunch,India
+288,Butter Chicken & Naan,48,3/22/2025,703,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+289,Fish Curry & Rice,31,3/17/2025,237,Supermarket,Nagpur,Non-Vegetarian,Lunch,India
+290,Chicken Kathi Roll,19,3/19/2025,315,Catering Service,Surat,Non-Vegetarian,Dinner,India
+291,Egg Bhurji & Pav,12,3/19/2025,785,Supermarket,Chennai,Non-Vegetarian,Dinner,India
+292,Chicken Fried Rice,16,3/17/2025,906,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+293,Mutton Rogan Josh & Roti,32,3/27/2025,276,Grocery Store,Patna,Non-Vegetarian,Lunch,India
+294,Fresh Fruit Assortment,40,3/19/2025,113,Supermarket,Bhopal,Vegan,Snacks,India
+295,Moong Dal Khichdi,39,3/17/2025,344,Grocery Store,Hyderabad,Vegan,Lunch,India
+296,Steamed Rice & Yellow Dal Tadka,24,3/19/2025,655,Catering Service,Surat,Vegan,Dinner,India
+297,Garden Green Salad & Sprout Bowl,46,3/19/2025,409,Supermarket,Jaipur,Vegan,Lunch,India
+298,Rava Upma & Coconut Chutney,2,3/22/2025,883,Catering Service,Bengaluru,Vegan,Snacks,India
+299,Whole Wheat Bread & Jam,14,3/21/2025,718,Restaurant,Coimbatore,Vegan,Breakfast,India
+300,Steamed Veggie Bowl with Corn,16,3/17/2025,459,Catering Service,Visakhapatnam,Vegan,Dinner,India
+301,Paneer Butter Masala & Naan,35,3/24/2025,886,Restaurant,Kolkata,Vegetarian,Lunch,India
+302,Dal Makhani & Jeera Rice,31,3/23/2025,760,Grocery Store,Vadodara,Vegetarian,Dinner,India
+303,Chole Bhature,2,3/18/2025,945,Supermarket,Chennai,Vegetarian,Snacks,India
+304,Sambar Rice & Papad,5,3/19/2025,639,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+305,Pav Bhaji,14,3/30/2025,38,Restaurant,Coimbatore,Vegetarian,Dinner,India
+306,Idli Vada & Sambar,27,3/22/2025,284,Grocery Store,Hyderabad,Vegetarian,Snacks,India
+307,Veg Dum Biryani & Raita,20,3/20/2025,384,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+308,Masala Dosa & Chutney,11,3/29/2025,973,Supermarket,Bhopal,Vegetarian,Snacks,India
+309,Chapati & Mix Veg Curry,47,3/27/2025,1000,Grocery Store,Vadodara,Vegetarian,Lunch,India
+310,Aloo Paratha & Fresh Curd,13,3/20/2025,528,Grocery Store,Ahmedabad,Vegetarian,Snacks,India
+311,Dhokla & Khandvi Platter,3,3/18/2025,740,Grocery Store,Vadodara,Vegetarian,Breakfast,India
+312,Rajma Chawal,11,3/26/2025,238,Restaurant,Coimbatore,Vegetarian,Dinner,India
+313,Kadhai Paneer & Rotis,3,3/26/2025,551,Catering Service,Chandigarh,Vegetarian,Lunch,India
+314,Poha & Jalebi,27,3/23/2025,387,Catering Service,Pune,Vegetarian,Snacks,India
+315,Vegetable Pulao & Raita,47,3/18/2025,761,Supermarket,Mumbai,Vegetarian,Lunch,India
+316,Chicken Biryani,4,3/28/2025,494,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+317,Egg Curry & Steamed Rice,22,3/21/2025,866,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+318,Butter Chicken & Naan,48,3/25/2025,946,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+319,Fish Curry & Rice,47,3/30/2025,63,Catering Service,Bengaluru,Non-Vegetarian,Lunch,India
+320,Chicken Kathi Roll,26,3/20/2025,484,Grocery Store,Hyderabad,Non-Vegetarian,Dinner,India
+321,Egg Bhurji & Pav,20,3/18/2025,572,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+322,Chicken Fried Rice,12,3/26/2025,575,Catering Service,Surat,Non-Vegetarian,Dinner,India
+323,Mutton Rogan Josh & Roti,31,3/27/2025,4,Grocery Store,Hyderabad,Non-Vegetarian,Lunch,India
+324,Fresh Fruit Assortment,39,3/24/2025,346,Restaurant,Kolkata,Vegan,Snacks,India
+325,Moong Dal Khichdi,32,3/25/2025,365,Supermarket,Chennai,Vegan,Lunch,India
+326,Steamed Rice & Yellow Dal Tadka,25,3/29/2025,407,Catering Service,Pune,Vegan,Dinner,India
+327,Garden Green Salad & Sprout Bowl,24,3/22/2025,834,Restaurant,Kochi,Vegan,Lunch,India
+328,Rava Upma & Coconut Chutney,36,3/19/2025,876,Grocery Store,Patna,Vegan,Snacks,India
+329,Whole Wheat Bread & Jam,42,3/17/2025,716,Grocery Store,Patna,Vegan,Breakfast,India
+330,Steamed Veggie Bowl with Corn,49,3/19/2025,407,Catering Service,Pune,Vegan,Dinner,India
+331,Paneer Butter Masala & Naan,8,3/22/2025,480,Grocery Store,Vadodara,Vegetarian,Lunch,India
+332,Dal Makhani & Jeera Rice,12,3/21/2025,616,Grocery Store,Patna,Vegetarian,Dinner,India
+333,Chole Bhature,41,3/20/2025,139,Catering Service,Visakhapatnam,Vegetarian,Snacks,India
+334,Sambar Rice & Papad,17,3/19/2025,126,Restaurant,Kolkata,Vegetarian,Dinner,India
+335,Pav Bhaji,38,3/20/2025,664,Grocery Store,Hyderabad,Vegetarian,Dinner,India
+336,Idli Vada & Sambar,36,3/23/2025,101,Supermarket,Mumbai,Vegetarian,Snacks,India
+337,Veg Dum Biryani & Raita,5,3/24/2025,301,Supermarket,Mumbai,Vegetarian,Lunch,India
+338,Masala Dosa & Chutney,7,3/19/2025,735,Catering Service,Surat,Vegetarian,Snacks,India
+339,Chapati & Mix Veg Curry,40,3/29/2025,512,Grocery Store,Indore,Vegetarian,Lunch,India
+340,Aloo Paratha & Fresh Curd,3,3/24/2025,634,Restaurant,Kochi,Vegetarian,Snacks,India
+341,Dhokla & Khandvi Platter,48,3/30/2025,908,Grocery Store,Ahmedabad,Vegetarian,Breakfast,India
+342,Rajma Chawal,5,3/27/2025,766,Restaurant,Kolkata,Vegetarian,Dinner,India
+343,Kadhai Paneer & Rotis,40,3/27/2025,563,Catering Service,Bengaluru,Vegetarian,Lunch,India
+344,Poha & Jalebi,44,3/23/2025,678,Restaurant,Coimbatore,Vegetarian,Snacks,India
+345,Vegetable Pulao & Raita,14,3/20/2025,346,Restaurant,Kolkata,Vegetarian,Lunch,India
+346,Chicken Biryani,16,3/28/2025,2,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+347,Egg Curry & Steamed Rice,45,3/24/2025,567,Catering Service,Pune,Non-Vegetarian,Lunch,India
+348,Butter Chicken & Naan,21,3/27/2025,107,Catering Service,Pune,Non-Vegetarian,Dinner,India
+349,Fish Curry & Rice,33,3/18/2025,766,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+350,Chicken Kathi Roll,8,3/21/2025,828,Grocery Store,Ahmedabad,Non-Vegetarian,Dinner,India
+351,Egg Bhurji & Pav,45,3/25/2025,678,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+352,Chicken Fried Rice,31,3/28/2025,692,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+353,Mutton Rogan Josh & Roti,5,3/29/2025,418,Restaurant,Coimbatore,Non-Vegetarian,Lunch,India
+354,Fresh Fruit Assortment,3,3/24/2025,380,Grocery Store,Vadodara,Vegan,Snacks,India
+355,Moong Dal Khichdi,10,3/22/2025,662,Restaurant,Delhi,Vegan,Lunch,India
+356,Steamed Rice & Yellow Dal Tadka,27,3/20/2025,71,Catering Service,Chandigarh,Vegan,Dinner,India
+357,Garden Green Salad & Sprout Bowl,1,3/23/2025,939,Catering Service,Visakhapatnam,Vegan,Lunch,India
+358,Rava Upma & Coconut Chutney,41,3/21/2025,810,Restaurant,Lucknow,Vegan,Snacks,India
+359,Whole Wheat Bread & Jam,6,3/23/2025,811,Catering Service,Chandigarh,Vegan,Breakfast,India
+360,Steamed Veggie Bowl with Corn,12,3/18/2025,22,Restaurant,Delhi,Vegan,Dinner,India
+361,Paneer Butter Masala & Naan,17,3/16/2025,391,Catering Service,Chandigarh,Vegetarian,Lunch,India
+362,Dal Makhani & Jeera Rice,29,3/27/2025,785,Supermarket,Chennai,Vegetarian,Dinner,India
+363,Chole Bhature,24,3/23/2025,770,Restaurant,Lucknow,Vegetarian,Snacks,India
+364,Sambar Rice & Papad,33,3/22/2025,540,Grocery Store,Vadodara,Vegetarian,Dinner,India
+365,Pav Bhaji,48,3/27/2025,71,Catering Service,Chandigarh,Vegetarian,Dinner,India
+366,Idli Vada & Sambar,25,3/24/2025,331,Catering Service,Chandigarh,Vegetarian,Snacks,India
+367,Veg Dum Biryani & Raita,38,3/29/2025,610,Restaurant,Lucknow,Vegetarian,Lunch,India
+368,Masala Dosa & Chutney,1,3/16/2025,826,Restaurant,Kolkata,Vegetarian,Snacks,India
+369,Chapati & Mix Veg Curry,23,3/16/2025,523,Catering Service,Bengaluru,Vegetarian,Lunch,India
+370,Aloo Paratha & Fresh Curd,35,3/16/2025,783,Catering Service,Bengaluru,Vegetarian,Snacks,India
+371,Dhokla & Khandvi Platter,34,3/21/2025,154,Restaurant,Kochi,Vegetarian,Breakfast,India
+372,Rajma Chawal,11,3/25/2025,138,Restaurant,Coimbatore,Vegetarian,Dinner,India
+373,Kadhai Paneer & Rotis,39,3/21/2025,252,Grocery Store,Indore,Vegetarian,Lunch,India
+374,Poha & Jalebi,44,3/21/2025,709,Supermarket,Jaipur,Vegetarian,Snacks,India
+375,Vegetable Pulao & Raita,15,3/28/2025,569,Supermarket,Jaipur,Vegetarian,Lunch,India
+376,Chicken Biryani,47,3/25/2025,41,Supermarket,Mumbai,Non-Vegetarian,Dinner,India
+377,Egg Curry & Steamed Rice,22,3/25/2025,737,Supermarket,Nagpur,Non-Vegetarian,Lunch,India
+378,Butter Chicken & Naan,39,3/19/2025,834,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+379,Fish Curry & Rice,14,3/18/2025,312,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+380,Chicken Kathi Roll,26,3/22/2025,985,Supermarket,Chennai,Non-Vegetarian,Dinner,India
+381,Egg Bhurji & Pav,35,3/18/2025,86,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+382,Chicken Fried Rice,42,3/20/2025,208,Grocery Store,Ahmedabad,Non-Vegetarian,Dinner,India
+383,Mutton Rogan Josh & Roti,48,3/19/2025,783,Catering Service,Bengaluru,Non-Vegetarian,Lunch,India
+384,Fresh Fruit Assortment,14,3/26/2025,614,Restaurant,Kochi,Vegan,Snacks,India
+385,Moong Dal Khichdi,7,3/25/2025,885,Supermarket,Chennai,Vegan,Lunch,India
+386,Steamed Rice & Yellow Dal Tadka,30,3/22/2025,697,Supermarket,Nagpur,Vegan,Dinner,India
+387,Garden Green Salad & Sprout Bowl,31,3/24/2025,958,Restaurant,Coimbatore,Vegan,Lunch,India
+388,Rava Upma & Coconut Chutney,41,3/25/2025,858,Restaurant,Coimbatore,Vegan,Snacks,India
+389,Whole Wheat Bread & Jam,30,3/18/2025,707,Catering Service,Pune,Vegan,Breakfast,India
+390,Steamed Veggie Bowl with Corn,19,3/27/2025,264,Grocery Store,Hyderabad,Vegan,Dinner,India
+391,Paneer Butter Masala & Naan,40,3/25/2025,321,Supermarket,Mumbai,Vegetarian,Lunch,India
+392,Dal Makhani & Jeera Rice,34,3/19/2025,599,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+393,Chole Bhature,50,3/28/2025,404,Grocery Store,Hyderabad,Vegetarian,Snacks,India
+394,Sambar Rice & Papad,30,3/21/2025,485,Supermarket,Chennai,Vegetarian,Dinner,India
+395,Pav Bhaji,36,3/28/2025,717,Supermarket,Nagpur,Vegetarian,Dinner,India
+396,Idli Vada & Sambar,5,3/17/2025,726,Restaurant,Kolkata,Vegetarian,Snacks,India
+397,Veg Dum Biryani & Raita,14,3/21/2025,987,Catering Service,Pune,Vegetarian,Lunch,India
+398,Masala Dosa & Chutney,27,3/20/2025,802,Restaurant,Delhi,Vegetarian,Snacks,India
+399,Chapati & Mix Veg Curry,16,3/29/2025,593,Supermarket,Bhopal,Vegetarian,Lunch,India
+400,Aloo Paratha & Fresh Curd,42,3/29/2025,897,Supermarket,Nagpur,Vegetarian,Snacks,India
+401,Dhokla & Khandvi Platter,42,3/18/2025,582,Restaurant,Delhi,Vegetarian,Breakfast,India
+402,Rajma Chawal,11,3/29/2025,429,Supermarket,Jaipur,Vegetarian,Dinner,India
+403,Kadhai Paneer & Rotis,25,3/28/2025,133,Supermarket,Bhopal,Vegetarian,Lunch,India
+404,Poha & Jalebi,10,3/18/2025,691,Catering Service,Chandigarh,Vegetarian,Snacks,India
+405,Vegetable Pulao & Raita,16,3/20/2025,241,Supermarket,Mumbai,Vegetarian,Lunch,India
+406,Chicken Biryani,28,3/22/2025,222,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+407,Egg Curry & Steamed Rice,32,3/20/2025,912,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+408,Butter Chicken & Naan,42,3/24/2025,391,Catering Service,Chandigarh,Non-Vegetarian,Dinner,India
+409,Fish Curry & Rice,46,3/24/2025,898,Restaurant,Coimbatore,Non-Vegetarian,Lunch,India
+410,Chicken Kathi Roll,21,3/19/2025,273,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+411,Egg Bhurji & Pav,39,3/30/2025,419,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+412,Chicken Fried Rice,10,3/28/2025,999,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+413,Mutton Rogan Josh & Roti,31,3/24/2025,315,Catering Service,Surat,Non-Vegetarian,Lunch,India
+414,Fresh Fruit Assortment,7,3/21/2025,353,Supermarket,Bhopal,Vegan,Snacks,India
+415,Moong Dal Khichdi,18,3/23/2025,537,Supermarket,Nagpur,Vegan,Lunch,India
+416,Steamed Rice & Yellow Dal Tadka,49,3/26/2025,888,Grocery Store,Ahmedabad,Vegan,Dinner,India
+417,Garden Green Salad & Sprout Bowl,49,3/19/2025,196,Grocery Store,Patna,Vegan,Lunch,India
+418,Rava Upma & Coconut Chutney,19,3/30/2025,685,Supermarket,Chennai,Vegan,Snacks,India
+419,Whole Wheat Bread & Jam,26,3/19/2025,585,Supermarket,Chennai,Vegan,Breakfast,India
+420,Steamed Veggie Bowl with Corn,13,3/26/2025,386,Restaurant,Kolkata,Vegan,Dinner,India
+421,Paneer Butter Masala & Naan,24,3/17/2025,676,Grocery Store,Patna,Vegetarian,Lunch,India
+422,Dal Makhani & Jeera Rice,2,3/20/2025,550,Restaurant,Lucknow,Vegetarian,Dinner,India
+423,Chole Bhature,6,3/30/2025,926,Restaurant,Kolkata,Vegetarian,Snacks,India
+424,Sambar Rice & Papad,41,3/27/2025,910,Restaurant,Lucknow,Vegetarian,Dinner,India
+425,Pav Bhaji,19,3/24/2025,4,Grocery Store,Hyderabad,Vegetarian,Dinner,India
+426,Idli Vada & Sambar,6,3/22/2025,461,Supermarket,Mumbai,Vegetarian,Snacks,India
+427,Veg Dum Biryani & Raita,34,3/18/2025,338,Restaurant,Coimbatore,Vegetarian,Lunch,India
+428,Masala Dosa & Chutney,35,3/16/2025,242,Restaurant,Delhi,Vegetarian,Snacks,India
+429,Chapati & Mix Veg Curry,34,3/17/2025,178,Restaurant,Coimbatore,Vegetarian,Lunch,India
+430,Aloo Paratha & Fresh Curd,33,3/28/2025,853,Supermarket,Bhopal,Vegetarian,Snacks,India
+431,Dhokla & Khandvi Platter,21,3/20/2025,144,Grocery Store,Hyderabad,Vegetarian,Breakfast,India
+432,Rajma Chawal,34,3/17/2025,979,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+433,Kadhai Paneer & Rotis,50,3/18/2025,892,Grocery Store,Indore,Vegetarian,Lunch,India
+434,Poha & Jalebi,20,3/23/2025,460,Grocery Store,Vadodara,Vegetarian,Snacks,India
+435,Vegetable Pulao & Raita,26,3/30/2025,373,Supermarket,Bhopal,Vegetarian,Lunch,India
+436,Chicken Biryani,6,3/26/2025,126,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+437,Egg Curry & Steamed Rice,29,3/16/2025,345,Supermarket,Chennai,Non-Vegetarian,Lunch,India
+438,Butter Chicken & Naan,46,3/20/2025,84,Grocery Store,Hyderabad,Non-Vegetarian,Dinner,India
+439,Fish Curry & Rice,41,3/16/2025,986,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+440,Chicken Kathi Roll,34,3/21/2025,499,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+441,Egg Bhurji & Pav,2,3/18/2025,919,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+442,Chicken Fried Rice,20,3/18/2025,905,Supermarket,Chennai,Non-Vegetarian,Dinner,India
+443,Mutton Rogan Josh & Roti,34,3/22/2025,671,Catering Service,Chandigarh,Non-Vegetarian,Lunch,India
+444,Fresh Fruit Assortment,27,3/27/2025,117,Supermarket,Nagpur,Vegan,Snacks,India
+445,Moong Dal Khichdi,13,3/18/2025,995,Catering Service,Surat,Vegan,Lunch,India
+446,Steamed Rice & Yellow Dal Tadka,9,3/24/2025,39,Catering Service,Visakhapatnam,Vegan,Dinner,India
+447,Garden Green Salad & Sprout Bowl,21,3/26/2025,736,Grocery Store,Patna,Vegan,Lunch,India
+448,Rava Upma & Coconut Chutney,25,3/23/2025,221,Supermarket,Mumbai,Vegan,Snacks,India
+449,Whole Wheat Bread & Jam,21,3/17/2025,655,Catering Service,Surat,Vegan,Breakfast,India
+450,Steamed Veggie Bowl with Corn,9,3/23/2025,368,Grocery Store,Ahmedabad,Vegan,Dinner,India
+451,Paneer Butter Masala & Naan,14,3/18/2025,713,Supermarket,Bhopal,Vegetarian,Lunch,India
+452,Dal Makhani & Jeera Rice,47,3/23/2025,871,Catering Service,Chandigarh,Vegetarian,Dinner,India
+453,Chole Bhature,21,3/21/2025,664,Grocery Store,Hyderabad,Vegetarian,Snacks,India
+454,Sambar Rice & Papad,4,3/22/2025,189,Supermarket,Jaipur,Vegetarian,Dinner,India
+455,Pav Bhaji,17,3/27/2025,630,Restaurant,Lucknow,Vegetarian,Dinner,India
+456,Idli Vada & Sambar,16,3/19/2025,144,Grocery Store,Hyderabad,Vegetarian,Snacks,India
+457,Veg Dum Biryani & Raita,30,3/25/2025,347,Catering Service,Pune,Vegetarian,Lunch,India
+458,Masala Dosa & Chutney,16,3/23/2025,210,Restaurant,Lucknow,Vegetarian,Snacks,India
+459,Chapati & Mix Veg Curry,2,3/22/2025,213,Supermarket,Bhopal,Vegetarian,Lunch,India
+460,Aloo Paratha & Fresh Curd,45,3/17/2025,202,Restaurant,Delhi,Vegetarian,Snacks,India
+461,Dhokla & Khandvi Platter,10,3/19/2025,511,Catering Service,Chandigarh,Vegetarian,Breakfast,India
+462,Rajma Chawal,22,3/23/2025,85,Supermarket,Chennai,Vegetarian,Dinner,India
+463,Kadhai Paneer & Rotis,36,3/17/2025,384,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+464,Poha & Jalebi,27,3/20/2025,201,Supermarket,Mumbai,Vegetarian,Snacks,India
+465,Vegetable Pulao & Raita,32,3/19/2025,532,Grocery Store,Indore,Vegetarian,Lunch,India
+466,Chicken Biryani,6,3/30/2025,729,Supermarket,Jaipur,Non-Vegetarian,Dinner,India
+467,Egg Curry & Steamed Rice,7,3/28/2025,337,Supermarket,Nagpur,Non-Vegetarian,Lunch,India
+468,Butter Chicken & Naan,1,3/27/2025,258,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+469,Fish Curry & Rice,7,3/30/2025,388,Grocery Store,Ahmedabad,Non-Vegetarian,Lunch,India
+470,Chicken Kathi Roll,38,3/17/2025,435,Catering Service,Surat,Non-Vegetarian,Dinner,India
+471,Egg Bhurji & Pav,15,3/30/2025,637,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+472,Chicken Fried Rice,21,3/20/2025,340,Grocery Store,Vadodara,Non-Vegetarian,Dinner,India
+473,Mutton Rogan Josh & Roti,19,3/30/2025,528,Grocery Store,Ahmedabad,Non-Vegetarian,Lunch,India
+474,Fresh Fruit Assortment,5,3/22/2025,215,Catering Service,Surat,Vegan,Snacks,India
+475,Moong Dal Khichdi,13,3/26/2025,357,Supermarket,Nagpur,Vegan,Lunch,India
+476,Steamed Rice & Yellow Dal Tadka,2,3/28/2025,993,Supermarket,Bhopal,Vegan,Dinner,India
+477,Garden Green Salad & Sprout Bowl,40,3/18/2025,262,Restaurant,Delhi,Vegan,Lunch,India
+478,Rava Upma & Coconut Chutney,43,3/17/2025,928,Grocery Store,Ahmedabad,Vegan,Snacks,India
+479,Whole Wheat Bread & Jam,2,3/18/2025,786,Restaurant,Kolkata,Vegan,Breakfast,India
+480,Steamed Veggie Bowl with Corn,25,3/24/2025,517,Supermarket,Nagpur,Vegan,Dinner,India
+481,Paneer Butter Masala & Naan,16,3/19/2025,705,Supermarket,Chennai,Vegetarian,Lunch,India
+482,Dal Makhani & Jeera Rice,32,3/27/2025,912,Grocery Store,Indore,Vegetarian,Dinner,India
+483,Chole Bhature,36,3/29/2025,933,Supermarket,Bhopal,Vegetarian,Snacks,India
+484,Sambar Rice & Papad,15,3/22/2025,133,Supermarket,Bhopal,Vegetarian,Dinner,India
+485,Pav Bhaji,50,3/18/2025,185,Supermarket,Chennai,Vegetarian,Dinner,India
+486,Idli Vada & Sambar,9,3/25/2025,550,Restaurant,Lucknow,Vegetarian,Snacks,India
+487,Veg Dum Biryani & Raita,43,3/18/2025,499,Catering Service,Visakhapatnam,Vegetarian,Lunch,India
+488,Masala Dosa & Chutney,22,3/19/2025,527,Catering Service,Pune,Vegetarian,Snacks,India
+489,Chapati & Mix Veg Curry,39,3/25/2025,705,Supermarket,Chennai,Vegetarian,Lunch,India
+490,Aloo Paratha & Fresh Curd,3,3/24/2025,563,Catering Service,Bengaluru,Vegetarian,Snacks,India
+491,Dhokla & Khandvi Platter,23,3/25/2025,139,Catering Service,Visakhapatnam,Vegetarian,Breakfast,India
+492,Rajma Chawal,30,3/28/2025,295,Catering Service,Surat,Vegetarian,Dinner,India
+493,Kadhai Paneer & Rotis,26,3/30/2025,102,Restaurant,Delhi,Vegetarian,Lunch,India
+494,Poha & Jalebi,41,3/24/2025,129,Supermarket,Jaipur,Vegetarian,Snacks,India
+495,Vegetable Pulao & Raita,34,3/22/2025,494,Restaurant,Kochi,Vegetarian,Lunch,India
+496,Chicken Biryani,22,3/28/2025,552,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+497,Egg Curry & Steamed Rice,48,3/27/2025,709,Supermarket,Jaipur,Non-Vegetarian,Lunch,India
+498,Butter Chicken & Naan,28,3/16/2025,507,Catering Service,Pune,Non-Vegetarian,Dinner,India
+499,Fish Curry & Rice,6,3/23/2025,154,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+500,Chicken Kathi Roll,14,3/30/2025,230,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+501,Egg Bhurji & Pav,27,3/24/2025,11,Catering Service,Chandigarh,Non-Vegetarian,Dinner,India
+502,Chicken Fried Rice,40,3/19/2025,123,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+503,Mutton Rogan Josh & Roti,40,3/29/2025,861,Supermarket,Mumbai,Non-Vegetarian,Lunch,India
+504,Fresh Fruit Assortment,28,3/30/2025,227,Catering Service,Pune,Vegan,Snacks,India
+505,Moong Dal Khichdi,12,3/22/2025,494,Restaurant,Kochi,Vegan,Lunch,India
+506,Steamed Rice & Yellow Dal Tadka,37,3/29/2025,793,Supermarket,Bhopal,Vegan,Dinner,India
+507,Garden Green Salad & Sprout Bowl,43,3/26/2025,968,Grocery Store,Ahmedabad,Vegan,Lunch,India
+508,Rava Upma & Coconut Chutney,42,3/18/2025,176,Grocery Store,Patna,Vegan,Snacks,India
+509,Whole Wheat Bread & Jam,18,3/17/2025,980,Grocery Store,Vadodara,Vegan,Breakfast,India
+510,Steamed Veggie Bowl with Corn,33,3/28/2025,697,Supermarket,Nagpur,Vegan,Dinner,India
+511,Paneer Butter Masala & Naan,25,3/27/2025,879,Catering Service,Visakhapatnam,Vegetarian,Lunch,India
+512,Dal Makhani & Jeera Rice,20,3/27/2025,911,Catering Service,Chandigarh,Vegetarian,Dinner,India
+513,Chole Bhature,49,3/18/2025,255,Catering Service,Surat,Vegetarian,Snacks,India
+514,Sambar Rice & Papad,20,3/24/2025,880,Grocery Store,Vadodara,Vegetarian,Dinner,India
+515,Pav Bhaji,10,3/27/2025,725,Supermarket,Chennai,Vegetarian,Dinner,India
+516,Idli Vada & Sambar,24,3/23/2025,846,Restaurant,Kolkata,Vegetarian,Snacks,India
+517,Veg Dum Biryani & Raita,4,3/26/2025,45,Supermarket,Chennai,Vegetarian,Lunch,India
+518,Masala Dosa & Chutney,46,3/22/2025,210,Restaurant,Lucknow,Vegetarian,Snacks,India
+519,Chapati & Mix Veg Curry,43,3/26/2025,7,Catering Service,Pune,Vegetarian,Lunch,India
+520,Aloo Paratha & Fresh Curd,23,3/25/2025,559,Catering Service,Visakhapatnam,Vegetarian,Snacks,India
+521,Dhokla & Khandvi Platter,23,3/17/2025,792,Grocery Store,Indore,Vegetarian,Breakfast,India
+522,Rajma Chawal,7,3/22/2025,783,Catering Service,Bengaluru,Vegetarian,Dinner,India
+523,Kadhai Paneer & Rotis,29,3/22/2025,351,Catering Service,Chandigarh,Vegetarian,Lunch,India
+524,Poha & Jalebi,25,3/18/2025,387,Catering Service,Pune,Vegetarian,Snacks,India
+525,Vegetable Pulao & Raita,30,3/16/2025,717,Supermarket,Nagpur,Vegetarian,Lunch,India
+526,Chicken Biryani,11,3/30/2025,883,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+527,Egg Curry & Steamed Rice,3,3/23/2025,674,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+528,Butter Chicken & Naan,6,3/27/2025,677,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+529,Fish Curry & Rice,48,3/17/2025,901,Supermarket,Mumbai,Non-Vegetarian,Lunch,India
+530,Chicken Kathi Roll,32,3/27/2025,583,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+531,Egg Bhurji & Pav,42,3/17/2025,57,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+532,Chicken Fried Rice,50,3/20/2025,550,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+533,Mutton Rogan Josh & Roti,25,3/17/2025,273,Supermarket,Bhopal,Non-Vegetarian,Lunch,India
+534,Fresh Fruit Assortment,34,3/30/2025,223,Catering Service,Bengaluru,Vegan,Snacks,India
+535,Moong Dal Khichdi,24,3/29/2025,668,Grocery Store,Ahmedabad,Vegan,Lunch,India
+536,Steamed Rice & Yellow Dal Tadka,13,3/19/2025,683,Catering Service,Bengaluru,Vegan,Dinner,India
+537,Garden Green Salad & Sprout Bowl,9,3/17/2025,949,Supermarket,Jaipur,Vegan,Lunch,India
+538,Rava Upma & Coconut Chutney,18,3/29/2025,840,Grocery Store,Vadodara,Vegan,Snacks,India
+539,Whole Wheat Bread & Jam,14,3/22/2025,161,Supermarket,Mumbai,Vegan,Breakfast,India
+540,Steamed Veggie Bowl with Corn,33,3/22/2025,31,Catering Service,Chandigarh,Vegan,Dinner,India
+541,Paneer Butter Masala & Naan,12,3/29/2025,549,Supermarket,Jaipur,Vegetarian,Lunch,India
+542,Dal Makhani & Jeera Rice,7,3/26/2025,926,Restaurant,Kolkata,Vegetarian,Dinner,India
+543,Chole Bhature,9,3/26/2025,526,Restaurant,Kolkata,Vegetarian,Snacks,India
+544,Sambar Rice & Papad,36,3/30/2025,551,Catering Service,Chandigarh,Vegetarian,Dinner,India
+545,Pav Bhaji,23,3/29/2025,984,Grocery Store,Hyderabad,Vegetarian,Dinner,India
+546,Idli Vada & Sambar,33,3/24/2025,116,Grocery Store,Patna,Vegetarian,Snacks,India
+547,Veg Dum Biryani & Raita,26,3/23/2025,825,Supermarket,Chennai,Vegetarian,Lunch,India
+548,Masala Dosa & Chutney,26,3/19/2025,714,Restaurant,Kochi,Vegetarian,Snacks,India
+549,Chapati & Mix Veg Curry,34,3/23/2025,631,Catering Service,Chandigarh,Vegetarian,Lunch,India
+550,Aloo Paratha & Fresh Curd,16,3/29/2025,836,Grocery Store,Patna,Vegetarian,Snacks,India
+551,Dhokla & Khandvi Platter,4,3/26/2025,245,Supermarket,Chennai,Vegetarian,Breakfast,India
+552,Rajma Chawal,44,3/21/2025,98,Restaurant,Coimbatore,Vegetarian,Dinner,India
+553,Kadhai Paneer & Rotis,36,3/24/2025,93,Supermarket,Bhopal,Vegetarian,Lunch,India
+554,Poha & Jalebi,31,3/20/2025,754,Restaurant,Kochi,Vegetarian,Snacks,India
+555,Vegetable Pulao & Raita,47,3/20/2025,371,Catering Service,Chandigarh,Vegetarian,Lunch,India
+556,Chicken Biryani,48,3/21/2025,938,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+557,Egg Curry & Steamed Rice,20,3/30/2025,169,Supermarket,Jaipur,Non-Vegetarian,Lunch,India
+558,Butter Chicken & Naan,32,3/20/2025,267,Catering Service,Pune,Non-Vegetarian,Dinner,India
+559,Fish Curry & Rice,18,3/22/2025,814,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+560,Chicken Kathi Roll,41,3/18/2025,850,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+561,Egg Bhurji & Pav,47,3/20/2025,861,Supermarket,Mumbai,Non-Vegetarian,Dinner,India
+562,Chicken Fried Rice,3,3/30/2025,906,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+563,Mutton Rogan Josh & Roti,37,3/19/2025,554,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+564,Fresh Fruit Assortment,29,3/28/2025,518,Restaurant,Coimbatore,Vegan,Snacks,India
+565,Moong Dal Khichdi,36,3/24/2025,41,Supermarket,Mumbai,Vegan,Lunch,India
+566,Steamed Rice & Yellow Dal Tadka,8,3/17/2025,328,Grocery Store,Ahmedabad,Vegan,Dinner,India
+567,Garden Green Salad & Sprout Bowl,3,3/28/2025,234,Restaurant,Kochi,Vegan,Lunch,India
+568,Rava Upma & Coconut Chutney,11,3/29/2025,709,Supermarket,Jaipur,Vegan,Snacks,India
+569,Whole Wheat Bread & Jam,20,3/25/2025,68,Grocery Store,Ahmedabad,Vegan,Breakfast,India
+570,Steamed Veggie Bowl with Corn,8,3/16/2025,659,Catering Service,Visakhapatnam,Vegan,Dinner,India
+571,Paneer Butter Masala & Naan,39,3/18/2025,49,Supermarket,Jaipur,Vegetarian,Lunch,India
+572,Dal Makhani & Jeera Rice,46,3/22/2025,212,Grocery Store,Indore,Vegetarian,Dinner,India
+573,Chole Bhature,40,3/30/2025,111,Catering Service,Chandigarh,Vegetarian,Snacks,India
+574,Sambar Rice & Papad,17,3/29/2025,239,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+575,Pav Bhaji,15,3/18/2025,88,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+576,Idli Vada & Sambar,35,3/24/2025,786,Restaurant,Kolkata,Vegetarian,Snacks,India
+577,Veg Dum Biryani & Raita,30,3/29/2025,161,Supermarket,Mumbai,Vegetarian,Lunch,India
+578,Masala Dosa & Chutney,27,3/29/2025,285,Supermarket,Chennai,Vegetarian,Snacks,India
+579,Chapati & Mix Veg Curry,44,3/24/2025,885,Supermarket,Chennai,Vegetarian,Lunch,India
+580,Aloo Paratha & Fresh Curd,21,3/24/2025,497,Supermarket,Nagpur,Vegetarian,Snacks,India
+581,Dhokla & Khandvi Platter,8,3/20/2025,656,Grocery Store,Patna,Vegetarian,Breakfast,India
+582,Rajma Chawal,44,3/20/2025,501,Supermarket,Mumbai,Vegetarian,Dinner,India
+583,Kadhai Paneer & Rotis,44,3/23/2025,938,Restaurant,Coimbatore,Vegetarian,Lunch,India
+584,Poha & Jalebi,16,3/30/2025,590,Restaurant,Lucknow,Vegetarian,Snacks,India
+585,Vegetable Pulao & Raita,3,3/26/2025,514,Restaurant,Kochi,Vegetarian,Lunch,India
+586,Chicken Biryani,37,3/18/2025,54,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+587,Egg Curry & Steamed Rice,22,3/21/2025,192,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+588,Butter Chicken & Naan,31,3/27/2025,709,Supermarket,Jaipur,Non-Vegetarian,Dinner,India
+589,Fish Curry & Rice,49,3/20/2025,20,Grocery Store,Vadodara,Non-Vegetarian,Lunch,India
+590,Chicken Kathi Roll,11,3/28/2025,56,Grocery Store,Patna,Non-Vegetarian,Dinner,India
+591,Egg Bhurji & Pav,19,3/28/2025,154,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+592,Chicken Fried Rice,13,3/23/2025,341,Supermarket,Mumbai,Non-Vegetarian,Dinner,India
+593,Mutton Rogan Josh & Roti,2,3/23/2025,515,Catering Service,Surat,Non-Vegetarian,Lunch,India
+594,Fresh Fruit Assortment,35,3/28/2025,140,Grocery Store,Vadodara,Vegan,Snacks,India
+595,Moong Dal Khichdi,42,3/19/2025,358,Restaurant,Coimbatore,Vegan,Lunch,India
+596,Steamed Rice & Yellow Dal Tadka,44,3/29/2025,158,Restaurant,Coimbatore,Vegan,Dinner,India
+597,Garden Green Salad & Sprout Bowl,12,3/20/2025,563,Catering Service,Bengaluru,Vegan,Lunch,India
+598,Rava Upma & Coconut Chutney,19,3/27/2025,981,Supermarket,Mumbai,Vegan,Snacks,India
+599,Whole Wheat Bread & Jam,19,3/30/2025,232,Grocery Store,Indore,Vegan,Breakfast,India
+600,Steamed Veggie Bowl with Corn,39,3/24/2025,505,Supermarket,Chennai,Vegan,Dinner,India
+601,Paneer Butter Masala & Naan,9,3/27/2025,140,Grocery Store,Vadodara,Vegetarian,Lunch,India
+602,Dal Makhani & Jeera Rice,15,3/25/2025,913,Supermarket,Bhopal,Vegetarian,Dinner,India
+603,Chole Bhature,37,3/28/2025,858,Restaurant,Coimbatore,Vegetarian,Snacks,India
+604,Sambar Rice & Papad,47,3/27/2025,578,Restaurant,Coimbatore,Vegetarian,Dinner,India
+605,Pav Bhaji,20,3/23/2025,429,Supermarket,Jaipur,Vegetarian,Dinner,India
+606,Idli Vada & Sambar,36,3/22/2025,932,Grocery Store,Indore,Vegetarian,Snacks,India
+607,Veg Dum Biryani & Raita,23,3/20/2025,556,Grocery Store,Patna,Vegetarian,Lunch,India
+608,Masala Dosa & Chutney,27,3/28/2025,17,Supermarket,Nagpur,Vegetarian,Snacks,India
+609,Chapati & Mix Veg Curry,38,3/23/2025,541,Supermarket,Mumbai,Vegetarian,Lunch,India
+610,Aloo Paratha & Fresh Curd,13,3/30/2025,477,Supermarket,Nagpur,Vegetarian,Snacks,India
+611,Dhokla & Khandvi Platter,40,3/30/2025,993,Supermarket,Bhopal,Vegetarian,Breakfast,India
+612,Rajma Chawal,45,3/17/2025,874,Restaurant,Kochi,Vegetarian,Dinner,India
+613,Kadhai Paneer & Rotis,42,3/20/2025,592,Grocery Store,Indore,Vegetarian,Lunch,India
+614,Poha & Jalebi,43,3/16/2025,146,Restaurant,Kolkata,Vegetarian,Snacks,India
+615,Vegetable Pulao & Raita,11,3/23/2025,104,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+616,Chicken Biryani,35,3/20/2025,735,Catering Service,Surat,Non-Vegetarian,Dinner,India
+617,Egg Curry & Steamed Rice,27,3/18/2025,507,Catering Service,Pune,Non-Vegetarian,Lunch,India
+618,Butter Chicken & Naan,9,3/18/2025,929,Supermarket,Jaipur,Non-Vegetarian,Dinner,India
+619,Fish Curry & Rice,46,3/29/2025,725,Supermarket,Chennai,Non-Vegetarian,Lunch,India
+620,Chicken Kathi Roll,7,3/20/2025,497,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+621,Egg Bhurji & Pav,23,3/21/2025,979,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+622,Chicken Fried Rice,17,3/24/2025,857,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+623,Mutton Rogan Josh & Roti,38,3/29/2025,37,Supermarket,Nagpur,Non-Vegetarian,Lunch,India
+624,Fresh Fruit Assortment,10,3/16/2025,475,Catering Service,Surat,Vegan,Snacks,India
+625,Moong Dal Khichdi,7,3/22/2025,632,Grocery Store,Indore,Vegan,Lunch,India
+626,Steamed Rice & Yellow Dal Tadka,37,3/29/2025,274,Restaurant,Kochi,Vegan,Dinner,India
+627,Garden Green Salad & Sprout Bowl,26,3/17/2025,890,Restaurant,Lucknow,Vegan,Lunch,India
+628,Rava Upma & Coconut Chutney,5,3/16/2025,758,Restaurant,Coimbatore,Vegan,Snacks,India
+629,Whole Wheat Bread & Jam,33,3/20/2025,694,Restaurant,Kochi,Vegan,Breakfast,India
+630,Steamed Veggie Bowl with Corn,39,3/25/2025,478,Restaurant,Coimbatore,Vegan,Dinner,India
+631,Paneer Butter Masala & Naan,49,3/30/2025,232,Grocery Store,Indore,Vegetarian,Lunch,India
+632,Dal Makhani & Jeera Rice,45,3/25/2025,850,Restaurant,Lucknow,Vegetarian,Dinner,India
+633,Chole Bhature,19,3/28/2025,922,Restaurant,Delhi,Vegetarian,Snacks,India
+634,Sambar Rice & Papad,40,3/16/2025,205,Supermarket,Chennai,Vegetarian,Dinner,India
+635,Pav Bhaji,18,3/26/2025,251,Catering Service,Chandigarh,Vegetarian,Dinner,India
+636,Idli Vada & Sambar,11,3/25/2025,687,Catering Service,Pune,Vegetarian,Snacks,India
+637,Veg Dum Biryani & Raita,49,3/30/2025,873,Supermarket,Bhopal,Vegetarian,Lunch,India
+638,Masala Dosa & Chutney,12,3/21/2025,421,Supermarket,Mumbai,Vegetarian,Snacks,India
+639,Chapati & Mix Veg Curry,5,3/20/2025,60,Grocery Store,Vadodara,Vegetarian,Lunch,India
+640,Aloo Paratha & Fresh Curd,2,3/17/2025,422,Restaurant,Delhi,Vegetarian,Snacks,India
+641,Dhokla & Khandvi Platter,9,3/30/2025,692,Grocery Store,Indore,Vegetarian,Breakfast,India
+642,Rajma Chawal,38,3/29/2025,365,Supermarket,Chennai,Vegetarian,Dinner,India
+643,Kadhai Paneer & Rotis,8,3/23/2025,240,Grocery Store,Vadodara,Vegetarian,Lunch,India
+644,Poha & Jalebi,21,3/18/2025,42,Restaurant,Delhi,Vegetarian,Snacks,India
+645,Vegetable Pulao & Raita,34,3/21/2025,643,Catering Service,Bengaluru,Vegetarian,Lunch,India
+646,Chicken Biryani,44,3/17/2025,417,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+647,Egg Curry & Steamed Rice,1,3/18/2025,184,Grocery Store,Hyderabad,Non-Vegetarian,Lunch,India
+648,Butter Chicken & Naan,42,3/23/2025,904,Grocery Store,Hyderabad,Non-Vegetarian,Dinner,India
+649,Fish Curry & Rice,8,3/30/2025,806,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+650,Chicken Kathi Roll,40,3/16/2025,288,Grocery Store,Ahmedabad,Non-Vegetarian,Dinner,India
+651,Egg Bhurji & Pav,36,3/16/2025,72,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+652,Chicken Fried Rice,44,3/23/2025,634,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+653,Mutton Rogan Josh & Roti,50,3/25/2025,573,Supermarket,Bhopal,Non-Vegetarian,Lunch,India
+654,Fresh Fruit Assortment,2,3/26/2025,765,Supermarket,Chennai,Vegan,Snacks,India
+655,Moong Dal Khichdi,46,3/27/2025,491,Catering Service,Chandigarh,Vegan,Lunch,India
+656,Steamed Rice & Yellow Dal Tadka,26,3/25/2025,432,Grocery Store,Indore,Vegan,Dinner,India
+657,Garden Green Salad & Sprout Bowl,14,3/28/2025,239,Catering Service,Visakhapatnam,Vegan,Lunch,India
+658,Rava Upma & Coconut Chutney,4,3/26/2025,769,Supermarket,Jaipur,Vegan,Snacks,India
+659,Whole Wheat Bread & Jam,4,3/27/2025,707,Catering Service,Pune,Vegan,Breakfast,India
+660,Steamed Veggie Bowl with Corn,42,3/17/2025,138,Restaurant,Coimbatore,Vegan,Dinner,India
+661,Paneer Butter Masala & Naan,12,3/25/2025,906,Restaurant,Kolkata,Vegetarian,Lunch,India
+662,Dal Makhani & Jeera Rice,47,3/30/2025,498,Restaurant,Coimbatore,Vegetarian,Dinner,India
+663,Chole Bhature,42,3/24/2025,315,Catering Service,Surat,Vegetarian,Snacks,India
+664,Sambar Rice & Papad,34,3/20/2025,327,Catering Service,Pune,Vegetarian,Dinner,India
+665,Pav Bhaji,7,3/18/2025,142,Restaurant,Delhi,Vegetarian,Dinner,India
+666,Idli Vada & Sambar,47,3/21/2025,835,Catering Service,Surat,Vegetarian,Snacks,India
+667,Veg Dum Biryani & Raita,30,3/21/2025,961,Supermarket,Mumbai,Vegetarian,Lunch,India
+668,Masala Dosa & Chutney,48,3/20/2025,357,Supermarket,Nagpur,Vegetarian,Snacks,India
+669,Chapati & Mix Veg Curry,14,3/27/2025,164,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+670,Aloo Paratha & Fresh Curd,37,3/24/2025,289,Supermarket,Jaipur,Vegetarian,Snacks,India
+671,Dhokla & Khandvi Platter,49,3/24/2025,498,Restaurant,Coimbatore,Vegetarian,Breakfast,India
+672,Rajma Chawal,2,3/24/2025,555,Catering Service,Surat,Vegetarian,Dinner,India
+673,Kadhai Paneer & Rotis,28,3/20/2025,677,Supermarket,Nagpur,Vegetarian,Lunch,India
+674,Poha & Jalebi,34,3/17/2025,518,Restaurant,Coimbatore,Vegetarian,Snacks,India
+675,Vegetable Pulao & Raita,25,3/26/2025,117,Supermarket,Nagpur,Vegetarian,Lunch,India
+676,Chicken Biryani,15,3/23/2025,577,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+677,Egg Curry & Steamed Rice,43,3/16/2025,672,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+678,Butter Chicken & Naan,8,3/24/2025,177,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+679,Fish Curry & Rice,24,3/24/2025,698,Restaurant,Coimbatore,Non-Vegetarian,Lunch,India
+680,Chicken Kathi Roll,47,3/23/2025,499,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+681,Egg Bhurji & Pav,28,3/27/2025,616,Grocery Store,Patna,Non-Vegetarian,Dinner,India
+682,Chicken Fried Rice,30,3/25/2025,87,Catering Service,Pune,Non-Vegetarian,Dinner,India
+683,Mutton Rogan Josh & Roti,28,3/18/2025,726,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+684,Fresh Fruit Assortment,39,3/29/2025,221,Supermarket,Mumbai,Vegan,Snacks,India
+685,Moong Dal Khichdi,39,3/18/2025,332,Grocery Store,Indore,Vegan,Lunch,India
+686,Steamed Rice & Yellow Dal Tadka,15,3/28/2025,707,Catering Service,Pune,Vegan,Dinner,India
+687,Garden Green Salad & Sprout Bowl,5,3/29/2025,326,Restaurant,Kolkata,Vegan,Lunch,India
+688,Rava Upma & Coconut Chutney,6,3/22/2025,536,Grocery Store,Patna,Vegan,Snacks,India
+689,Whole Wheat Bread & Jam,34,3/21/2025,350,Restaurant,Lucknow,Vegan,Breakfast,India
+690,Steamed Veggie Bowl with Corn,43,3/16/2025,779,Catering Service,Visakhapatnam,Vegan,Dinner,India
+691,Paneer Butter Masala & Naan,21,3/28/2025,65,Supermarket,Chennai,Vegetarian,Lunch,India
+692,Dal Makhani & Jeera Rice,8,3/17/2025,332,Grocery Store,Indore,Vegetarian,Dinner,India
+693,Chole Bhature,6,3/24/2025,563,Catering Service,Bengaluru,Vegetarian,Snacks,India
+694,Sambar Rice & Papad,50,3/22/2025,995,Catering Service,Surat,Vegetarian,Dinner,India
+695,Pav Bhaji,17,3/23/2025,176,Grocery Store,Patna,Vegetarian,Dinner,India
+696,Idli Vada & Sambar,26,3/24/2025,752,Grocery Store,Indore,Vegetarian,Snacks,India
+697,Veg Dum Biryani & Raita,42,3/21/2025,817,Supermarket,Nagpur,Vegetarian,Lunch,India
+698,Masala Dosa & Chutney,16,3/22/2025,872,Grocery Store,Indore,Vegetarian,Snacks,India
+699,Chapati & Mix Veg Curry,32,3/16/2025,777,Supermarket,Nagpur,Vegetarian,Lunch,India
+700,Aloo Paratha & Fresh Curd,10,3/17/2025,840,Grocery Store,Vadodara,Vegetarian,Snacks,India
+701,Dhokla & Khandvi Platter,33,3/19/2025,192,Grocery Store,Indore,Vegetarian,Breakfast,India
+702,Rajma Chawal,6,3/25/2025,806,Restaurant,Kolkata,Vegetarian,Dinner,India
+703,Kadhai Paneer & Rotis,35,3/29/2025,784,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+704,Poha & Jalebi,43,3/27/2025,518,Restaurant,Coimbatore,Vegetarian,Snacks,India
+705,Vegetable Pulao & Raita,39,3/30/2025,199,Catering Service,Visakhapatnam,Vegetarian,Lunch,India
+706,Chicken Biryani,45,3/22/2025,224,Grocery Store,Hyderabad,Non-Vegetarian,Dinner,India
+707,Egg Curry & Steamed Rice,29,3/22/2025,625,Supermarket,Chennai,Non-Vegetarian,Lunch,India
+708,Butter Chicken & Naan,17,3/22/2025,800,Grocery Store,Vadodara,Non-Vegetarian,Dinner,India
+709,Fish Curry & Rice,15,3/20/2025,127,Catering Service,Pune,Non-Vegetarian,Lunch,India
+710,Chicken Kathi Roll,41,3/22/2025,970,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+711,Egg Bhurji & Pav,25,3/17/2025,632,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+712,Chicken Fried Rice,31,3/18/2025,263,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+713,Mutton Rogan Josh & Roti,7,3/26/2025,108,Grocery Store,Ahmedabad,Non-Vegetarian,Lunch,India
+714,Fresh Fruit Assortment,5,3/25/2025,928,Grocery Store,Ahmedabad,Vegan,Snacks,India
+715,Moong Dal Khichdi,21,3/23/2025,46,Restaurant,Kolkata,Vegan,Lunch,India
+716,Steamed Rice & Yellow Dal Tadka,29,3/21/2025,237,Supermarket,Nagpur,Vegan,Dinner,India
+717,Garden Green Salad & Sprout Bowl,40,3/16/2025,108,Grocery Store,Ahmedabad,Vegan,Lunch,India
+718,Rava Upma & Coconut Chutney,45,3/28/2025,801,Supermarket,Mumbai,Vegan,Snacks,India
+719,Whole Wheat Bread & Jam,44,3/20/2025,701,Supermarket,Mumbai,Vegan,Breakfast,India
+720,Steamed Veggie Bowl with Corn,1,3/27/2025,849,Supermarket,Jaipur,Vegan,Dinner,India
+721,Paneer Butter Masala & Naan,20,3/22/2025,342,Restaurant,Delhi,Vegetarian,Lunch,India
+722,Dal Makhani & Jeera Rice,43,3/26/2025,306,Restaurant,Kolkata,Vegetarian,Dinner,India
+723,Chole Bhature,2,3/25/2025,762,Restaurant,Delhi,Vegetarian,Snacks,India
+724,Sambar Rice & Papad,44,3/18/2025,459,Catering Service,Visakhapatnam,Vegetarian,Dinner,India
+725,Pav Bhaji,47,3/30/2025,846,Restaurant,Kolkata,Vegetarian,Dinner,India
+726,Idli Vada & Sambar,27,3/22/2025,719,Catering Service,Visakhapatnam,Vegetarian,Snacks,India
+727,Veg Dum Biryani & Raita,3,3/18/2025,285,Supermarket,Chennai,Vegetarian,Lunch,India
+728,Masala Dosa & Chutney,28,3/28/2025,265,Supermarket,Chennai,Vegetarian,Snacks,India
+729,Chapati & Mix Veg Curry,42,3/30/2025,253,Supermarket,Bhopal,Vegetarian,Lunch,India
+730,Aloo Paratha & Fresh Curd,15,3/19/2025,372,Grocery Store,Indore,Vegetarian,Snacks,India
+731,Dhokla & Khandvi Platter,42,3/30/2025,324,Grocery Store,Hyderabad,Vegetarian,Breakfast,India
+732,Rajma Chawal,29,3/18/2025,734,Restaurant,Kochi,Vegetarian,Dinner,India
+733,Kadhai Paneer & Rotis,31,3/26/2025,736,Grocery Store,Patna,Vegetarian,Lunch,India
+734,Poha & Jalebi,5,3/27/2025,125,Supermarket,Chennai,Vegetarian,Snacks,India
+735,Vegetable Pulao & Raita,2,3/19/2025,459,Catering Service,Visakhapatnam,Vegetarian,Lunch,India
+736,Chicken Biryani,33,3/24/2025,792,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+737,Egg Curry & Steamed Rice,3,3/16/2025,930,Restaurant,Lucknow,Non-Vegetarian,Lunch,India
+738,Butter Chicken & Naan,5,3/24/2025,793,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+739,Fish Curry & Rice,2,3/28/2025,186,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+740,Chicken Kathi Roll,6,3/24/2025,964,Grocery Store,Hyderabad,Non-Vegetarian,Dinner,India
+741,Egg Bhurji & Pav,21,3/16/2025,776,Grocery Store,Patna,Non-Vegetarian,Dinner,India
+742,Chicken Fried Rice,3,3/30/2025,483,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+743,Mutton Rogan Josh & Roti,46,3/29/2025,308,Grocery Store,Ahmedabad,Non-Vegetarian,Lunch,India
+744,Fresh Fruit Assortment,13,3/17/2025,456,Grocery Store,Patna,Vegan,Snacks,India
+745,Moong Dal Khichdi,34,3/18/2025,961,Supermarket,Mumbai,Vegan,Lunch,India
+746,Steamed Rice & Yellow Dal Tadka,31,3/30/2025,293,Supermarket,Bhopal,Vegan,Dinner,India
+747,Garden Green Salad & Sprout Bowl,39,3/19/2025,238,Restaurant,Coimbatore,Vegan,Lunch,India
+748,Rava Upma & Coconut Chutney,17,3/24/2025,472,Grocery Store,Indore,Vegan,Snacks,India
+749,Whole Wheat Bread & Jam,32,3/27/2025,140,Grocery Store,Vadodara,Vegan,Breakfast,India
+750,Steamed Veggie Bowl with Corn,17,3/25/2025,613,Supermarket,Bhopal,Vegan,Dinner,India
+751,Paneer Butter Masala & Naan,18,3/25/2025,720,Grocery Store,Vadodara,Vegetarian,Lunch,India
+752,Dal Makhani & Jeera Rice,12,3/17/2025,460,Grocery Store,Vadodara,Vegetarian,Dinner,India
+753,Chole Bhature,19,3/24/2025,182,Restaurant,Delhi,Vegetarian,Snacks,India
+754,Sambar Rice & Papad,37,3/30/2025,986,Restaurant,Kolkata,Vegetarian,Dinner,India
+755,Pav Bhaji,4,3/17/2025,195,Catering Service,Surat,Vegetarian,Dinner,India
+756,Idli Vada & Sambar,5,3/19/2025,887,Catering Service,Pune,Vegetarian,Snacks,India
+757,Veg Dum Biryani & Raita,42,3/21/2025,282,Restaurant,Delhi,Vegetarian,Lunch,India
+758,Masala Dosa & Chutney,4,3/26/2025,989,Supermarket,Jaipur,Vegetarian,Snacks,India
+759,Chapati & Mix Veg Curry,36,3/18/2025,779,Catering Service,Visakhapatnam,Vegetarian,Lunch,India
+760,Aloo Paratha & Fresh Curd,28,3/26/2025,710,Restaurant,Lucknow,Vegetarian,Snacks,India
+761,Dhokla & Khandvi Platter,46,3/24/2025,217,Supermarket,Nagpur,Vegetarian,Breakfast,India
+762,Rajma Chawal,4,3/23/2025,76,Grocery Store,Patna,Vegetarian,Dinner,India
+763,Kadhai Paneer & Rotis,33,3/17/2025,846,Restaurant,Kolkata,Vegetarian,Lunch,India
+764,Poha & Jalebi,21,3/19/2025,9,Supermarket,Jaipur,Vegetarian,Snacks,India
+765,Vegetable Pulao & Raita,1,3/28/2025,161,Supermarket,Mumbai,Vegetarian,Lunch,India
+766,Chicken Biryani,17,3/24/2025,463,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+767,Egg Curry & Steamed Rice,17,3/27/2025,952,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+768,Butter Chicken & Naan,39,3/28/2025,200,Grocery Store,Vadodara,Non-Vegetarian,Dinner,India
+769,Fish Curry & Rice,27,3/25/2025,483,Catering Service,Bengaluru,Non-Vegetarian,Lunch,India
+770,Chicken Kathi Roll,30,3/30/2025,770,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+771,Egg Bhurji & Pav,9,3/23/2025,551,Catering Service,Chandigarh,Non-Vegetarian,Dinner,India
+772,Chicken Fried Rice,37,3/23/2025,609,Supermarket,Jaipur,Non-Vegetarian,Dinner,India
+773,Mutton Rogan Josh & Roti,40,3/20/2025,509,Supermarket,Jaipur,Non-Vegetarian,Lunch,India
+774,Fresh Fruit Assortment,2,3/16/2025,788,Grocery Store,Ahmedabad,Vegan,Snacks,India
+775,Moong Dal Khichdi,7,3/17/2025,204,Grocery Store,Hyderabad,Vegan,Lunch,India
+776,Steamed Rice & Yellow Dal Tadka,33,3/24/2025,249,Supermarket,Jaipur,Vegan,Dinner,India
+777,Garden Green Salad & Sprout Bowl,5,3/18/2025,709,Supermarket,Jaipur,Vegan,Lunch,India
+778,Rava Upma & Coconut Chutney,7,3/21/2025,57,Supermarket,Nagpur,Vegan,Snacks,India
+779,Whole Wheat Bread & Jam,43,3/27/2025,74,Restaurant,Kochi,Vegan,Breakfast,India
+780,Steamed Veggie Bowl with Corn,48,3/17/2025,162,Restaurant,Delhi,Vegan,Dinner,India
+781,Paneer Butter Masala & Naan,45,3/23/2025,33,Supermarket,Bhopal,Vegetarian,Lunch,India
+782,Dal Makhani & Jeera Rice,49,3/28/2025,566,Restaurant,Kolkata,Vegetarian,Dinner,India
+783,Chole Bhature,4,3/20/2025,455,Catering Service,Surat,Vegetarian,Snacks,India
+784,Sambar Rice & Papad,1,3/26/2025,335,Catering Service,Surat,Vegetarian,Dinner,India
+785,Pav Bhaji,10,3/16/2025,678,Restaurant,Coimbatore,Vegetarian,Dinner,India
+786,Idli Vada & Sambar,4,3/30/2025,959,Catering Service,Visakhapatnam,Vegetarian,Snacks,India
+787,Veg Dum Biryani & Raita,48,3/24/2025,355,Catering Service,Surat,Vegetarian,Lunch,India
+788,Masala Dosa & Chutney,26,3/30/2025,34,Restaurant,Kochi,Vegetarian,Snacks,India
+789,Chapati & Mix Veg Curry,10,3/26/2025,673,Supermarket,Bhopal,Vegetarian,Lunch,India
+790,Aloo Paratha & Fresh Curd,2,3/21/2025,332,Grocery Store,Indore,Vegetarian,Snacks,India
+791,Dhokla & Khandvi Platter,23,3/29/2025,152,Grocery Store,Indore,Vegetarian,Breakfast,India
+792,Rajma Chawal,15,3/17/2025,308,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+793,Kadhai Paneer & Rotis,5,3/24/2025,824,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+794,Poha & Jalebi,21,3/27/2025,380,Grocery Store,Vadodara,Vegetarian,Snacks,India
+795,Vegetable Pulao & Raita,3,3/19/2025,911,Catering Service,Chandigarh,Vegetarian,Lunch,India
+796,Chicken Biryani,8,3/27/2025,798,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+797,Egg Curry & Steamed Rice,40,3/27/2025,467,Catering Service,Pune,Non-Vegetarian,Lunch,India
+798,Butter Chicken & Naan,3,3/30/2025,413,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+799,Fish Curry & Rice,5,3/17/2025,764,Grocery Store,Hyderabad,Non-Vegetarian,Lunch,India
+800,Chicken Kathi Roll,15,3/20/2025,193,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+801,Egg Bhurji & Pav,50,3/18/2025,609,Supermarket,Jaipur,Non-Vegetarian,Dinner,India
+802,Chicken Fried Rice,25,3/22/2025,62,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+803,Mutton Rogan Josh & Roti,13,3/27/2025,714,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+804,Fresh Fruit Assortment,47,3/27/2025,16,Grocery Store,Patna,Vegan,Snacks,India
+805,Moong Dal Khichdi,1,3/22/2025,235,Catering Service,Surat,Vegan,Lunch,India
+806,Steamed Rice & Yellow Dal Tadka,12,3/27/2025,388,Grocery Store,Ahmedabad,Vegan,Dinner,India
+807,Garden Green Salad & Sprout Bowl,35,3/19/2025,474,Restaurant,Kochi,Vegan,Lunch,India
+808,Rava Upma & Coconut Chutney,7,3/23/2025,868,Grocery Store,Ahmedabad,Vegan,Snacks,India
+809,Whole Wheat Bread & Jam,48,3/29/2025,292,Grocery Store,Indore,Vegan,Breakfast,India
+810,Steamed Veggie Bowl with Corn,34,3/16/2025,993,Supermarket,Bhopal,Vegan,Dinner,India
+811,Paneer Butter Masala & Naan,19,3/27/2025,513,Supermarket,Bhopal,Vegetarian,Lunch,India
+812,Dal Makhani & Jeera Rice,49,3/19/2025,471,Catering Service,Chandigarh,Vegetarian,Dinner,India
+813,Chole Bhature,33,3/23/2025,610,Restaurant,Lucknow,Vegetarian,Snacks,India
+814,Sambar Rice & Papad,18,3/17/2025,287,Catering Service,Pune,Vegetarian,Dinner,India
+815,Pav Bhaji,50,3/22/2025,157,Supermarket,Nagpur,Vegetarian,Dinner,India
+816,Idli Vada & Sambar,2,3/17/2025,965,Supermarket,Chennai,Vegetarian,Snacks,India
+817,Veg Dum Biryani & Raita,23,3/28/2025,363,Catering Service,Bengaluru,Vegetarian,Lunch,India
+818,Masala Dosa & Chutney,50,3/29/2025,248,Grocery Store,Ahmedabad,Vegetarian,Snacks,India
+819,Chapati & Mix Veg Curry,35,3/28/2025,304,Grocery Store,Hyderabad,Vegetarian,Lunch,India
+820,Aloo Paratha & Fresh Curd,46,3/27/2025,753,Supermarket,Bhopal,Vegetarian,Snacks,India
+821,Dhokla & Khandvi Platter,9,3/24/2025,167,Catering Service,Pune,Vegetarian,Breakfast,India
+822,Rajma Chawal,27,3/25/2025,237,Supermarket,Nagpur,Vegetarian,Dinner,India
+823,Kadhai Paneer & Rotis,27,3/21/2025,587,Catering Service,Pune,Vegetarian,Lunch,India
+824,Poha & Jalebi,12,3/27/2025,993,Supermarket,Bhopal,Vegetarian,Snacks,India
+825,Vegetable Pulao & Raita,25,3/25/2025,995,Catering Service,Surat,Vegetarian,Lunch,India
+826,Chicken Biryani,39,3/17/2025,50,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+827,Egg Curry & Steamed Rice,3,3/23/2025,907,Catering Service,Pune,Non-Vegetarian,Lunch,India
+828,Butter Chicken & Naan,21,3/24/2025,636,Grocery Store,Patna,Non-Vegetarian,Dinner,India
+829,Fish Curry & Rice,44,3/18/2025,262,Restaurant,Delhi,Non-Vegetarian,Lunch,India
+830,Chicken Kathi Roll,3,3/25/2025,847,Catering Service,Pune,Non-Vegetarian,Dinner,India
+831,Egg Bhurji & Pav,24,3/22/2025,330,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+832,Chicken Fried Rice,19,3/16/2025,752,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+833,Mutton Rogan Josh & Roti,44,3/17/2025,146,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+834,Fresh Fruit Assortment,43,3/18/2025,531,Catering Service,Chandigarh,Vegan,Snacks,India
+835,Moong Dal Khichdi,17,3/29/2025,752,Grocery Store,Indore,Vegan,Lunch,India
+836,Steamed Rice & Yellow Dal Tadka,49,3/16/2025,685,Supermarket,Chennai,Vegan,Dinner,India
+837,Garden Green Salad & Sprout Bowl,50,3/24/2025,642,Restaurant,Delhi,Vegan,Lunch,India
+838,Rava Upma & Coconut Chutney,38,3/29/2025,770,Restaurant,Lucknow,Vegan,Snacks,India
+839,Whole Wheat Bread & Jam,6,3/17/2025,72,Grocery Store,Indore,Vegan,Breakfast,India
+840,Steamed Veggie Bowl with Corn,43,3/16/2025,548,Grocery Store,Ahmedabad,Vegan,Dinner,India
+841,Paneer Butter Masala & Naan,15,3/25/2025,532,Grocery Store,Indore,Vegetarian,Lunch,India
+842,Dal Makhani & Jeera Rice,40,3/21/2025,205,Supermarket,Chennai,Vegetarian,Dinner,India
+843,Chole Bhature,46,3/24/2025,515,Catering Service,Surat,Vegetarian,Snacks,India
+844,Sambar Rice & Papad,46,3/29/2025,495,Catering Service,Surat,Vegetarian,Dinner,India
+845,Pav Bhaji,14,3/20/2025,718,Restaurant,Coimbatore,Vegetarian,Dinner,India
+846,Idli Vada & Sambar,34,3/19/2025,894,Restaurant,Kochi,Vegetarian,Snacks,India
+847,Veg Dum Biryani & Raita,29,3/21/2025,887,Catering Service,Pune,Vegetarian,Lunch,India
+848,Masala Dosa & Chutney,32,3/25/2025,426,Restaurant,Kolkata,Vegetarian,Snacks,India
+849,Chapati & Mix Veg Curry,29,3/21/2025,563,Catering Service,Bengaluru,Vegetarian,Lunch,India
+850,Aloo Paratha & Fresh Curd,22,3/26/2025,67,Catering Service,Pune,Vegetarian,Snacks,India
+851,Dhokla & Khandvi Platter,35,3/18/2025,516,Grocery Store,Patna,Vegetarian,Breakfast,India
+852,Rajma Chawal,49,3/20/2025,363,Catering Service,Bengaluru,Vegetarian,Dinner,India
+853,Kadhai Paneer & Rotis,18,3/27/2025,841,Supermarket,Mumbai,Vegetarian,Lunch,India
+854,Poha & Jalebi,33,3/22/2025,804,Grocery Store,Hyderabad,Vegetarian,Snacks,India
+855,Vegetable Pulao & Raita,28,3/25/2025,596,Grocery Store,Patna,Vegetarian,Lunch,India
+856,Chicken Biryani,44,3/23/2025,501,Supermarket,Mumbai,Non-Vegetarian,Dinner,India
+857,Egg Curry & Steamed Rice,47,3/17/2025,97,Supermarket,Nagpur,Non-Vegetarian,Lunch,India
+858,Butter Chicken & Naan,13,3/22/2025,413,Supermarket,Bhopal,Non-Vegetarian,Dinner,India
+859,Fish Curry & Rice,1,3/26/2025,319,Catering Service,Visakhapatnam,Non-Vegetarian,Lunch,India
+860,Chicken Kathi Roll,37,3/17/2025,934,Restaurant,Kochi,Non-Vegetarian,Dinner,India
+861,Egg Bhurji & Pav,45,3/26/2025,937,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+862,Chicken Fried Rice,4,3/19/2025,237,Supermarket,Nagpur,Non-Vegetarian,Dinner,India
+863,Mutton Rogan Josh & Roti,30,3/20/2025,57,Supermarket,Nagpur,Non-Vegetarian,Lunch,India
+864,Fresh Fruit Assortment,11,3/28/2025,741,Supermarket,Mumbai,Vegan,Snacks,India
+865,Moong Dal Khichdi,25,3/20/2025,837,Supermarket,Nagpur,Vegan,Lunch,India
+866,Steamed Rice & Yellow Dal Tadka,7,3/29/2025,169,Supermarket,Jaipur,Vegan,Dinner,India
+867,Garden Green Salad & Sprout Bowl,1,3/21/2025,870,Restaurant,Lucknow,Vegan,Lunch,India
+868,Rava Upma & Coconut Chutney,4,3/22/2025,504,Grocery Store,Hyderabad,Vegan,Snacks,India
+869,Whole Wheat Bread & Jam,27,3/20/2025,40,Grocery Store,Vadodara,Vegan,Breakfast,India
+870,Steamed Veggie Bowl with Corn,3,3/30/2025,653,Supermarket,Bhopal,Vegan,Dinner,India
+871,Paneer Butter Masala & Naan,7,3/16/2025,875,Catering Service,Surat,Vegetarian,Lunch,India
+872,Dal Makhani & Jeera Rice,50,3/29/2025,717,Supermarket,Nagpur,Vegetarian,Dinner,India
+873,Chole Bhature,49,3/29/2025,712,Grocery Store,Indore,Vegetarian,Snacks,India
+874,Sambar Rice & Papad,45,3/17/2025,655,Catering Service,Surat,Vegetarian,Dinner,India
+875,Pav Bhaji,19,3/29/2025,721,Supermarket,Mumbai,Vegetarian,Dinner,India
+876,Idli Vada & Sambar,38,3/20/2025,78,Restaurant,Coimbatore,Vegetarian,Snacks,India
+877,Veg Dum Biryani & Raita,8,3/20/2025,374,Restaurant,Kochi,Vegetarian,Lunch,India
+878,Masala Dosa & Chutney,23,3/29/2025,17,Supermarket,Nagpur,Vegetarian,Snacks,India
+879,Chapati & Mix Veg Curry,21,3/25/2025,778,Restaurant,Coimbatore,Vegetarian,Lunch,India
+880,Aloo Paratha & Fresh Curd,35,3/25/2025,954,Restaurant,Kochi,Vegetarian,Snacks,India
+881,Dhokla & Khandvi Platter,43,3/17/2025,655,Catering Service,Surat,Vegetarian,Breakfast,India
+882,Rajma Chawal,43,3/23/2025,138,Restaurant,Coimbatore,Vegetarian,Dinner,India
+883,Kadhai Paneer & Rotis,8,3/23/2025,857,Supermarket,Nagpur,Vegetarian,Lunch,India
+884,Poha & Jalebi,27,3/28/2025,371,Catering Service,Chandigarh,Vegetarian,Snacks,India
+885,Vegetable Pulao & Raita,44,3/22/2025,503,Catering Service,Bengaluru,Vegetarian,Lunch,India
+886,Chicken Biryani,48,3/20/2025,423,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+887,Egg Curry & Steamed Rice,12,3/21/2025,825,Supermarket,Chennai,Non-Vegetarian,Lunch,India
+888,Butter Chicken & Naan,6,3/25/2025,50,Restaurant,Lucknow,Non-Vegetarian,Dinner,India
+889,Fish Curry & Rice,21,3/16/2025,266,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+890,Chicken Kathi Roll,40,3/28/2025,41,Supermarket,Mumbai,Non-Vegetarian,Dinner,India
+891,Egg Bhurji & Pav,9,3/18/2025,539,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+892,Chicken Fried Rice,42,3/19/2025,405,Supermarket,Chennai,Non-Vegetarian,Dinner,India
+893,Mutton Rogan Josh & Roti,3,3/28/2025,46,Restaurant,Kolkata,Non-Vegetarian,Lunch,India
+894,Fresh Fruit Assortment,43,3/25/2025,310,Restaurant,Lucknow,Vegan,Snacks,India
+895,Moong Dal Khichdi,38,3/29/2025,888,Grocery Store,Ahmedabad,Vegan,Lunch,India
+896,Steamed Rice & Yellow Dal Tadka,32,3/18/2025,547,Catering Service,Pune,Vegan,Dinner,India
+897,Garden Green Salad & Sprout Bowl,5,3/20/2025,638,Restaurant,Coimbatore,Vegan,Lunch,India
+898,Rava Upma & Coconut Chutney,28,3/27/2025,87,Catering Service,Pune,Vegan,Snacks,India
+899,Whole Wheat Bread & Jam,44,3/29/2025,5,Supermarket,Chennai,Vegan,Breakfast,India
+900,Steamed Veggie Bowl with Corn,31,3/29/2025,732,Grocery Store,Indore,Vegan,Dinner,India
+901,Paneer Butter Masala & Naan,38,3/26/2025,183,Catering Service,Bengaluru,Vegetarian,Lunch,India
+902,Dal Makhani & Jeera Rice,34,3/30/2025,347,Catering Service,Pune,Vegetarian,Dinner,India
+903,Chole Bhature,25,3/30/2025,452,Grocery Store,Indore,Vegetarian,Snacks,India
+904,Sambar Rice & Papad,40,3/22/2025,709,Supermarket,Jaipur,Vegetarian,Dinner,India
+905,Pav Bhaji,37,3/25/2025,2,Restaurant,Delhi,Vegetarian,Dinner,India
+906,Idli Vada & Sambar,17,3/30/2025,191,Catering Service,Chandigarh,Vegetarian,Snacks,India
+907,Veg Dum Biryani & Raita,17,3/16/2025,175,Catering Service,Surat,Vegetarian,Lunch,India
+908,Masala Dosa & Chutney,16,3/27/2025,463,Catering Service,Bengaluru,Vegetarian,Snacks,India
+909,Chapati & Mix Veg Curry,10,3/28/2025,831,Catering Service,Chandigarh,Vegetarian,Lunch,India
+910,Aloo Paratha & Fresh Curd,37,3/19/2025,533,Supermarket,Bhopal,Vegetarian,Snacks,India
+911,Dhokla & Khandvi Platter,5,3/21/2025,124,Grocery Store,Hyderabad,Vegetarian,Breakfast,India
+912,Rajma Chawal,6,3/28/2025,334,Restaurant,Kochi,Vegetarian,Dinner,India
+913,Kadhai Paneer & Rotis,39,3/22/2025,962,Restaurant,Delhi,Vegetarian,Lunch,India
+914,Poha & Jalebi,18,3/27/2025,995,Catering Service,Surat,Vegetarian,Snacks,India
+915,Vegetable Pulao & Raita,35,3/22/2025,198,Restaurant,Coimbatore,Vegetarian,Lunch,India
+916,Chicken Biryani,47,3/16/2025,920,Grocery Store,Vadodara,Non-Vegetarian,Dinner,India
+917,Egg Curry & Steamed Rice,15,3/28/2025,393,Supermarket,Bhopal,Non-Vegetarian,Lunch,India
+918,Butter Chicken & Naan,8,3/29/2025,583,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+919,Fish Curry & Rice,35,3/26/2025,52,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+920,Chicken Kathi Roll,2,3/19/2025,691,Catering Service,Chandigarh,Non-Vegetarian,Dinner,India
+921,Egg Bhurji & Pav,6,3/26/2025,59,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+922,Chicken Fried Rice,32,3/22/2025,312,Grocery Store,Indore,Non-Vegetarian,Dinner,India
+923,Mutton Rogan Josh & Roti,42,3/24/2025,161,Supermarket,Mumbai,Non-Vegetarian,Lunch,India
+924,Fresh Fruit Assortment,3,3/20/2025,764,Grocery Store,Hyderabad,Vegan,Snacks,India
+925,Moong Dal Khichdi,12,3/26/2025,665,Supermarket,Chennai,Vegan,Lunch,India
+926,Steamed Rice & Yellow Dal Tadka,41,3/16/2025,240,Grocery Store,Vadodara,Vegan,Dinner,India
+927,Garden Green Salad & Sprout Bowl,39,3/26/2025,261,Supermarket,Mumbai,Vegan,Lunch,India
+928,Rava Upma & Coconut Chutney,20,3/20/2025,852,Grocery Store,Indore,Vegan,Snacks,India
+929,Whole Wheat Bread & Jam,23,3/26/2025,181,Supermarket,Mumbai,Vegan,Breakfast,India
+930,Steamed Veggie Bowl with Corn,33,3/18/2025,983,Catering Service,Bengaluru,Vegan,Dinner,India
+931,Paneer Butter Masala & Naan,49,3/23/2025,139,Catering Service,Visakhapatnam,Vegetarian,Lunch,India
+932,Dal Makhani & Jeera Rice,11,3/18/2025,857,Supermarket,Nagpur,Vegetarian,Dinner,India
+933,Chole Bhature,17,3/30/2025,478,Restaurant,Coimbatore,Vegetarian,Snacks,India
+934,Sambar Rice & Papad,50,3/29/2025,951,Catering Service,Chandigarh,Vegetarian,Dinner,India
+935,Pav Bhaji,24,3/25/2025,608,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+936,Idli Vada & Sambar,32,3/30/2025,381,Supermarket,Mumbai,Vegetarian,Snacks,India
+937,Veg Dum Biryani & Raita,18,3/27/2025,916,Grocery Store,Patna,Vegetarian,Lunch,India
+938,Masala Dosa & Chutney,7,3/22/2025,162,Restaurant,Delhi,Vegetarian,Snacks,India
+939,Chapati & Mix Veg Curry,45,3/18/2025,983,Catering Service,Bengaluru,Vegetarian,Lunch,India
+940,Aloo Paratha & Fresh Curd,36,3/27/2025,890,Restaurant,Lucknow,Vegetarian,Snacks,India
+941,Dhokla & Khandvi Platter,1,3/16/2025,745,Supermarket,Chennai,Vegetarian,Breakfast,India
+942,Rajma Chawal,44,3/30/2025,591,Catering Service,Chandigarh,Vegetarian,Dinner,India
+943,Kadhai Paneer & Rotis,13,3/19/2025,413,Supermarket,Bhopal,Vegetarian,Lunch,India
+944,Poha & Jalebi,41,3/17/2025,807,Catering Service,Pune,Vegetarian,Snacks,India
+945,Vegetable Pulao & Raita,16,3/21/2025,351,Catering Service,Chandigarh,Vegetarian,Lunch,India
+946,Chicken Biryani,29,3/26/2025,146,Restaurant,Kolkata,Non-Vegetarian,Dinner,India
+947,Egg Curry & Steamed Rice,29,3/19/2025,176,Grocery Store,Patna,Non-Vegetarian,Lunch,India
+948,Butter Chicken & Naan,50,3/29/2025,421,Supermarket,Mumbai,Non-Vegetarian,Dinner,India
+949,Fish Curry & Rice,15,3/20/2025,632,Grocery Store,Indore,Non-Vegetarian,Lunch,India
+950,Chicken Kathi Roll,3,3/27/2025,619,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+951,Egg Bhurji & Pav,20,3/16/2025,118,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+952,Chicken Fried Rice,32,3/28/2025,82,Restaurant,Delhi,Non-Vegetarian,Dinner,India
+953,Mutton Rogan Josh & Roti,2,3/29/2025,731,Catering Service,Chandigarh,Non-Vegetarian,Lunch,India
+954,Fresh Fruit Assortment,36,3/25/2025,780,Grocery Store,Vadodara,Vegan,Snacks,India
+955,Moong Dal Khichdi,26,3/26/2025,276,Grocery Store,Patna,Vegan,Lunch,India
+956,Steamed Rice & Yellow Dal Tadka,39,3/30/2025,626,Restaurant,Kolkata,Vegan,Dinner,India
+957,Garden Green Salad & Sprout Bowl,39,3/22/2025,10,Restaurant,Lucknow,Vegan,Lunch,India
+958,Rava Upma & Coconut Chutney,19,3/20/2025,794,Restaurant,Kochi,Vegan,Snacks,India
+959,Whole Wheat Bread & Jam,26,3/18/2025,758,Restaurant,Coimbatore,Vegan,Breakfast,India
+960,Steamed Veggie Bowl with Corn,46,3/27/2025,920,Grocery Store,Vadodara,Vegan,Dinner,India
+961,Paneer Butter Masala & Naan,22,3/25/2025,66,Restaurant,Kolkata,Vegetarian,Lunch,India
+962,Dal Makhani & Jeera Rice,13,3/28/2025,62,Restaurant,Delhi,Vegetarian,Dinner,India
+963,Chole Bhature,33,3/16/2025,827,Catering Service,Pune,Vegetarian,Snacks,India
+964,Sambar Rice & Papad,46,3/25/2025,192,Grocery Store,Indore,Vegetarian,Dinner,India
+965,Pav Bhaji,44,3/24/2025,791,Catering Service,Chandigarh,Vegetarian,Dinner,India
+966,Idli Vada & Sambar,41,3/25/2025,705,Supermarket,Chennai,Vegetarian,Snacks,India
+967,Veg Dum Biryani & Raita,34,3/16/2025,357,Supermarket,Nagpur,Vegetarian,Lunch,India
+968,Masala Dosa & Chutney,45,3/17/2025,789,Supermarket,Jaipur,Vegetarian,Snacks,India
+969,Chapati & Mix Veg Curry,50,3/21/2025,208,Grocery Store,Ahmedabad,Vegetarian,Lunch,India
+970,Aloo Paratha & Fresh Curd,26,3/20/2025,62,Restaurant,Delhi,Vegetarian,Snacks,India
+971,Dhokla & Khandvi Platter,7,3/18/2025,751,Catering Service,Chandigarh,Vegetarian,Breakfast,India
+972,Rajma Chawal,21,3/23/2025,984,Grocery Store,Hyderabad,Vegetarian,Dinner,India
+973,Kadhai Paneer & Rotis,7,3/16/2025,519,Catering Service,Visakhapatnam,Vegetarian,Lunch,India
+974,Poha & Jalebi,45,3/17/2025,393,Supermarket,Bhopal,Vegetarian,Snacks,India
+975,Vegetable Pulao & Raita,48,3/19/2025,5,Supermarket,Chennai,Vegetarian,Lunch,India
+976,Chicken Biryani,41,3/19/2025,738,Restaurant,Coimbatore,Non-Vegetarian,Dinner,India
+977,Egg Curry & Steamed Rice,12,3/19/2025,514,Restaurant,Kochi,Non-Vegetarian,Lunch,India
+978,Butter Chicken & Naan,14,3/27/2025,743,Catering Service,Bengaluru,Non-Vegetarian,Dinner,India
+979,Fish Curry & Rice,43,3/16/2025,584,Grocery Store,Hyderabad,Non-Vegetarian,Lunch,India
+980,Chicken Kathi Roll,2,3/27/2025,876,Grocery Store,Patna,Non-Vegetarian,Dinner,India
+981,Egg Bhurji & Pav,47,3/18/2025,999,Catering Service,Visakhapatnam,Non-Vegetarian,Dinner,India
+982,Chicken Fried Rice,36,3/19/2025,7,Catering Service,Pune,Non-Vegetarian,Dinner,India
+983,Mutton Rogan Josh & Roti,43,3/22/2025,98,Restaurant,Coimbatore,Non-Vegetarian,Lunch,India
+984,Fresh Fruit Assortment,26,3/23/2025,234,Restaurant,Kochi,Vegan,Snacks,India
+985,Moong Dal Khichdi,31,3/16/2025,935,Catering Service,Surat,Vegan,Lunch,India
+986,Steamed Rice & Yellow Dal Tadka,23,3/24/2025,14,Restaurant,Kochi,Vegan,Dinner,India
+987,Garden Green Salad & Sprout Bowl,6,3/29/2025,557,Supermarket,Nagpur,Vegan,Lunch,India
+988,Rava Upma & Coconut Chutney,44,3/24/2025,517,Supermarket,Nagpur,Vegan,Snacks,India
+989,Whole Wheat Bread & Jam,31,3/19/2025,557,Supermarket,Nagpur,Vegan,Breakfast,India
+990,Steamed Veggie Bowl with Corn,11,3/25/2025,720,Grocery Store,Vadodara,Vegan,Dinner,India
+991,Paneer Butter Masala & Naan,7,3/19/2025,432,Grocery Store,Indore,Vegetarian,Lunch,India
+992,Dal Makhani & Jeera Rice,25,3/26/2025,257,Supermarket,Nagpur,Vegetarian,Dinner,India
+993,Chole Bhature,8,3/28/2025,470,Restaurant,Lucknow,Vegetarian,Snacks,India
+994,Sambar Rice & Papad,17,3/29/2025,37,Supermarket,Nagpur,Vegetarian,Dinner,India
+995,Pav Bhaji,37,3/23/2025,868,Grocery Store,Ahmedabad,Vegetarian,Dinner,India
+996,Idli Vada & Sambar,15,3/30/2025,467,Catering Service,Pune,Vegetarian,Snacks,India
+997,Veg Dum Biryani & Raita,22,3/18/2025,35,Catering Service,Surat,Vegetarian,Lunch,India
+998,Masala Dosa & Chutney,6,3/22/2025,444,Grocery Store,Hyderabad,Vegetarian,Snacks,India
+999,Chapati & Mix Veg Curry,15,3/30/2025,702,Restaurant,Delhi,Vegetarian,Lunch,India
+1000,Aloo Paratha & Fresh Curd,18,3/19/2025,155,Catering Service,Surat,Vegetarian,Snacks,India

@@ -1,0 +1,1001 @@
+Receiver_ID,Name,Type,City,Contact,Country
+1,Robin Hood Army,NGO,Mumbai,+91-9840-118615,India
+2,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9840-118665,India
+3,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9839-118715,India
+4,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9839-118765,India
+5,Uday Foundation,NGO,Chennai,+91-9825-118815,India
+6,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9845-118865,India
+7,ISKCON Food for Life,Charity,Pune,+91-9825-118915,India
+8,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9829-118965,India
+9,Pratham Community Support,NGO,Jaipur,+91-9825-119015,India
+10,Apnalaya Community Shelter,Shelter,Lucknow,+91-9830-119065,India
+11,Bharat Seva Dal,Charity,Chandigarh,+91-9830-119115,India
+12,Meera Nambiar (Community Lead),Individual,Indore,+91-9829-119165,India
+13,HelpAge India Elders Network,NGO,Bhopal,+91-9829-119215,India
+14,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9822-119265,India
+15,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9825-119055,India
+16,Sunita Verma (Social Worker),Individual,Patna,+91-9830-119105,India
+17,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9848-119155,India
+18,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9848-119205,India
+19,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9839-119255,India
+20,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9822-119305,India
+21,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9848-119355,India
+22,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9822-119405,India
+23,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9820-119455,India
+24,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9830-119505,India
+25,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9825-119555,India
+26,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9822-119605,India
+27,Shri Sai Seva Sansthan,Charity,Pune,+91-9822-119655,India
+28,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9845-119705,India
+29,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9825-119755,India
+30,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9820-119805,India
+31,ISKCON Food for Life,Charity,Chandigarh,+91-9845-119855,India
+32,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9829-119905,India
+33,Feeding India by Zomato,NGO,Bhopal,+91-9839-119955,India
+34,Apnalaya Community Shelter,Shelter,Kochi,+91-9830-120005,India
+35,Bharat Seva Dal,Charity,Surat,+91-9810-119795,India
+36,Meera Nambiar (Community Lead),Individual,Patna,+91-9825-119845,India
+37,Salaam Baalak Trust,NGO,Nagpur,+91-9810-119895,India
+38,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9829-119945,India
+39,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9825-119995,India
+40,Sunita Verma (Social Worker),Individual,Vadodara,+91-9820-120045,India
+41,GiveIndia Relief Initiative,NGO,Mumbai,+91-9845-120095,India
+42,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9822-120145,India
+43,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9845-120195,India
+44,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9810-120245,India
+45,Khalsa Aid India,NGO,Chennai,+91-9825-120295,India
+46,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9840-120345,India
+47,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9830-120395,India
+48,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9839-120445,India
+49,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9822-120495,India
+50,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9810-120545,India
+51,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9830-120595,India
+52,Sunita Verma (Social Worker),Individual,Indore,+91-9829-120645,India
+53,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9822-120695,India
+54,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9830-120745,India
+55,ISKCON Food for Life,Charity,Surat,+91-9825-120535,India
+56,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9829-120585,India
+57,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9820-120635,India
+58,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9839-120685,India
+59,Bharat Seva Dal,Charity,Visakhapatnam,+91-9810-120735,India
+60,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9848-120785,India
+61,Robin Hood Army,NGO,Mumbai,+91-9840-120835,India
+62,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9848-120885,India
+63,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9810-120935,India
+64,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9822-120985,India
+65,Uday Foundation,NGO,Chennai,+91-9810-121035,India
+66,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9810-121085,India
+67,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9825-121135,India
+68,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9845-121185,India
+69,Pratham Community Support,NGO,Jaipur,+91-9840-121235,India
+70,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9820-121285,India
+71,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9820-121335,India
+72,Meera Nambiar (Community Lead),Individual,Indore,+91-9830-121385,India
+73,HelpAge India Elders Network,NGO,Bhopal,+91-9820-121435,India
+74,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9840-121485,India
+75,Shri Sai Seva Sansthan,Charity,Surat,+91-9830-121275,India
+76,Sunita Verma (Social Worker),Individual,Patna,+91-9830-121325,India
+77,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9822-121375,India
+78,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9845-121425,India
+79,ISKCON Food for Life,Charity,Visakhapatnam,+91-9848-121475,India
+80,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9829-121525,India
+81,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9822-121575,India
+82,Apnalaya Community Shelter,Shelter,Delhi,+91-9839-121625,India
+83,Bharat Seva Dal,Charity,Bengaluru,+91-9845-121675,India
+84,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9845-121725,India
+85,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9845-121775,India
+86,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9810-121825,India
+87,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9839-121875,India
+88,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9822-121925,India
+89,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9839-121975,India
+90,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9848-122025,India
+91,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9825-122075,India
+92,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9839-122125,India
+93,Feeding India by Zomato,NGO,Bhopal,+91-9845-122175,India
+94,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9848-122225,India
+95,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9825-122015,India
+96,Meera Nambiar (Community Lead),Individual,Patna,+91-9840-122065,India
+97,Salaam Baalak Trust,NGO,Nagpur,+91-9825-122115,India
+98,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9840-122165,India
+99,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9820-122215,India
+100,Sunita Verma (Social Worker),Individual,Vadodara,+91-9825-122265,India
+101,GiveIndia Relief Initiative,NGO,Mumbai,+91-9840-122315,India
+102,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9829-122365,India
+103,ISKCON Food for Life,Charity,Bengaluru,+91-9845-122415,India
+104,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9810-122465,India
+105,Khalsa Aid India,NGO,Chennai,+91-9825-122515,India
+106,Apnalaya Community Shelter,Shelter,Kolkata,+91-9830-122565,India
+107,Bharat Seva Dal,Charity,Pune,+91-9839-122615,India
+108,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9840-122665,India
+109,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9822-122715,India
+110,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9840-122765,India
+111,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9825-122815,India
+112,Sunita Verma (Social Worker),Individual,Indore,+91-9840-122865,India
+113,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9848-122915,India
+114,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9822-122965,India
+115,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9825-122755,India
+116,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9810-122805,India
+117,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9848-122855,India
+118,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9822-122905,India
+119,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9839-122955,India
+120,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9830-123005,India
+121,Robin Hood Army,NGO,Mumbai,+91-9839-123055,India
+122,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9840-123105,India
+123,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9840-123155,India
+124,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9820-123205,India
+125,Uday Foundation,NGO,Chennai,+91-9822-123255,India
+126,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9840-123305,India
+127,ISKCON Food for Life,Charity,Pune,+91-9820-123355,India
+128,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9839-123405,India
+129,Pratham Community Support,NGO,Jaipur,+91-9820-123455,India
+130,Apnalaya Community Shelter,Shelter,Lucknow,+91-9839-123505,India
+131,Bharat Seva Dal,Charity,Chandigarh,+91-9825-123555,India
+132,Meera Nambiar (Community Lead),Individual,Indore,+91-9840-123605,India
+133,HelpAge India Elders Network,NGO,Bhopal,+91-9848-123655,India
+134,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9839-123705,India
+135,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9830-123495,India
+136,Sunita Verma (Social Worker),Individual,Patna,+91-9848-123545,India
+137,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9848-123595,India
+138,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9839-123645,India
+139,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9840-123695,India
+140,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9845-123745,India
+141,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9810-123795,India
+142,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9820-123845,India
+143,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9840-123895,India
+144,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9825-123945,India
+145,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9820-123995,India
+146,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9839-124045,India
+147,Shri Sai Seva Sansthan,Charity,Pune,+91-9830-124095,India
+148,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9845-124145,India
+149,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9810-124195,India
+150,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9840-124245,India
+151,ISKCON Food for Life,Charity,Chandigarh,+91-9830-124295,India
+152,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9822-124345,India
+153,Feeding India by Zomato,NGO,Bhopal,+91-9845-124395,India
+154,Apnalaya Community Shelter,Shelter,Kochi,+91-9848-124445,India
+155,Bharat Seva Dal,Charity,Surat,+91-9845-124235,India
+156,Meera Nambiar (Community Lead),Individual,Patna,+91-9829-124285,India
+157,Salaam Baalak Trust,NGO,Nagpur,+91-9830-124335,India
+158,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9829-124385,India
+159,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9829-124435,India
+160,Sunita Verma (Social Worker),Individual,Vadodara,+91-9840-124485,India
+161,GiveIndia Relief Initiative,NGO,Mumbai,+91-9845-124535,India
+162,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9840-124585,India
+163,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9825-124635,India
+164,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9840-124685,India
+165,Khalsa Aid India,NGO,Chennai,+91-9830-124735,India
+166,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9810-124785,India
+167,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9825-124835,India
+168,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9810-124885,India
+169,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9845-124935,India
+170,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9848-124985,India
+171,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9822-125035,India
+172,Sunita Verma (Social Worker),Individual,Indore,+91-9829-125085,India
+173,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9830-125135,India
+174,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9810-125185,India
+175,ISKCON Food for Life,Charity,Surat,+91-9822-124975,India
+176,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9820-125025,India
+177,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9840-125075,India
+178,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9829-125125,India
+179,Bharat Seva Dal,Charity,Visakhapatnam,+91-9810-125175,India
+180,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9825-125225,India
+181,Robin Hood Army,NGO,Mumbai,+91-9830-125275,India
+182,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9840-125325,India
+183,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9839-125375,India
+184,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9822-125425,India
+185,Uday Foundation,NGO,Chennai,+91-9830-125475,India
+186,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9810-125525,India
+187,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9848-125575,India
+188,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9825-125625,India
+189,Pratham Community Support,NGO,Jaipur,+91-9820-125675,India
+190,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9839-125725,India
+191,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9829-125775,India
+192,Meera Nambiar (Community Lead),Individual,Indore,+91-9830-125825,India
+193,HelpAge India Elders Network,NGO,Bhopal,+91-9839-125875,India
+194,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9848-125925,India
+195,Shri Sai Seva Sansthan,Charity,Surat,+91-9810-125715,India
+196,Sunita Verma (Social Worker),Individual,Patna,+91-9825-125765,India
+197,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9840-125815,India
+198,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9822-125865,India
+199,ISKCON Food for Life,Charity,Visakhapatnam,+91-9810-125915,India
+200,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9845-125965,India
+201,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9820-126015,India
+202,Apnalaya Community Shelter,Shelter,Delhi,+91-9820-126065,India
+203,Bharat Seva Dal,Charity,Bengaluru,+91-9840-126115,India
+204,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9825-126165,India
+205,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9810-126215,India
+206,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9810-126265,India
+207,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9848-126315,India
+208,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9829-126365,India
+209,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9845-126415,India
+210,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9822-126465,India
+211,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9825-126515,India
+212,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9830-126565,India
+213,Feeding India by Zomato,NGO,Bhopal,+91-9829-126615,India
+214,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9822-126665,India
+215,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9839-126455,India
+216,Meera Nambiar (Community Lead),Individual,Patna,+91-9845-126505,India
+217,Salaam Baalak Trust,NGO,Nagpur,+91-9822-126555,India
+218,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9810-126605,India
+219,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9825-126655,India
+220,Sunita Verma (Social Worker),Individual,Vadodara,+91-9839-126705,India
+221,GiveIndia Relief Initiative,NGO,Mumbai,+91-9822-126755,India
+222,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9840-126805,India
+223,ISKCON Food for Life,Charity,Bengaluru,+91-9820-126855,India
+224,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9830-126905,India
+225,Khalsa Aid India,NGO,Chennai,+91-9848-126955,India
+226,Apnalaya Community Shelter,Shelter,Kolkata,+91-9825-127005,India
+227,Bharat Seva Dal,Charity,Pune,+91-9825-127055,India
+228,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9848-127105,India
+229,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9830-127155,India
+230,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9810-127205,India
+231,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9830-127255,India
+232,Sunita Verma (Social Worker),Individual,Indore,+91-9829-127305,India
+233,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9830-127355,India
+234,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9820-127405,India
+235,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9822-127195,India
+236,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9840-127245,India
+237,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9848-127295,India
+238,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9810-127345,India
+239,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9825-127395,India
+240,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9810-127445,India
+241,Robin Hood Army,NGO,Mumbai,+91-9848-127495,India
+242,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9839-127545,India
+243,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9820-127595,India
+244,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9820-127645,India
+245,Uday Foundation,NGO,Chennai,+91-9830-127695,India
+246,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9848-127745,India
+247,ISKCON Food for Life,Charity,Pune,+91-9845-127795,India
+248,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9839-127845,India
+249,Pratham Community Support,NGO,Jaipur,+91-9848-127895,India
+250,Apnalaya Community Shelter,Shelter,Lucknow,+91-9810-127945,India
+251,Bharat Seva Dal,Charity,Chandigarh,+91-9829-127995,India
+252,Meera Nambiar (Community Lead),Individual,Indore,+91-9848-128045,India
+253,HelpAge India Elders Network,NGO,Bhopal,+91-9839-128095,India
+254,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9848-128145,India
+255,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9848-127935,India
+256,Sunita Verma (Social Worker),Individual,Patna,+91-9830-127985,India
+257,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9845-128035,India
+258,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9839-128085,India
+259,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9820-128135,India
+260,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9840-128185,India
+261,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9845-128235,India
+262,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9845-128285,India
+263,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9829-128335,India
+264,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9840-128385,India
+265,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9845-128435,India
+266,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9810-128485,India
+267,Shri Sai Seva Sansthan,Charity,Pune,+91-9820-128535,India
+268,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9845-128585,India
+269,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9820-128635,India
+270,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9830-128685,India
+271,ISKCON Food for Life,Charity,Chandigarh,+91-9848-128735,India
+272,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9839-128785,India
+273,Feeding India by Zomato,NGO,Bhopal,+91-9830-128835,India
+274,Apnalaya Community Shelter,Shelter,Kochi,+91-9820-128885,India
+275,Bharat Seva Dal,Charity,Surat,+91-9845-128675,India
+276,Meera Nambiar (Community Lead),Individual,Patna,+91-9840-128725,India
+277,Salaam Baalak Trust,NGO,Nagpur,+91-9820-128775,India
+278,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9845-128825,India
+279,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9822-128875,India
+280,Sunita Verma (Social Worker),Individual,Vadodara,+91-9829-128925,India
+281,GiveIndia Relief Initiative,NGO,Mumbai,+91-9810-128975,India
+282,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9810-129025,India
+283,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9825-129075,India
+284,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9825-129125,India
+285,Khalsa Aid India,NGO,Chennai,+91-9830-129175,India
+286,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9829-129225,India
+287,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9839-129275,India
+288,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9810-129325,India
+289,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9825-129375,India
+290,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9829-129425,India
+291,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9848-129475,India
+292,Sunita Verma (Social Worker),Individual,Indore,+91-9839-129525,India
+293,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9820-129575,India
+294,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9829-129625,India
+295,ISKCON Food for Life,Charity,Surat,+91-9840-129415,India
+296,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9825-129465,India
+297,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9820-129515,India
+298,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9820-129565,India
+299,Bharat Seva Dal,Charity,Visakhapatnam,+91-9825-129615,India
+300,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9822-129665,India
+301,Robin Hood Army,NGO,Mumbai,+91-9822-129715,India
+302,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9810-129765,India
+303,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9825-129815,India
+304,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9825-129865,India
+305,Uday Foundation,NGO,Chennai,+91-9810-129915,India
+306,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9810-129965,India
+307,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9830-130015,India
+308,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9839-130065,India
+309,Pratham Community Support,NGO,Jaipur,+91-9845-130115,India
+310,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9810-130165,India
+311,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9845-130215,India
+312,Meera Nambiar (Community Lead),Individual,Indore,+91-9840-130265,India
+313,HelpAge India Elders Network,NGO,Bhopal,+91-9839-130315,India
+314,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9839-130365,India
+315,Shri Sai Seva Sansthan,Charity,Surat,+91-9829-130155,India
+316,Sunita Verma (Social Worker),Individual,Patna,+91-9830-130205,India
+317,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9822-130255,India
+318,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9839-130305,India
+319,ISKCON Food for Life,Charity,Visakhapatnam,+91-9829-130355,India
+320,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9840-130405,India
+321,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9825-130455,India
+322,Apnalaya Community Shelter,Shelter,Delhi,+91-9829-130505,India
+323,Bharat Seva Dal,Charity,Bengaluru,+91-9839-130555,India
+324,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9822-130605,India
+325,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9810-130655,India
+326,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9810-130705,India
+327,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9829-130755,India
+328,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9848-130805,India
+329,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9822-130855,India
+330,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9825-130905,India
+331,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9848-130955,India
+332,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9822-131005,India
+333,Feeding India by Zomato,NGO,Bhopal,+91-9830-131055,India
+334,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9825-131105,India
+335,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9822-130895,India
+336,Meera Nambiar (Community Lead),Individual,Patna,+91-9822-130945,India
+337,Salaam Baalak Trust,NGO,Nagpur,+91-9810-130995,India
+338,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9830-131045,India
+339,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9822-131095,India
+340,Sunita Verma (Social Worker),Individual,Vadodara,+91-9830-131145,India
+341,GiveIndia Relief Initiative,NGO,Mumbai,+91-9840-131195,India
+342,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9830-131245,India
+343,ISKCON Food for Life,Charity,Bengaluru,+91-9845-131295,India
+344,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9825-131345,India
+345,Khalsa Aid India,NGO,Chennai,+91-9810-131395,India
+346,Apnalaya Community Shelter,Shelter,Kolkata,+91-9810-131445,India
+347,Bharat Seva Dal,Charity,Pune,+91-9810-131495,India
+348,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9810-131545,India
+349,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9822-131595,India
+350,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9810-131645,India
+351,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9830-131695,India
+352,Sunita Verma (Social Worker),Individual,Indore,+91-9845-131745,India
+353,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9829-131795,India
+354,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9820-131845,India
+355,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9839-131635,India
+356,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9829-131685,India
+357,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9829-131735,India
+358,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9830-131785,India
+359,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9810-131835,India
+360,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9822-131885,India
+361,Robin Hood Army,NGO,Mumbai,+91-9830-131935,India
+362,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9822-131985,India
+363,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9820-132035,India
+364,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9840-132085,India
+365,Uday Foundation,NGO,Chennai,+91-9839-132135,India
+366,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9840-132185,India
+367,ISKCON Food for Life,Charity,Pune,+91-9830-132235,India
+368,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9810-132285,India
+369,Pratham Community Support,NGO,Jaipur,+91-9839-132335,India
+370,Apnalaya Community Shelter,Shelter,Lucknow,+91-9829-132385,India
+371,Bharat Seva Dal,Charity,Chandigarh,+91-9848-132435,India
+372,Meera Nambiar (Community Lead),Individual,Indore,+91-9845-132485,India
+373,HelpAge India Elders Network,NGO,Bhopal,+91-9825-132535,India
+374,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9848-132585,India
+375,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9810-132375,India
+376,Sunita Verma (Social Worker),Individual,Patna,+91-9830-132425,India
+377,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9829-132475,India
+378,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9830-132525,India
+379,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9810-132575,India
+380,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9840-132625,India
+381,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9839-132675,India
+382,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9848-132725,India
+383,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9822-132775,India
+384,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9829-132825,India
+385,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9839-132875,India
+386,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9839-132925,India
+387,Shri Sai Seva Sansthan,Charity,Pune,+91-9829-132975,India
+388,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9820-133025,India
+389,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9839-133075,India
+390,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9840-133125,India
+391,ISKCON Food for Life,Charity,Chandigarh,+91-9820-133175,India
+392,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9845-133225,India
+393,Feeding India by Zomato,NGO,Bhopal,+91-9840-133275,India
+394,Apnalaya Community Shelter,Shelter,Kochi,+91-9840-133325,India
+395,Bharat Seva Dal,Charity,Surat,+91-9830-133115,India
+396,Meera Nambiar (Community Lead),Individual,Patna,+91-9830-133165,India
+397,Salaam Baalak Trust,NGO,Nagpur,+91-9820-133215,India
+398,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9845-133265,India
+399,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9845-133315,India
+400,Sunita Verma (Social Worker),Individual,Vadodara,+91-9839-133365,India
+401,GiveIndia Relief Initiative,NGO,Mumbai,+91-9822-133415,India
+402,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9810-133465,India
+403,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9845-133515,India
+404,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9820-133565,India
+405,Khalsa Aid India,NGO,Chennai,+91-9810-133615,India
+406,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9829-133665,India
+407,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9848-133715,India
+408,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9822-133765,India
+409,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9822-133815,India
+410,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9825-133865,India
+411,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9830-133915,India
+412,Sunita Verma (Social Worker),Individual,Indore,+91-9845-133965,India
+413,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9830-134015,India
+414,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9840-134065,India
+415,ISKCON Food for Life,Charity,Surat,+91-9830-133855,India
+416,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9839-133905,India
+417,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9839-133955,India
+418,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9810-134005,India
+419,Bharat Seva Dal,Charity,Visakhapatnam,+91-9820-134055,India
+420,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9845-134105,India
+421,Robin Hood Army,NGO,Mumbai,+91-9845-134155,India
+422,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9839-134205,India
+423,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9820-134255,India
+424,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9810-134305,India
+425,Uday Foundation,NGO,Chennai,+91-9840-134355,India
+426,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9825-134405,India
+427,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9822-134455,India
+428,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9825-134505,India
+429,Pratham Community Support,NGO,Jaipur,+91-9839-134555,India
+430,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9825-134605,India
+431,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9822-134655,India
+432,Meera Nambiar (Community Lead),Individual,Indore,+91-9840-134705,India
+433,HelpAge India Elders Network,NGO,Bhopal,+91-9848-134755,India
+434,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9829-134805,India
+435,Shri Sai Seva Sansthan,Charity,Surat,+91-9810-134595,India
+436,Sunita Verma (Social Worker),Individual,Patna,+91-9830-134645,India
+437,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9822-134695,India
+438,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9810-134745,India
+439,ISKCON Food for Life,Charity,Visakhapatnam,+91-9840-134795,India
+440,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9839-134845,India
+441,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9825-134895,India
+442,Apnalaya Community Shelter,Shelter,Delhi,+91-9829-134945,India
+443,Bharat Seva Dal,Charity,Bengaluru,+91-9840-134995,India
+444,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9820-135045,India
+445,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9848-135095,India
+446,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9822-135145,India
+447,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9839-135195,India
+448,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9820-135245,India
+449,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9820-135295,India
+450,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9848-135345,India
+451,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9840-135395,India
+452,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9848-135445,India
+453,Feeding India by Zomato,NGO,Bhopal,+91-9845-135495,India
+454,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9840-135545,India
+455,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9840-135335,India
+456,Meera Nambiar (Community Lead),Individual,Patna,+91-9830-135385,India
+457,Salaam Baalak Trust,NGO,Nagpur,+91-9810-135435,India
+458,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9820-135485,India
+459,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9825-135535,India
+460,Sunita Verma (Social Worker),Individual,Vadodara,+91-9822-135585,India
+461,GiveIndia Relief Initiative,NGO,Mumbai,+91-9845-135635,India
+462,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9845-135685,India
+463,ISKCON Food for Life,Charity,Bengaluru,+91-9822-135735,India
+464,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9829-135785,India
+465,Khalsa Aid India,NGO,Chennai,+91-9848-135835,India
+466,Apnalaya Community Shelter,Shelter,Kolkata,+91-9829-135885,India
+467,Bharat Seva Dal,Charity,Pune,+91-9829-135935,India
+468,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9830-135985,India
+469,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9810-136035,India
+470,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9822-136085,India
+471,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9820-136135,India
+472,Sunita Verma (Social Worker),Individual,Indore,+91-9822-136185,India
+473,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9820-136235,India
+474,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9825-136285,India
+475,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9810-136075,India
+476,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9830-136125,India
+477,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9839-136175,India
+478,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9822-136225,India
+479,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9839-136275,India
+480,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9822-136325,India
+481,Robin Hood Army,NGO,Mumbai,+91-9822-136375,India
+482,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9840-136425,India
+483,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9810-136475,India
+484,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9822-136525,India
+485,Uday Foundation,NGO,Chennai,+91-9820-136575,India
+486,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9830-136625,India
+487,ISKCON Food for Life,Charity,Pune,+91-9845-136675,India
+488,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9839-136725,India
+489,Pratham Community Support,NGO,Jaipur,+91-9825-136775,India
+490,Apnalaya Community Shelter,Shelter,Lucknow,+91-9830-136825,India
+491,Bharat Seva Dal,Charity,Chandigarh,+91-9810-136875,India
+492,Meera Nambiar (Community Lead),Individual,Indore,+91-9822-136925,India
+493,HelpAge India Elders Network,NGO,Bhopal,+91-9810-136975,India
+494,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9848-137025,India
+495,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9822-136815,India
+496,Sunita Verma (Social Worker),Individual,Patna,+91-9839-136865,India
+497,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9822-136915,India
+498,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9829-136965,India
+499,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9810-137015,India
+500,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9822-137065,India
+501,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9840-137115,India
+502,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9830-137165,India
+503,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9848-137215,India
+504,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9830-137265,India
+505,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9845-137315,India
+506,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9810-137365,India
+507,Shri Sai Seva Sansthan,Charity,Pune,+91-9829-137415,India
+508,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9810-137465,India
+509,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9829-137515,India
+510,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9829-137565,India
+511,ISKCON Food for Life,Charity,Chandigarh,+91-9848-137615,India
+512,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9830-137665,India
+513,Feeding India by Zomato,NGO,Bhopal,+91-9830-137715,India
+514,Apnalaya Community Shelter,Shelter,Kochi,+91-9845-137765,India
+515,Bharat Seva Dal,Charity,Surat,+91-9848-137555,India
+516,Meera Nambiar (Community Lead),Individual,Patna,+91-9810-137605,India
+517,Salaam Baalak Trust,NGO,Nagpur,+91-9845-137655,India
+518,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9840-137705,India
+519,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9848-137755,India
+520,Sunita Verma (Social Worker),Individual,Vadodara,+91-9845-137805,India
+521,GiveIndia Relief Initiative,NGO,Mumbai,+91-9839-137855,India
+522,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9845-137905,India
+523,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9810-137955,India
+524,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9845-138005,India
+525,Khalsa Aid India,NGO,Chennai,+91-9825-138055,India
+526,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9825-138105,India
+527,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9839-138155,India
+528,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9839-138205,India
+529,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9825-138255,India
+530,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9839-138305,India
+531,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9839-138355,India
+532,Sunita Verma (Social Worker),Individual,Indore,+91-9830-138405,India
+533,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9830-138455,India
+534,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9845-138505,India
+535,ISKCON Food for Life,Charity,Surat,+91-9825-138295,India
+536,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9810-138345,India
+537,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9825-138395,India
+538,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9825-138445,India
+539,Bharat Seva Dal,Charity,Visakhapatnam,+91-9840-138495,India
+540,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9840-138545,India
+541,Robin Hood Army,NGO,Mumbai,+91-9839-138595,India
+542,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9820-138645,India
+543,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9830-138695,India
+544,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9829-138745,India
+545,Uday Foundation,NGO,Chennai,+91-9810-138795,India
+546,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9840-138845,India
+547,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9825-138895,India
+548,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9825-138945,India
+549,Pratham Community Support,NGO,Jaipur,+91-9820-138995,India
+550,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9820-139045,India
+551,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9830-139095,India
+552,Meera Nambiar (Community Lead),Individual,Indore,+91-9840-139145,India
+553,HelpAge India Elders Network,NGO,Bhopal,+91-9810-139195,India
+554,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9810-139245,India
+555,Shri Sai Seva Sansthan,Charity,Surat,+91-9839-139035,India
+556,Sunita Verma (Social Worker),Individual,Patna,+91-9839-139085,India
+557,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9829-139135,India
+558,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9822-139185,India
+559,ISKCON Food for Life,Charity,Visakhapatnam,+91-9825-139235,India
+560,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9839-139285,India
+561,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9829-139335,India
+562,Apnalaya Community Shelter,Shelter,Delhi,+91-9820-139385,India
+563,Bharat Seva Dal,Charity,Bengaluru,+91-9825-139435,India
+564,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9839-139485,India
+565,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9848-139535,India
+566,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9830-139585,India
+567,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9839-139635,India
+568,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9825-139685,India
+569,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9829-139735,India
+570,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9845-139785,India
+571,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9820-139835,India
+572,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9825-139885,India
+573,Feeding India by Zomato,NGO,Bhopal,+91-9810-139935,India
+574,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9830-139985,India
+575,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9810-139775,India
+576,Meera Nambiar (Community Lead),Individual,Patna,+91-9829-139825,India
+577,Salaam Baalak Trust,NGO,Nagpur,+91-9845-139875,India
+578,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9820-139925,India
+579,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9848-139975,India
+580,Sunita Verma (Social Worker),Individual,Vadodara,+91-9825-140025,India
+581,GiveIndia Relief Initiative,NGO,Mumbai,+91-9825-140075,India
+582,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9829-140125,India
+583,ISKCON Food for Life,Charity,Bengaluru,+91-9829-140175,India
+584,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9839-140225,India
+585,Khalsa Aid India,NGO,Chennai,+91-9845-140275,India
+586,Apnalaya Community Shelter,Shelter,Kolkata,+91-9830-140325,India
+587,Bharat Seva Dal,Charity,Pune,+91-9830-140375,India
+588,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9840-140425,India
+589,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9822-140475,India
+590,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9822-140525,India
+591,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9830-140575,India
+592,Sunita Verma (Social Worker),Individual,Indore,+91-9839-140625,India
+593,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9820-140675,India
+594,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9830-140725,India
+595,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9810-140515,India
+596,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9830-140565,India
+597,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9810-140615,India
+598,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9829-140665,India
+599,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9822-140715,India
+600,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9840-140765,India
+601,Robin Hood Army,NGO,Mumbai,+91-9840-140815,India
+602,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9839-140865,India
+603,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9845-140915,India
+604,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9830-140965,India
+605,Uday Foundation,NGO,Chennai,+91-9810-141015,India
+606,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9839-141065,India
+607,ISKCON Food for Life,Charity,Pune,+91-9845-141115,India
+608,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9830-141165,India
+609,Pratham Community Support,NGO,Jaipur,+91-9840-141215,India
+610,Apnalaya Community Shelter,Shelter,Lucknow,+91-9822-141265,India
+611,Bharat Seva Dal,Charity,Chandigarh,+91-9845-141315,India
+612,Meera Nambiar (Community Lead),Individual,Indore,+91-9839-141365,India
+613,HelpAge India Elders Network,NGO,Bhopal,+91-9810-141415,India
+614,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9840-141465,India
+615,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9829-141255,India
+616,Sunita Verma (Social Worker),Individual,Patna,+91-9822-141305,India
+617,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9830-141355,India
+618,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9845-141405,India
+619,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9829-141455,India
+620,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9810-141505,India
+621,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9822-141555,India
+622,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9829-141605,India
+623,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9830-141655,India
+624,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9820-141705,India
+625,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9830-141755,India
+626,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9840-141805,India
+627,Shri Sai Seva Sansthan,Charity,Pune,+91-9845-141855,India
+628,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9848-141905,India
+629,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9830-141955,India
+630,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9825-142005,India
+631,ISKCON Food for Life,Charity,Chandigarh,+91-9848-142055,India
+632,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9848-142105,India
+633,Feeding India by Zomato,NGO,Bhopal,+91-9845-142155,India
+634,Apnalaya Community Shelter,Shelter,Kochi,+91-9845-142205,India
+635,Bharat Seva Dal,Charity,Surat,+91-9810-141995,India
+636,Meera Nambiar (Community Lead),Individual,Patna,+91-9840-142045,India
+637,Salaam Baalak Trust,NGO,Nagpur,+91-9810-142095,India
+638,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9829-142145,India
+639,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9829-142195,India
+640,Sunita Verma (Social Worker),Individual,Vadodara,+91-9829-142245,India
+641,GiveIndia Relief Initiative,NGO,Mumbai,+91-9820-142295,India
+642,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9830-142345,India
+643,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9839-142395,India
+644,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9845-142445,India
+645,Khalsa Aid India,NGO,Chennai,+91-9839-142495,India
+646,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9822-142545,India
+647,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9845-142595,India
+648,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9845-142645,India
+649,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9845-142695,India
+650,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9839-142745,India
+651,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9845-142795,India
+652,Sunita Verma (Social Worker),Individual,Indore,+91-9825-142845,India
+653,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9820-142895,India
+654,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9822-142945,India
+655,ISKCON Food for Life,Charity,Surat,+91-9830-142735,India
+656,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9848-142785,India
+657,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9825-142835,India
+658,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9839-142885,India
+659,Bharat Seva Dal,Charity,Visakhapatnam,+91-9840-142935,India
+660,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9825-142985,India
+661,Robin Hood Army,NGO,Mumbai,+91-9848-143035,India
+662,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9829-143085,India
+663,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9848-143135,India
+664,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9840-143185,India
+665,Uday Foundation,NGO,Chennai,+91-9825-143235,India
+666,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9848-143285,India
+667,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9830-143335,India
+668,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9839-143385,India
+669,Pratham Community Support,NGO,Jaipur,+91-9825-143435,India
+670,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9825-143485,India
+671,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9840-143535,India
+672,Meera Nambiar (Community Lead),Individual,Indore,+91-9822-143585,India
+673,HelpAge India Elders Network,NGO,Bhopal,+91-9829-143635,India
+674,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9829-143685,India
+675,Shri Sai Seva Sansthan,Charity,Surat,+91-9822-143475,India
+676,Sunita Verma (Social Worker),Individual,Patna,+91-9845-143525,India
+677,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9848-143575,India
+678,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9839-143625,India
+679,ISKCON Food for Life,Charity,Visakhapatnam,+91-9845-143675,India
+680,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9840-143725,India
+681,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9820-143775,India
+682,Apnalaya Community Shelter,Shelter,Delhi,+91-9825-143825,India
+683,Bharat Seva Dal,Charity,Bengaluru,+91-9830-143875,India
+684,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9829-143925,India
+685,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9810-143975,India
+686,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9829-144025,India
+687,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9810-144075,India
+688,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9840-144125,India
+689,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9810-144175,India
+690,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9845-144225,India
+691,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9840-144275,India
+692,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9825-144325,India
+693,Feeding India by Zomato,NGO,Bhopal,+91-9829-144375,India
+694,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9845-144425,India
+695,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9822-144215,India
+696,Meera Nambiar (Community Lead),Individual,Patna,+91-9810-144265,India
+697,Salaam Baalak Trust,NGO,Nagpur,+91-9848-144315,India
+698,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9825-144365,India
+699,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9830-144415,India
+700,Sunita Verma (Social Worker),Individual,Vadodara,+91-9820-144465,India
+701,GiveIndia Relief Initiative,NGO,Mumbai,+91-9822-144515,India
+702,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9820-144565,India
+703,ISKCON Food for Life,Charity,Bengaluru,+91-9822-144615,India
+704,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9829-144665,India
+705,Khalsa Aid India,NGO,Chennai,+91-9830-144715,India
+706,Apnalaya Community Shelter,Shelter,Kolkata,+91-9848-144765,India
+707,Bharat Seva Dal,Charity,Pune,+91-9822-144815,India
+708,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9810-144865,India
+709,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9830-144915,India
+710,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9848-144965,India
+711,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9820-145015,India
+712,Sunita Verma (Social Worker),Individual,Indore,+91-9830-145065,India
+713,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9810-145115,India
+714,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9830-145165,India
+715,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9845-144955,India
+716,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9845-145005,India
+717,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9820-145055,India
+718,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9840-145105,India
+719,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9825-145155,India
+720,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9845-145205,India
+721,Robin Hood Army,NGO,Mumbai,+91-9825-145255,India
+722,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9825-145305,India
+723,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9839-145355,India
+724,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9820-145405,India
+725,Uday Foundation,NGO,Chennai,+91-9810-145455,India
+726,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9820-145505,India
+727,ISKCON Food for Life,Charity,Pune,+91-9840-145555,India
+728,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9848-145605,India
+729,Pratham Community Support,NGO,Jaipur,+91-9845-145655,India
+730,Apnalaya Community Shelter,Shelter,Lucknow,+91-9829-145705,India
+731,Bharat Seva Dal,Charity,Chandigarh,+91-9839-145755,India
+732,Meera Nambiar (Community Lead),Individual,Indore,+91-9829-145805,India
+733,HelpAge India Elders Network,NGO,Bhopal,+91-9822-145855,India
+734,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9810-145905,India
+735,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9840-145695,India
+736,Sunita Verma (Social Worker),Individual,Patna,+91-9848-145745,India
+737,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9840-145795,India
+738,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9810-145845,India
+739,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9820-145895,India
+740,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9848-145945,India
+741,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9822-145995,India
+742,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9839-146045,India
+743,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9825-146095,India
+744,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9810-146145,India
+745,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9810-146195,India
+746,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9825-146245,India
+747,Shri Sai Seva Sansthan,Charity,Pune,+91-9839-146295,India
+748,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9829-146345,India
+749,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9820-146395,India
+750,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9829-146445,India
+751,ISKCON Food for Life,Charity,Chandigarh,+91-9839-146495,India
+752,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9848-146545,India
+753,Feeding India by Zomato,NGO,Bhopal,+91-9845-146595,India
+754,Apnalaya Community Shelter,Shelter,Kochi,+91-9840-146645,India
+755,Bharat Seva Dal,Charity,Surat,+91-9822-146435,India
+756,Meera Nambiar (Community Lead),Individual,Patna,+91-9820-146485,India
+757,Salaam Baalak Trust,NGO,Nagpur,+91-9839-146535,India
+758,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9830-146585,India
+759,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9848-146635,India
+760,Sunita Verma (Social Worker),Individual,Vadodara,+91-9839-146685,India
+761,GiveIndia Relief Initiative,NGO,Mumbai,+91-9822-146735,India
+762,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9845-146785,India
+763,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9810-146835,India
+764,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9829-146885,India
+765,Khalsa Aid India,NGO,Chennai,+91-9830-146935,India
+766,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9810-146985,India
+767,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9829-147035,India
+768,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9829-147085,India
+769,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9829-147135,India
+770,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9829-147185,India
+771,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9829-147235,India
+772,Sunita Verma (Social Worker),Individual,Indore,+91-9820-147285,India
+773,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9822-147335,India
+774,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9825-147385,India
+775,ISKCON Food for Life,Charity,Surat,+91-9820-147175,India
+776,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9822-147225,India
+777,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9830-147275,India
+778,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9840-147325,India
+779,Bharat Seva Dal,Charity,Visakhapatnam,+91-9820-147375,India
+780,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9830-147425,India
+781,Robin Hood Army,NGO,Mumbai,+91-9810-147475,India
+782,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9830-147525,India
+783,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9848-147575,India
+784,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9810-147625,India
+785,Uday Foundation,NGO,Chennai,+91-9839-147675,India
+786,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9830-147725,India
+787,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9845-147775,India
+788,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9820-147825,India
+789,Pratham Community Support,NGO,Jaipur,+91-9830-147875,India
+790,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9829-147925,India
+791,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9830-147975,India
+792,Meera Nambiar (Community Lead),Individual,Indore,+91-9845-148025,India
+793,HelpAge India Elders Network,NGO,Bhopal,+91-9825-148075,India
+794,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9825-148125,India
+795,Shri Sai Seva Sansthan,Charity,Surat,+91-9845-147915,India
+796,Sunita Verma (Social Worker),Individual,Patna,+91-9845-147965,India
+797,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9810-148015,India
+798,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9825-148065,India
+799,ISKCON Food for Life,Charity,Visakhapatnam,+91-9820-148115,India
+800,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9840-148165,India
+801,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9848-148215,India
+802,Apnalaya Community Shelter,Shelter,Delhi,+91-9820-148265,India
+803,Bharat Seva Dal,Charity,Bengaluru,+91-9848-148315,India
+804,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9820-148365,India
+805,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9830-148415,India
+806,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9840-148465,India
+807,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9829-148515,India
+808,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9822-148565,India
+809,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9829-148615,India
+810,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9825-148665,India
+811,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9840-148715,India
+812,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9820-148765,India
+813,Feeding India by Zomato,NGO,Bhopal,+91-9848-148815,India
+814,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9840-148865,India
+815,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9830-148655,India
+816,Meera Nambiar (Community Lead),Individual,Patna,+91-9820-148705,India
+817,Salaam Baalak Trust,NGO,Nagpur,+91-9830-148755,India
+818,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9840-148805,India
+819,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9810-148855,India
+820,Sunita Verma (Social Worker),Individual,Vadodara,+91-9830-148905,India
+821,GiveIndia Relief Initiative,NGO,Mumbai,+91-9822-148955,India
+822,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9822-149005,India
+823,ISKCON Food for Life,Charity,Bengaluru,+91-9825-149055,India
+824,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9822-149105,India
+825,Khalsa Aid India,NGO,Chennai,+91-9830-149155,India
+826,Apnalaya Community Shelter,Shelter,Kolkata,+91-9845-149205,India
+827,Bharat Seva Dal,Charity,Pune,+91-9825-149255,India
+828,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9825-149305,India
+829,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9830-149355,India
+830,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9829-149405,India
+831,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9840-149455,India
+832,Sunita Verma (Social Worker),Individual,Indore,+91-9810-149505,India
+833,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9822-149555,India
+834,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9810-149605,India
+835,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9822-149395,India
+836,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9839-149445,India
+837,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9845-149495,India
+838,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9829-149545,India
+839,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9840-149595,India
+840,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9830-149645,India
+841,Robin Hood Army,NGO,Mumbai,+91-9810-149695,India
+842,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9810-149745,India
+843,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9830-149795,India
+844,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9840-149845,India
+845,Uday Foundation,NGO,Chennai,+91-9840-149895,India
+846,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9825-149945,India
+847,ISKCON Food for Life,Charity,Pune,+91-9839-149995,India
+848,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9822-150045,India
+849,Pratham Community Support,NGO,Jaipur,+91-9845-150095,India
+850,Apnalaya Community Shelter,Shelter,Lucknow,+91-9825-150145,India
+851,Bharat Seva Dal,Charity,Chandigarh,+91-9830-150195,India
+852,Meera Nambiar (Community Lead),Individual,Indore,+91-9825-150245,India
+853,HelpAge India Elders Network,NGO,Bhopal,+91-9820-150295,India
+854,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9830-150345,India
+855,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9839-150135,India
+856,Sunita Verma (Social Worker),Individual,Patna,+91-9822-150185,India
+857,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9840-150235,India
+858,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9820-150285,India
+859,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9810-150335,India
+860,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9822-150385,India
+861,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9830-150435,India
+862,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9829-150485,India
+863,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9845-150535,India
+864,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9820-150585,India
+865,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9845-150635,India
+866,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9839-150685,India
+867,Shri Sai Seva Sansthan,Charity,Pune,+91-9825-150735,India
+868,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9820-150785,India
+869,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9845-150835,India
+870,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9810-150885,India
+871,ISKCON Food for Life,Charity,Chandigarh,+91-9848-150935,India
+872,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9830-150985,India
+873,Feeding India by Zomato,NGO,Bhopal,+91-9830-151035,India
+874,Apnalaya Community Shelter,Shelter,Kochi,+91-9822-151085,India
+875,Bharat Seva Dal,Charity,Surat,+91-9839-150875,India
+876,Meera Nambiar (Community Lead),Individual,Patna,+91-9820-150925,India
+877,Salaam Baalak Trust,NGO,Nagpur,+91-9839-150975,India
+878,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9845-151025,India
+879,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9825-151075,India
+880,Sunita Verma (Social Worker),Individual,Vadodara,+91-9830-151125,India
+881,GiveIndia Relief Initiative,NGO,Mumbai,+91-9830-151175,India
+882,Sarvodaya Seva Ashram - Delhi Hub,Shelter,Delhi,+91-9825-151225,India
+883,ISKCON Food for Life - Bengaluru Hub,Charity,Bengaluru,+91-9810-151275,India
+884,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9839-151325,India
+885,Khalsa Aid India,NGO,Chennai,+91-9845-151375,India
+886,Apnalaya Community Shelter - Kolkata Hub,Shelter,Kolkata,+91-9829-151425,India
+887,Bharat Seva Dal - Pune Hub,Charity,Pune,+91-9830-151475,India
+888,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9822-151525,India
+889,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9830-151575,India
+890,Asha Deep Rehabilitation Center,Shelter,Lucknow,+91-9840-151625,India
+891,Shri Sai Seva Sansthan,Charity,Chandigarh,+91-9848-151675,India
+892,Sunita Verma (Social Worker),Individual,Indore,+91-9810-151725,India
+893,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9820-151775,India
+894,Sarvodaya Seva Ashram,Shelter,Kochi,+91-9845-151825,India
+895,ISKCON Food for Life,Charity,Surat,+91-9825-151615,India
+896,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9829-151665,India
+897,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9822-151715,India
+898,Apnalaya Community Shelter,Shelter,Coimbatore,+91-9829-151765,India
+899,Bharat Seva Dal,Charity,Visakhapatnam,+91-9810-151815,India
+900,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9840-151865,India
+901,Robin Hood Army,NGO,Mumbai,+91-9840-151915,India
+902,Asha Deep Rehabilitation Center - Delhi Hub,Shelter,Delhi,+91-9825-151965,India
+903,Shri Sai Seva Sansthan - Bengaluru Hub,Charity,Bengaluru,+91-9848-152015,India
+904,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9839-152065,India
+905,Uday Foundation,NGO,Chennai,+91-9840-152115,India
+906,Sarvodaya Seva Ashram - Kolkata Hub,Shelter,Kolkata,+91-9825-152165,India
+907,ISKCON Food for Life - Pune Hub,Charity,Pune,+91-9848-152215,India
+908,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9810-152265,India
+909,Pratham Community Support,NGO,Jaipur,+91-9845-152315,India
+910,Apnalaya Community Shelter - Lucknow Hub,Shelter,Lucknow,+91-9810-152365,India
+911,Bharat Seva Dal - Chandigarh Hub,Charity,Chandigarh,+91-9825-152415,India
+912,Meera Nambiar (Community Lead),Individual,Indore,+91-9845-152465,India
+913,HelpAge India Elders Network,NGO,Bhopal,+91-9825-152515,India
+914,Asha Deep Rehabilitation Center,Shelter,Kochi,+91-9810-152565,India
+915,Shri Sai Seva Sansthan,Charity,Surat,+91-9830-152355,India
+916,Sunita Verma (Social Worker),Individual,Patna,+91-9830-152405,India
+917,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9810-152455,India
+918,Sarvodaya Seva Ashram,Shelter,Coimbatore,+91-9829-152505,India
+919,ISKCON Food for Life,Charity,Visakhapatnam,+91-9829-152555,India
+920,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9840-152605,India
+921,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9840-152655,India
+922,Apnalaya Community Shelter,Shelter,Delhi,+91-9845-152705,India
+923,Bharat Seva Dal,Charity,Bengaluru,+91-9845-152755,India
+924,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9830-152805,India
+925,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9829-152855,India
+926,Asha Deep Rehabilitation Center - Kolkata Hub,Shelter,Kolkata,+91-9848-152905,India
+927,Shri Sai Seva Sansthan - Pune Hub,Charity,Pune,+91-9810-152955,India
+928,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9848-153005,India
+929,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9845-153055,India
+930,Sarvodaya Seva Ashram - Lucknow Hub,Shelter,Lucknow,+91-9848-153105,India
+931,ISKCON Food for Life - Chandigarh Hub,Charity,Chandigarh,+91-9825-153155,India
+932,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9820-153205,India
+933,Feeding India by Zomato,NGO,Bhopal,+91-9830-153255,India
+934,Apnalaya Community Shelter - Kochi Hub,Shelter,Kochi,+91-9829-153305,India
+935,Bharat Seva Dal - Surat Hub,Charity,Surat,+91-9839-153095,India
+936,Meera Nambiar (Community Lead),Individual,Patna,+91-9830-153145,India
+937,Salaam Baalak Trust,NGO,Nagpur,+91-9825-153195,India
+938,Asha Deep Rehabilitation Center,Shelter,Coimbatore,+91-9829-153245,India
+939,Shri Sai Seva Sansthan,Charity,Visakhapatnam,+91-9845-153295,India
+940,Sunita Verma (Social Worker),Individual,Vadodara,+91-9839-153345,India
+941,GiveIndia Relief Initiative,NGO,Mumbai,+91-9810-153395,India
+942,Sarvodaya Seva Ashram,Shelter,Delhi,+91-9810-153445,India
+943,ISKCON Food for Life,Charity,Bengaluru,+91-9840-153495,India
+944,Sneha Kulkarni (Food Activist),Individual,Hyderabad,+91-9822-153545,India
+945,Khalsa Aid India,NGO,Chennai,+91-9825-153595,India
+946,Apnalaya Community Shelter,Shelter,Kolkata,+91-9829-153645,India
+947,Bharat Seva Dal,Charity,Pune,+91-9822-153695,India
+948,Meera Nambiar (Community Lead),Individual,Ahmedabad,+91-9822-153745,India
+949,Goonj Welfare Foundation - Jaipur Hub,NGO,Jaipur,+91-9839-153795,India
+950,Asha Deep Rehabilitation Center - Lucknow Hub,Shelter,Lucknow,+91-9810-153845,India
+951,Shri Sai Seva Sansthan - Chandigarh Hub,Charity,Chandigarh,+91-9845-153895,India
+952,Sunita Verma (Social Worker),Individual,Indore,+91-9830-153945,India
+953,Annamrita Foundation - Bhopal Hub,NGO,Bhopal,+91-9810-153995,India
+954,Sarvodaya Seva Ashram - Kochi Hub,Shelter,Kochi,+91-9825-154045,India
+955,ISKCON Food for Life - Surat Hub,Charity,Surat,+91-9825-153835,India
+956,Sneha Kulkarni (Food Activist),Individual,Patna,+91-9829-153885,India
+957,Magic Bus Community Wing - Nagpur Hub,NGO,Nagpur,+91-9830-153935,India
+958,Apnalaya Community Shelter - Coimbatore Hub,Shelter,Coimbatore,+91-9845-153985,India
+959,Bharat Seva Dal - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9829-154035,India
+960,Meera Nambiar (Community Lead),Individual,Vadodara,+91-9839-154085,India
+961,Robin Hood Army,NGO,Mumbai,+91-9845-154135,India
+962,Asha Deep Rehabilitation Center,Shelter,Delhi,+91-9845-154185,India
+963,Shri Sai Seva Sansthan,Charity,Bengaluru,+91-9822-154235,India
+964,Sunita Verma (Social Worker),Individual,Hyderabad,+91-9829-154285,India
+965,Uday Foundation,NGO,Chennai,+91-9820-154335,India
+966,Sarvodaya Seva Ashram,Shelter,Kolkata,+91-9810-154385,India
+967,ISKCON Food for Life,Charity,Pune,+91-9829-154435,India
+968,Sneha Kulkarni (Food Activist),Individual,Ahmedabad,+91-9845-154485,India
+969,Pratham Community Support,NGO,Jaipur,+91-9840-154535,India
+970,Apnalaya Community Shelter,Shelter,Lucknow,+91-9845-154585,India
+971,Bharat Seva Dal,Charity,Chandigarh,+91-9845-154635,India
+972,Meera Nambiar (Community Lead),Individual,Indore,+91-9830-154685,India
+973,HelpAge India Elders Network,NGO,Bhopal,+91-9848-154735,India
+974,Asha Deep Rehabilitation Center - Kochi Hub,Shelter,Kochi,+91-9830-154785,India
+975,Shri Sai Seva Sansthan - Surat Hub,Charity,Surat,+91-9829-154575,India
+976,Sunita Verma (Social Worker),Individual,Patna,+91-9840-154625,India
+977,Akshaya Patra Foundation - Nagpur Hub,NGO,Nagpur,+91-9810-154675,India
+978,Sarvodaya Seva Ashram - Coimbatore Hub,Shelter,Coimbatore,+91-9840-154725,India
+979,ISKCON Food for Life - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9848-154775,India
+980,Sneha Kulkarni (Food Activist),Individual,Vadodara,+91-9829-154825,India
+981,Smile Foundation - Mumbai Hub,NGO,Mumbai,+91-9840-154875,India
+982,Apnalaya Community Shelter - Delhi Hub,Shelter,Delhi,+91-9845-154925,India
+983,Bharat Seva Dal - Bengaluru Hub,Charity,Bengaluru,+91-9840-154975,India
+984,Meera Nambiar (Community Lead),Individual,Hyderabad,+91-9839-155025,India
+985,CRY - Child Rights and You - Chennai Hub,NGO,Chennai,+91-9829-155075,India
+986,Asha Deep Rehabilitation Center,Shelter,Kolkata,+91-9810-155125,India
+987,Shri Sai Seva Sansthan,Charity,Pune,+91-9829-155175,India
+988,Sunita Verma (Social Worker),Individual,Ahmedabad,+91-9845-155225,India
+989,Bhojan Foundation - Jaipur Hub,NGO,Jaipur,+91-9839-155275,India
+990,Sarvodaya Seva Ashram,Shelter,Lucknow,+91-9839-155325,India
+991,ISKCON Food for Life,Charity,Chandigarh,+91-9845-155375,India
+992,Sneha Kulkarni (Food Activist),Individual,Indore,+91-9845-155425,India
+993,Feeding India by Zomato,NGO,Bhopal,+91-9839-155475,India
+994,Apnalaya Community Shelter,Shelter,Kochi,+91-9839-155525,India
+995,Bharat Seva Dal,Charity,Surat,+91-9830-155315,India
+996,Meera Nambiar (Community Lead),Individual,Patna,+91-9839-155365,India
+997,Salaam Baalak Trust,NGO,Nagpur,+91-9820-155415,India
+998,Asha Deep Rehabilitation Center - Coimbatore Hub,Shelter,Coimbatore,+91-9820-155465,India
+999,Shri Sai Seva Sansthan - Visakhapatnam Hub,Charity,Visakhapatnam,+91-9810-155515,India
+1000,Sunita Verma (Social Worker),Individual,Vadodara,+91-9820-155565,India

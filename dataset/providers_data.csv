@@ -1,0 +1,1001 @@
+Provider_ID,Name,Type,Address,City,Contact,Country
+1,Reliance Smart Bazaar,Supermarket,"Shop 11, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9810-100037,India
+2,Saravana Bhavan,Restaurant,"Shop 12, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-100087,India
+3,Shahi Dawat Caterers,Catering Service,"Shop 13, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-100137,India
+4,Daily Needs Grocery Mart,Grocery Store,"Shop 14, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9848-100187,India
+5,Spencer's Retail,Supermarket,"Shop 15, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-100237,India
+6,WOW! Momo & Rolls,Restaurant,"Shop 16, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9845-100287,India
+7,Balaji Feast Caterers,Catering Service,"Shop 17, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9810-100337,India
+8,Laxmi Grocery Mart,Grocery Store,"Shop 18, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9829-100387,India
+9,Nilgiris Supermarket,Supermarket,"Shop 19, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-100437,India
+10,MTR Heritage Restaurant,Restaurant,"Shop 20, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9839-100487,India
+11,Marwar Heritage Catering,Catering Service,"Shop 21, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9822-100537,India
+12,Patanjali Mega Store,Grocery Store,"Shop 22, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9820-100587,India
+13,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 23, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9820-100637,India
+14,Vidyarthi Bhavan Mess,Restaurant,"Shop 24, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9810-100687,India
+15,Shahi Dawat Caterers (Surat),Catering Service,"Shop 25, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-100737,India
+16,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 26, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-100787,India
+17,Spencer's Retail (Nagpur),Supermarket,"Shop 27, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9829-100837,India
+18,Saravana Bhavan (Coimbatore),Restaurant,"Shop 28, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9839-100887,India
+19,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 29, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9820-100937,India
+20,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 30, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9829-100987,India
+21,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 31, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9848-100777,India
+22,WOW! Momo & Rolls (Delhi),Restaurant,"Shop 32, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9829-100827,India
+23,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 33, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-100877,India
+24,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 34, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9848-100927,India
+25,Reliance Smart Bazaar,Supermarket,"Shop 35, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-100977,India
+26,MTR Heritage Restaurant (Kolkata),Restaurant,"Shop 36, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9839-101027,India
+27,Shahi Dawat Caterers,Catering Service,"Shop 37, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9840-101077,India
+28,Daily Needs Grocery Mart,Grocery Store,"Shop 38, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9820-101127,India
+29,Spencer's Retail,Supermarket,"Shop 39, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9845-101177,India
+30,Vidyarthi Bhavan Mess (Lucknow),Restaurant,"Shop 40, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9822-101227,India
+31,Balaji Feast Caterers,Catering Service,"Shop 41, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9830-101277,India
+32,Laxmi Grocery Mart,Grocery Store,"Shop 42, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9840-101327,India
+33,Nilgiris Supermarket,Supermarket,"Shop 43, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9845-101377,India
+34,Saravana Bhavan,Restaurant,"Shop 44, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9848-101427,India
+35,Marwar Heritage Catering,Catering Service,"Shop 45, MI Road, Surat, Gujarat - 395017",Surat,+91-9830-101477,India
+36,Patanjali Mega Store,Grocery Store,"Shop 46, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-101527,India
+37,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 47, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9810-101577,India
+38,WOW! Momo & Rolls,Restaurant,"Shop 48, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9822-101627,India
+39,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 49, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9810-101677,India
+40,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 50, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9830-101727,India
+41,Spencer's Retail (Mumbai),Supermarket,"Shop 51, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9830-101517,India
+42,MTR Heritage Restaurant,Restaurant,"Shop 52, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9839-101567,India
+43,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 53, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-101617,India
+44,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 54, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9820-101667,India
+45,Nilgiris Supermarket (Chennai),Supermarket,"Shop 55, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-101717,India
+46,Vidyarthi Bhavan Mess,Restaurant,"Shop 56, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9829-101767,India
+47,Marwar Heritage Catering (Pune),Catering Service,"Shop 57, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9810-101817,India
+48,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 58, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9822-101867,India
+49,Reliance Smart Bazaar,Supermarket,"Shop 59, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-101917,India
+50,Saravana Bhavan (Lucknow),Restaurant,"Shop 60, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-101967,India
+51,Shahi Dawat Caterers,Catering Service,"Shop 61, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-102017,India
+52,Daily Needs Grocery Mart,Grocery Store,"Shop 62, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9839-102067,India
+53,Spencer's Retail,Supermarket,"Shop 63, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-102117,India
+54,WOW! Momo & Rolls (Kochi),Restaurant,"Shop 64, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9839-102167,India
+55,Balaji Feast Caterers,Catering Service,"Shop 65, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-102217,India
+56,Laxmi Grocery Mart,Grocery Store,"Shop 66, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-102267,India
+57,Nilgiris Supermarket,Supermarket,"Shop 67, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9820-102317,India
+58,MTR Heritage Restaurant (Coimbatore),Restaurant,"Shop 68, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-102367,India
+59,Marwar Heritage Catering,Catering Service,"Shop 69, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9840-102417,India
+60,Patanjali Mega Store,Grocery Store,"Shop 70, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9810-102467,India
+61,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 71, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9848-102257,India
+62,Vidyarthi Bhavan Mess (Delhi),Restaurant,"Shop 72, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9810-102307,India
+63,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 73, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-102357,India
+64,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 74, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9840-102407,India
+65,Spencer's Retail (Chennai),Supermarket,"Shop 75, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-102457,India
+66,Saravana Bhavan,Restaurant,"Shop 76, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9830-102507,India
+67,Balaji Feast Caterers (Pune),Catering Service,"Shop 77, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9845-102557,India
+68,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 78, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9830-102607,India
+69,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 79, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9830-102657,India
+70,WOW! Momo & Rolls,Restaurant,"Shop 80, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-102707,India
+71,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 81, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-102757,India
+72,Patanjali Mega Store (Indore),Grocery Store,"Shop 82, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9810-102807,India
+73,Reliance Smart Bazaar,Supermarket,"Shop 83, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9839-102857,India
+74,MTR Heritage Restaurant,Restaurant,"Shop 84, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9845-102907,India
+75,Shahi Dawat Caterers,Catering Service,"Shop 85, MI Road, Surat, Gujarat - 395017",Surat,+91-9829-102957,India
+76,Daily Needs Grocery Mart,Grocery Store,"Shop 86, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-103007,India
+77,Spencer's Retail,Supermarket,"Shop 87, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9845-103057,India
+78,Vidyarthi Bhavan Mess,Restaurant,"Shop 88, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9825-103107,India
+79,Balaji Feast Caterers,Catering Service,"Shop 89, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9822-103157,India
+80,Laxmi Grocery Mart,Grocery Store,"Shop 90, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9840-103207,India
+81,Nilgiris Supermarket,Supermarket,"Shop 91, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9829-102997,India
+82,Saravana Bhavan (Delhi),Restaurant,"Shop 92, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9848-103047,India
+83,Marwar Heritage Catering,Catering Service,"Shop 93, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9830-103097,India
+84,Patanjali Mega Store,Grocery Store,"Shop 94, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9820-103147,India
+85,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 95, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-103197,India
+86,WOW! Momo & Rolls (Kolkata),Restaurant,"Shop 96, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9820-103247,India
+87,Shahi Dawat Caterers (Pune),Catering Service,"Shop 97, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9830-103297,India
+88,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 98, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9822-103347,India
+89,Spencer's Retail (Jaipur),Supermarket,"Shop 99, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9840-103397,India
+90,MTR Heritage Restaurant (Lucknow),Restaurant,"Shop 10, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9810-103447,India
+91,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 11, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9848-103497,India
+92,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 12, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9839-103547,India
+93,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 13, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-103597,India
+94,Vidyarthi Bhavan Mess (Kochi),Restaurant,"Shop 14, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9848-103647,India
+95,Marwar Heritage Catering (Surat),Catering Service,"Shop 15, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-103697,India
+96,Patanjali Mega Store (Patna),Grocery Store,"Shop 16, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-103747,India
+97,Reliance Smart Bazaar,Supermarket,"Shop 17, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-103797,India
+98,Saravana Bhavan,Restaurant,"Shop 18, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9845-103847,India
+99,Shahi Dawat Caterers,Catering Service,"Shop 19, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9840-103897,India
+100,Daily Needs Grocery Mart,Grocery Store,"Shop 20, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9845-103947,India
+101,Spencer's Retail,Supermarket,"Shop 21, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9848-103737,India
+102,WOW! Momo & Rolls,Restaurant,"Shop 22, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9829-103787,India
+103,Balaji Feast Caterers,Catering Service,"Shop 23, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9829-103837,India
+104,Laxmi Grocery Mart,Grocery Store,"Shop 24, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9840-103887,India
+105,Nilgiris Supermarket,Supermarket,"Shop 25, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9839-103937,India
+106,MTR Heritage Restaurant,Restaurant,"Shop 26, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9822-103987,India
+107,Marwar Heritage Catering,Catering Service,"Shop 27, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9839-104037,India
+108,Patanjali Mega Store,Grocery Store,"Shop 28, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9822-104087,India
+109,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 29, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9830-104137,India
+110,Vidyarthi Bhavan Mess,Restaurant,"Shop 30, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-104187,India
+111,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 31, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-104237,India
+112,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 32, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9829-104287,India
+113,Spencer's Retail (Bhopal),Supermarket,"Shop 33, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9825-104337,India
+114,Saravana Bhavan (Kochi),Restaurant,"Shop 34, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9810-104387,India
+115,Balaji Feast Caterers (Surat),Catering Service,"Shop 35, MI Road, Surat, Gujarat - 395017",Surat,+91-9820-104437,India
+116,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 36, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-104487,India
+117,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 37, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9845-104537,India
+118,WOW! Momo & Rolls (Coimbatore),Restaurant,"Shop 38, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9845-104587,India
+119,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 39, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9822-104637,India
+120,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 40, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9839-104687,India
+121,Reliance Smart Bazaar,Supermarket,"Shop 41, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9810-104477,India
+122,MTR Heritage Restaurant (Delhi),Restaurant,"Shop 42, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9822-104527,India
+123,Shahi Dawat Caterers,Catering Service,"Shop 43, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-104577,India
+124,Daily Needs Grocery Mart,Grocery Store,"Shop 44, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-104627,India
+125,Spencer's Retail,Supermarket,"Shop 45, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-104677,India
+126,Vidyarthi Bhavan Mess (Kolkata),Restaurant,"Shop 46, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9829-104727,India
+127,Balaji Feast Caterers,Catering Service,"Shop 47, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9840-104777,India
+128,Laxmi Grocery Mart,Grocery Store,"Shop 48, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9829-104827,India
+129,Nilgiris Supermarket,Supermarket,"Shop 49, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9820-104877,India
+130,Saravana Bhavan,Restaurant,"Shop 50, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9810-104927,India
+131,Marwar Heritage Catering,Catering Service,"Shop 51, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9829-104977,India
+132,Patanjali Mega Store,Grocery Store,"Shop 52, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9840-105027,India
+133,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 53, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-105077,India
+134,WOW! Momo & Rolls,Restaurant,"Shop 54, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9810-105127,India
+135,Shahi Dawat Caterers (Surat),Catering Service,"Shop 55, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-105177,India
+136,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 56, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-105227,India
+137,Spencer's Retail (Nagpur),Supermarket,"Shop 57, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9845-105277,India
+138,MTR Heritage Restaurant,Restaurant,"Shop 58, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9825-105327,India
+139,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 59, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9820-105377,India
+140,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 60, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9840-105427,India
+141,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 61, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9829-105217,India
+142,Vidyarthi Bhavan Mess,Restaurant,"Shop 62, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9845-105267,India
+143,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 63, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9829-105317,India
+144,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 64, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9810-105367,India
+145,Reliance Smart Bazaar,Supermarket,"Shop 65, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9840-105417,India
+146,Saravana Bhavan (Kolkata),Restaurant,"Shop 66, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9829-105467,India
+147,Shahi Dawat Caterers,Catering Service,"Shop 67, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9839-105517,India
+148,Daily Needs Grocery Mart,Grocery Store,"Shop 68, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9848-105567,India
+149,Spencer's Retail,Supermarket,"Shop 69, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9845-105617,India
+150,WOW! Momo & Rolls (Lucknow),Restaurant,"Shop 70, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9830-105667,India
+151,Balaji Feast Caterers,Catering Service,"Shop 71, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-105717,India
+152,Laxmi Grocery Mart,Grocery Store,"Shop 72, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9829-105767,India
+153,Nilgiris Supermarket,Supermarket,"Shop 73, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9829-105817,India
+154,MTR Heritage Restaurant (Kochi),Restaurant,"Shop 74, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9820-105867,India
+155,Marwar Heritage Catering,Catering Service,"Shop 75, MI Road, Surat, Gujarat - 395017",Surat,+91-9839-105917,India
+156,Patanjali Mega Store,Grocery Store,"Shop 76, Hazratganj, Patna, Bihar - 800001",Patna,+91-9830-105967,India
+157,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 77, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-106017,India
+158,Vidyarthi Bhavan Mess (Coimbatore),Restaurant,"Shop 78, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9820-106067,India
+159,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 79, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9810-106117,India
+160,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 80, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9830-106167,India
+161,Spencer's Retail (Mumbai),Supermarket,"Shop 81, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9840-105957,India
+162,Saravana Bhavan,Restaurant,"Shop 82, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9848-106007,India
+163,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 83, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9820-106057,India
+164,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 84, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9848-106107,India
+165,Nilgiris Supermarket (Chennai),Supermarket,"Shop 85, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9839-106157,India
+166,WOW! Momo & Rolls,Restaurant,"Shop 86, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9810-106207,India
+167,Marwar Heritage Catering (Pune),Catering Service,"Shop 87, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9810-106257,India
+168,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 88, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9825-106307,India
+169,Reliance Smart Bazaar,Supermarket,"Shop 89, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-106357,India
+170,MTR Heritage Restaurant,Restaurant,"Shop 90, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-106407,India
+171,Shahi Dawat Caterers,Catering Service,"Shop 91, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-106457,India
+172,Daily Needs Grocery Mart,Grocery Store,"Shop 92, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-106507,India
+173,Spencer's Retail,Supermarket,"Shop 93, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9825-106557,India
+174,Vidyarthi Bhavan Mess,Restaurant,"Shop 94, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9829-106607,India
+175,Balaji Feast Caterers,Catering Service,"Shop 95, MI Road, Surat, Gujarat - 395017",Surat,+91-9845-106657,India
+176,Laxmi Grocery Mart,Grocery Store,"Shop 96, Hazratganj, Patna, Bihar - 800001",Patna,+91-9840-106707,India
+177,Nilgiris Supermarket,Supermarket,"Shop 97, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9829-106757,India
+178,Saravana Bhavan (Coimbatore),Restaurant,"Shop 98, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9839-106807,India
+179,Marwar Heritage Catering,Catering Service,"Shop 99, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9822-106857,India
+180,Patanjali Mega Store,Grocery Store,"Shop 10, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9848-106907,India
+181,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 11, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9829-106697,India
+182,WOW! Momo & Rolls (Delhi),Restaurant,"Shop 12, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9848-106747,India
+183,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 13, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-106797,India
+184,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 14, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9822-106847,India
+185,Spencer's Retail (Chennai),Supermarket,"Shop 15, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9830-106897,India
+186,MTR Heritage Restaurant (Kolkata),Restaurant,"Shop 16, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-106947,India
+187,Balaji Feast Caterers (Pune),Catering Service,"Shop 17, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9829-106997,India
+188,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 18, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9825-107047,India
+189,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 19, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-107097,India
+190,Vidyarthi Bhavan Mess (Lucknow),Restaurant,"Shop 20, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-107147,India
+191,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 21, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9848-107197,India
+192,Patanjali Mega Store (Indore),Grocery Store,"Shop 22, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9810-107247,India
+193,Reliance Smart Bazaar,Supermarket,"Shop 23, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-107297,India
+194,Saravana Bhavan,Restaurant,"Shop 24, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9820-107347,India
+195,Shahi Dawat Caterers,Catering Service,"Shop 25, MI Road, Surat, Gujarat - 395017",Surat,+91-9839-107397,India
+196,Daily Needs Grocery Mart,Grocery Store,"Shop 26, Hazratganj, Patna, Bihar - 800001",Patna,+91-9829-107447,India
+197,Spencer's Retail,Supermarket,"Shop 27, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9848-107497,India
+198,WOW! Momo & Rolls,Restaurant,"Shop 28, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9839-107547,India
+199,Balaji Feast Caterers,Catering Service,"Shop 29, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9848-107597,India
+200,Laxmi Grocery Mart,Grocery Store,"Shop 30, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9820-107647,India
+201,Nilgiris Supermarket,Supermarket,"Shop 31, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9810-107437,India
+202,MTR Heritage Restaurant,Restaurant,"Shop 32, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-107487,India
+203,Marwar Heritage Catering,Catering Service,"Shop 33, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9848-107537,India
+204,Patanjali Mega Store,Grocery Store,"Shop 34, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9810-107587,India
+205,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 35, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9820-107637,India
+206,Vidyarthi Bhavan Mess,Restaurant,"Shop 36, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9830-107687,India
+207,Shahi Dawat Caterers (Pune),Catering Service,"Shop 37, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9810-107737,India
+208,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 38, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9829-107787,India
+209,Spencer's Retail (Jaipur),Supermarket,"Shop 39, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9848-107837,India
+210,Saravana Bhavan (Lucknow),Restaurant,"Shop 40, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-107887,India
+211,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 41, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9825-107937,India
+212,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 42, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9848-107987,India
+213,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 43, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9829-108037,India
+214,WOW! Momo & Rolls (Kochi),Restaurant,"Shop 44, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9845-108087,India
+215,Marwar Heritage Catering (Surat),Catering Service,"Shop 45, MI Road, Surat, Gujarat - 395017",Surat,+91-9839-108137,India
+216,Patanjali Mega Store (Patna),Grocery Store,"Shop 46, Hazratganj, Patna, Bihar - 800001",Patna,+91-9839-108187,India
+217,Reliance Smart Bazaar,Supermarket,"Shop 47, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-108237,India
+218,MTR Heritage Restaurant (Coimbatore),Restaurant,"Shop 48, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-108287,India
+219,Shahi Dawat Caterers,Catering Service,"Shop 49, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-108337,India
+220,Daily Needs Grocery Mart,Grocery Store,"Shop 50, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-108387,India
+221,Spencer's Retail,Supermarket,"Shop 51, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9848-108177,India
+222,Vidyarthi Bhavan Mess (Delhi),Restaurant,"Shop 52, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9810-108227,India
+223,Balaji Feast Caterers,Catering Service,"Shop 53, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9810-108277,India
+224,Laxmi Grocery Mart,Grocery Store,"Shop 54, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9822-108327,India
+225,Nilgiris Supermarket,Supermarket,"Shop 55, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9830-108377,India
+226,Saravana Bhavan,Restaurant,"Shop 56, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9822-108427,India
+227,Marwar Heritage Catering,Catering Service,"Shop 57, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9822-108477,India
+228,Patanjali Mega Store,Grocery Store,"Shop 58, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9825-108527,India
+229,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 59, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9820-108577,India
+230,WOW! Momo & Rolls,Restaurant,"Shop 60, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9810-108627,India
+231,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 61, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9820-108677,India
+232,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 62, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9822-108727,India
+233,Spencer's Retail (Bhopal),Supermarket,"Shop 63, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-108777,India
+234,MTR Heritage Restaurant,Restaurant,"Shop 64, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9810-108827,India
+235,Balaji Feast Caterers (Surat),Catering Service,"Shop 65, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-108877,India
+236,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 66, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-108927,India
+237,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 67, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9848-108977,India
+238,Vidyarthi Bhavan Mess,Restaurant,"Shop 68, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9829-109027,India
+239,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 69, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-109077,India
+240,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 70, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9845-109127,India
+241,Reliance Smart Bazaar,Supermarket,"Shop 71, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9822-108917,India
+242,Saravana Bhavan (Delhi),Restaurant,"Shop 72, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9845-108967,India
+243,Shahi Dawat Caterers,Catering Service,"Shop 73, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-109017,India
+244,Daily Needs Grocery Mart,Grocery Store,"Shop 74, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-109067,India
+245,Spencer's Retail,Supermarket,"Shop 75, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-109117,India
+246,WOW! Momo & Rolls (Kolkata),Restaurant,"Shop 76, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9810-109167,India
+247,Balaji Feast Caterers,Catering Service,"Shop 77, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9825-109217,India
+248,Laxmi Grocery Mart,Grocery Store,"Shop 78, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9829-109267,India
+249,Nilgiris Supermarket,Supermarket,"Shop 79, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-109317,India
+250,MTR Heritage Restaurant (Lucknow),Restaurant,"Shop 80, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9820-109367,India
+251,Marwar Heritage Catering,Catering Service,"Shop 81, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9829-109417,India
+252,Patanjali Mega Store,Grocery Store,"Shop 82, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9820-109467,India
+253,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 83, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9810-109517,India
+254,Vidyarthi Bhavan Mess (Kochi),Restaurant,"Shop 84, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9848-109567,India
+255,Shahi Dawat Caterers (Surat),Catering Service,"Shop 85, MI Road, Surat, Gujarat - 395017",Surat,+91-9845-109617,India
+256,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 86, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-109667,India
+257,Spencer's Retail (Nagpur),Supermarket,"Shop 87, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-109717,India
+258,Saravana Bhavan,Restaurant,"Shop 88, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9825-109767,India
+259,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 89, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9848-109817,India
+260,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 90, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-109867,India
+261,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 91, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9820-109657,India
+262,WOW! Momo & Rolls,Restaurant,"Shop 92, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9845-109707,India
+263,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 93, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-109757,India
+264,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 94, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9820-109807,India
+265,Reliance Smart Bazaar,Supermarket,"Shop 95, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-109857,India
+266,MTR Heritage Restaurant,Restaurant,"Shop 96, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9840-109907,India
+267,Shahi Dawat Caterers,Catering Service,"Shop 97, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9825-109957,India
+268,Daily Needs Grocery Mart,Grocery Store,"Shop 98, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9840-110007,India
+269,Spencer's Retail,Supermarket,"Shop 99, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9822-110057,India
+270,Vidyarthi Bhavan Mess,Restaurant,"Shop 10, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-110107,India
+271,Balaji Feast Caterers,Catering Service,"Shop 11, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9825-110157,India
+272,Laxmi Grocery Mart,Grocery Store,"Shop 12, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-110207,India
+273,Nilgiris Supermarket,Supermarket,"Shop 13, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9848-110257,India
+274,Saravana Bhavan (Kochi),Restaurant,"Shop 14, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9840-110307,India
+275,Marwar Heritage Catering,Catering Service,"Shop 15, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-110357,India
+276,Patanjali Mega Store,Grocery Store,"Shop 16, Hazratganj, Patna, Bihar - 800001",Patna,+91-9820-110407,India
+277,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 17, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9839-110457,India
+278,WOW! Momo & Rolls (Coimbatore),Restaurant,"Shop 18, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9829-110507,India
+279,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 19, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9820-110557,India
+280,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 20, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9830-110607,India
+281,Spencer's Retail (Mumbai),Supermarket,"Shop 21, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9820-110397,India
+282,MTR Heritage Restaurant (Delhi),Restaurant,"Shop 22, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-110447,India
+283,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 23, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-110497,India
+284,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 24, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-110547,India
+285,Nilgiris Supermarket (Chennai),Supermarket,"Shop 25, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9829-110597,India
+286,Vidyarthi Bhavan Mess (Kolkata),Restaurant,"Shop 26, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9829-110647,India
+287,Marwar Heritage Catering (Pune),Catering Service,"Shop 27, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9845-110697,India
+288,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 28, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9820-110747,India
+289,Reliance Smart Bazaar,Supermarket,"Shop 29, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9829-110797,India
+290,Saravana Bhavan,Restaurant,"Shop 30, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9810-110847,India
+291,Shahi Dawat Caterers,Catering Service,"Shop 31, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-110897,India
+292,Daily Needs Grocery Mart,Grocery Store,"Shop 32, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9810-110947,India
+293,Spencer's Retail,Supermarket,"Shop 33, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9839-110997,India
+294,WOW! Momo & Rolls,Restaurant,"Shop 34, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9810-111047,India
+295,Balaji Feast Caterers,Catering Service,"Shop 35, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-111097,India
+296,Laxmi Grocery Mart,Grocery Store,"Shop 36, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-111147,India
+297,Nilgiris Supermarket,Supermarket,"Shop 37, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9810-111197,India
+298,MTR Heritage Restaurant,Restaurant,"Shop 38, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9839-111247,India
+299,Marwar Heritage Catering,Catering Service,"Shop 39, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9848-111297,India
+300,Patanjali Mega Store,Grocery Store,"Shop 40, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9839-111347,India
+301,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 41, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9839-111137,India
+302,Vidyarthi Bhavan Mess,Restaurant,"Shop 42, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-111187,India
+303,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 43, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-111237,India
+304,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 44, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9810-111287,India
+305,Spencer's Retail (Chennai),Supermarket,"Shop 45, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-111337,India
+306,Saravana Bhavan (Kolkata),Restaurant,"Shop 46, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9839-111387,India
+307,Balaji Feast Caterers (Pune),Catering Service,"Shop 47, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9839-111437,India
+308,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 48, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9829-111487,India
+309,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 49, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9830-111537,India
+310,WOW! Momo & Rolls (Lucknow),Restaurant,"Shop 50, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-111587,India
+311,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 51, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9848-111637,India
+312,Patanjali Mega Store (Indore),Grocery Store,"Shop 52, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9830-111687,India
+313,Reliance Smart Bazaar,Supermarket,"Shop 53, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9848-111737,India
+314,MTR Heritage Restaurant (Kochi),Restaurant,"Shop 54, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9840-111787,India
+315,Shahi Dawat Caterers,Catering Service,"Shop 55, MI Road, Surat, Gujarat - 395017",Surat,+91-9822-111837,India
+316,Daily Needs Grocery Mart,Grocery Store,"Shop 56, Hazratganj, Patna, Bihar - 800001",Patna,+91-9845-111887,India
+317,Spencer's Retail,Supermarket,"Shop 57, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9840-111937,India
+318,Vidyarthi Bhavan Mess (Coimbatore),Restaurant,"Shop 58, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9825-111987,India
+319,Balaji Feast Caterers,Catering Service,"Shop 59, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9830-112037,India
+320,Laxmi Grocery Mart,Grocery Store,"Shop 60, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9810-112087,India
+321,Nilgiris Supermarket,Supermarket,"Shop 61, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9820-111877,India
+322,Saravana Bhavan,Restaurant,"Shop 62, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9825-111927,India
+323,Marwar Heritage Catering,Catering Service,"Shop 63, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-111977,India
+324,Patanjali Mega Store,Grocery Store,"Shop 64, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-112027,India
+325,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 65, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9810-112077,India
+326,WOW! Momo & Rolls,Restaurant,"Shop 66, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9810-112127,India
+327,Shahi Dawat Caterers (Pune),Catering Service,"Shop 67, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9829-112177,India
+328,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 68, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9848-112227,India
+329,Spencer's Retail (Jaipur),Supermarket,"Shop 69, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9829-112277,India
+330,MTR Heritage Restaurant,Restaurant,"Shop 70, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-112327,India
+331,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 71, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-112377,India
+332,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 72, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9830-112427,India
+333,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 73, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9810-112477,India
+334,Vidyarthi Bhavan Mess,Restaurant,"Shop 74, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9848-112527,India
+335,Marwar Heritage Catering (Surat),Catering Service,"Shop 75, MI Road, Surat, Gujarat - 395017",Surat,+91-9830-112577,India
+336,Patanjali Mega Store (Patna),Grocery Store,"Shop 76, Hazratganj, Patna, Bihar - 800001",Patna,+91-9840-112627,India
+337,Reliance Smart Bazaar,Supermarket,"Shop 77, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9845-112677,India
+338,Saravana Bhavan (Coimbatore),Restaurant,"Shop 78, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9825-112727,India
+339,Shahi Dawat Caterers,Catering Service,"Shop 79, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9829-112777,India
+340,Daily Needs Grocery Mart,Grocery Store,"Shop 80, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9840-112827,India
+341,Spencer's Retail,Supermarket,"Shop 81, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9839-112617,India
+342,WOW! Momo & Rolls (Delhi),Restaurant,"Shop 82, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9829-112667,India
+343,Balaji Feast Caterers,Catering Service,"Shop 83, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9820-112717,India
+344,Laxmi Grocery Mart,Grocery Store,"Shop 84, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9829-112767,India
+345,Nilgiris Supermarket,Supermarket,"Shop 85, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9840-112817,India
+346,MTR Heritage Restaurant (Kolkata),Restaurant,"Shop 86, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9810-112867,India
+347,Marwar Heritage Catering,Catering Service,"Shop 87, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9845-112917,India
+348,Patanjali Mega Store,Grocery Store,"Shop 88, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9840-112967,India
+349,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 89, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-113017,India
+350,Vidyarthi Bhavan Mess (Lucknow),Restaurant,"Shop 90, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9810-113067,India
+351,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 91, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9829-113117,India
+352,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 92, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-113167,India
+353,Spencer's Retail (Bhopal),Supermarket,"Shop 93, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9840-113217,India
+354,Saravana Bhavan,Restaurant,"Shop 94, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9840-113267,India
+355,Balaji Feast Caterers (Surat),Catering Service,"Shop 95, MI Road, Surat, Gujarat - 395017",Surat,+91-9839-113317,India
+356,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 96, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-113367,India
+357,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 97, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9830-113417,India
+358,WOW! Momo & Rolls,Restaurant,"Shop 98, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-113467,India
+359,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 99, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9840-113517,India
+360,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 10, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9829-113567,India
+361,Reliance Smart Bazaar,Supermarket,"Shop 11, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9825-113357,India
+362,MTR Heritage Restaurant,Restaurant,"Shop 12, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9840-113407,India
+363,Shahi Dawat Caterers,Catering Service,"Shop 13, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9820-113457,India
+364,Daily Needs Grocery Mart,Grocery Store,"Shop 14, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9810-113507,India
+365,Spencer's Retail,Supermarket,"Shop 15, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-113557,India
+366,Vidyarthi Bhavan Mess,Restaurant,"Shop 16, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9840-113607,India
+367,Balaji Feast Caterers,Catering Service,"Shop 17, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9820-113657,India
+368,Laxmi Grocery Mart,Grocery Store,"Shop 18, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9820-113707,India
+369,Nilgiris Supermarket,Supermarket,"Shop 19, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9830-113757,India
+370,Saravana Bhavan (Lucknow),Restaurant,"Shop 20, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9845-113807,India
+371,Marwar Heritage Catering,Catering Service,"Shop 21, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-113857,India
+372,Patanjali Mega Store,Grocery Store,"Shop 22, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-113907,India
+373,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 23, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9825-113957,India
+374,WOW! Momo & Rolls (Kochi),Restaurant,"Shop 24, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9829-114007,India
+375,Shahi Dawat Caterers (Surat),Catering Service,"Shop 25, MI Road, Surat, Gujarat - 395017",Surat,+91-9822-114057,India
+376,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 26, Hazratganj, Patna, Bihar - 800001",Patna,+91-9829-114107,India
+377,Spencer's Retail (Nagpur),Supermarket,"Shop 27, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9820-114157,India
+378,MTR Heritage Restaurant (Coimbatore),Restaurant,"Shop 28, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9810-114207,India
+379,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 29, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9810-114257,India
+380,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 30, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9845-114307,India
+381,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 31, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9829-114097,India
+382,Vidyarthi Bhavan Mess (Delhi),Restaurant,"Shop 32, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-114147,India
+383,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 33, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9830-114197,India
+384,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 34, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-114247,India
+385,Reliance Smart Bazaar,Supermarket,"Shop 35, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9829-114297,India
+386,Saravana Bhavan,Restaurant,"Shop 36, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9845-114347,India
+387,Shahi Dawat Caterers,Catering Service,"Shop 37, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9822-114397,India
+388,Daily Needs Grocery Mart,Grocery Store,"Shop 38, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9845-114447,India
+389,Spencer's Retail,Supermarket,"Shop 39, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9820-114497,India
+390,WOW! Momo & Rolls,Restaurant,"Shop 40, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-114547,India
+391,Balaji Feast Caterers,Catering Service,"Shop 41, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9830-114597,India
+392,Laxmi Grocery Mart,Grocery Store,"Shop 42, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9820-114647,India
+393,Nilgiris Supermarket,Supermarket,"Shop 43, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-114697,India
+394,MTR Heritage Restaurant,Restaurant,"Shop 44, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9848-114747,India
+395,Marwar Heritage Catering,Catering Service,"Shop 45, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-114797,India
+396,Patanjali Mega Store,Grocery Store,"Shop 46, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-114847,India
+397,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 47, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9830-114897,India
+398,Vidyarthi Bhavan Mess,Restaurant,"Shop 48, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9829-114947,India
+399,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 49, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9822-114997,India
+400,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 50, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9839-115047,India
+401,Spencer's Retail (Mumbai),Supermarket,"Shop 51, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9845-114837,India
+402,Saravana Bhavan (Delhi),Restaurant,"Shop 52, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9848-114887,India
+403,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 53, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9845-114937,India
+404,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 54, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9845-114987,India
+405,Nilgiris Supermarket (Chennai),Supermarket,"Shop 55, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-115037,India
+406,WOW! Momo & Rolls (Kolkata),Restaurant,"Shop 56, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9820-115087,India
+407,Marwar Heritage Catering (Pune),Catering Service,"Shop 57, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9845-115137,India
+408,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 58, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9830-115187,India
+409,Reliance Smart Bazaar,Supermarket,"Shop 59, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9822-115237,India
+410,MTR Heritage Restaurant (Lucknow),Restaurant,"Shop 60, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-115287,India
+411,Shahi Dawat Caterers,Catering Service,"Shop 61, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-115337,India
+412,Daily Needs Grocery Mart,Grocery Store,"Shop 62, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-115387,India
+413,Spencer's Retail,Supermarket,"Shop 63, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9810-115437,India
+414,Vidyarthi Bhavan Mess (Kochi),Restaurant,"Shop 64, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9822-115487,India
+415,Balaji Feast Caterers,Catering Service,"Shop 65, MI Road, Surat, Gujarat - 395017",Surat,+91-9820-115537,India
+416,Laxmi Grocery Mart,Grocery Store,"Shop 66, Hazratganj, Patna, Bihar - 800001",Patna,+91-9825-115587,India
+417,Nilgiris Supermarket,Supermarket,"Shop 67, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9848-115637,India
+418,Saravana Bhavan,Restaurant,"Shop 68, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-115687,India
+419,Marwar Heritage Catering,Catering Service,"Shop 69, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-115737,India
+420,Patanjali Mega Store,Grocery Store,"Shop 70, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9830-115787,India
+421,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 71, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9840-115577,India
+422,WOW! Momo & Rolls,Restaurant,"Shop 72, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9848-115627,India
+423,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 73, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9848-115677,India
+424,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 74, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9820-115727,India
+425,Spencer's Retail (Chennai),Supermarket,"Shop 75, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-115777,India
+426,MTR Heritage Restaurant,Restaurant,"Shop 76, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9822-115827,India
+427,Balaji Feast Caterers (Pune),Catering Service,"Shop 77, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9830-115877,India
+428,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 78, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9840-115927,India
+429,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 79, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-115977,India
+430,Vidyarthi Bhavan Mess,Restaurant,"Shop 80, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-116027,India
+431,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 81, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9830-116077,India
+432,Patanjali Mega Store (Indore),Grocery Store,"Shop 82, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9829-116127,India
+433,Reliance Smart Bazaar,Supermarket,"Shop 83, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9822-116177,India
+434,Saravana Bhavan (Kochi),Restaurant,"Shop 84, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9829-116227,India
+435,Shahi Dawat Caterers,Catering Service,"Shop 85, MI Road, Surat, Gujarat - 395017",Surat,+91-9830-116277,India
+436,Daily Needs Grocery Mart,Grocery Store,"Shop 86, Hazratganj, Patna, Bihar - 800001",Patna,+91-9820-116327,India
+437,Spencer's Retail,Supermarket,"Shop 87, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9810-116377,India
+438,WOW! Momo & Rolls (Coimbatore),Restaurant,"Shop 88, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9840-116427,India
+439,Balaji Feast Caterers,Catering Service,"Shop 89, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9845-116477,India
+440,Laxmi Grocery Mart,Grocery Store,"Shop 90, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9839-116527,India
+441,Nilgiris Supermarket,Supermarket,"Shop 91, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9840-116317,India
+442,MTR Heritage Restaurant (Delhi),Restaurant,"Shop 92, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-116367,India
+443,Marwar Heritage Catering,Catering Service,"Shop 93, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9810-116417,India
+444,Patanjali Mega Store,Grocery Store,"Shop 94, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-116467,India
+445,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 95, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-116517,India
+446,Vidyarthi Bhavan Mess (Kolkata),Restaurant,"Shop 96, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9830-116567,India
+447,Shahi Dawat Caterers (Pune),Catering Service,"Shop 97, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9830-116617,India
+448,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 98, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9822-116667,India
+449,Spencer's Retail (Jaipur),Supermarket,"Shop 99, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9839-116717,India
+450,Saravana Bhavan,Restaurant,"Shop 10, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-116767,India
+451,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 11, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9810-116817,India
+452,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 12, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9822-116867,India
+453,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 13, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9839-116917,India
+454,WOW! Momo & Rolls,Restaurant,"Shop 14, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9848-116967,India
+455,Marwar Heritage Catering (Surat),Catering Service,"Shop 15, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-117017,India
+456,Patanjali Mega Store (Patna),Grocery Store,"Shop 16, Hazratganj, Patna, Bihar - 800001",Patna,+91-9820-117067,India
+457,Reliance Smart Bazaar,Supermarket,"Shop 17, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9822-117117,India
+458,MTR Heritage Restaurant,Restaurant,"Shop 18, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9820-117167,India
+459,Shahi Dawat Caterers,Catering Service,"Shop 19, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9829-117217,India
+460,Daily Needs Grocery Mart,Grocery Store,"Shop 20, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9829-117267,India
+461,Spencer's Retail,Supermarket,"Shop 21, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9848-117057,India
+462,Vidyarthi Bhavan Mess,Restaurant,"Shop 22, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9830-117107,India
+463,Balaji Feast Caterers,Catering Service,"Shop 23, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-117157,India
+464,Laxmi Grocery Mart,Grocery Store,"Shop 24, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9810-117207,India
+465,Nilgiris Supermarket,Supermarket,"Shop 25, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9830-117257,India
+466,Saravana Bhavan (Kolkata),Restaurant,"Shop 26, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9839-117307,India
+467,Marwar Heritage Catering,Catering Service,"Shop 27, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9830-117357,India
+468,Patanjali Mega Store,Grocery Store,"Shop 28, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9810-117407,India
+469,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 29, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9840-117457,India
+470,WOW! Momo & Rolls (Lucknow),Restaurant,"Shop 30, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-117507,India
+471,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 31, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-117557,India
+472,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 32, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9822-117607,India
+473,Spencer's Retail (Bhopal),Supermarket,"Shop 33, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-117657,India
+474,MTR Heritage Restaurant (Kochi),Restaurant,"Shop 34, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9822-117707,India
+475,Balaji Feast Caterers (Surat),Catering Service,"Shop 35, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-117757,India
+476,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 36, Hazratganj, Patna, Bihar - 800001",Patna,+91-9829-117807,India
+477,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 37, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9845-117857,India
+478,Vidyarthi Bhavan Mess (Coimbatore),Restaurant,"Shop 38, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-117907,India
+479,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 39, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9822-117957,India
+480,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 40, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-118007,India
+481,Reliance Smart Bazaar,Supermarket,"Shop 41, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9845-117797,India
+482,Saravana Bhavan,Restaurant,"Shop 42, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9839-117847,India
+483,Shahi Dawat Caterers,Catering Service,"Shop 43, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-117897,India
+484,Daily Needs Grocery Mart,Grocery Store,"Shop 44, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9840-117947,India
+485,Spencer's Retail,Supermarket,"Shop 45, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-117997,India
+486,WOW! Momo & Rolls,Restaurant,"Shop 46, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9829-118047,India
+487,Balaji Feast Caterers,Catering Service,"Shop 47, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9820-118097,India
+488,Laxmi Grocery Mart,Grocery Store,"Shop 48, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9840-118147,India
+489,Nilgiris Supermarket,Supermarket,"Shop 49, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9840-118197,India
+490,MTR Heritage Restaurant,Restaurant,"Shop 50, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-118247,India
+491,Marwar Heritage Catering,Catering Service,"Shop 51, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9822-118297,India
+492,Patanjali Mega Store,Grocery Store,"Shop 52, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9839-118347,India
+493,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 53, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9839-118397,India
+494,Vidyarthi Bhavan Mess,Restaurant,"Shop 54, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9830-118447,India
+495,Shahi Dawat Caterers (Surat),Catering Service,"Shop 55, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-118497,India
+496,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 56, Hazratganj, Patna, Bihar - 800001",Patna,+91-9825-118547,India
+497,Spencer's Retail (Nagpur),Supermarket,"Shop 57, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-118597,India
+498,Saravana Bhavan (Coimbatore),Restaurant,"Shop 58, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-118647,India
+499,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 59, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9829-118697,India
+500,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 60, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9825-118747,India
+501,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 61, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9845-118537,India
+502,WOW! Momo & Rolls (Delhi),Restaurant,"Shop 62, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9810-118587,India
+503,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 63, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-118637,India
+504,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 64, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9829-118687,India
+505,Reliance Smart Bazaar,Supermarket,"Shop 65, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9839-118737,India
+506,MTR Heritage Restaurant (Kolkata),Restaurant,"Shop 66, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9830-118787,India
+507,Shahi Dawat Caterers,Catering Service,"Shop 67, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9810-118837,India
+508,Daily Needs Grocery Mart,Grocery Store,"Shop 68, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9848-118887,India
+509,Spencer's Retail,Supermarket,"Shop 69, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9840-118937,India
+510,Vidyarthi Bhavan Mess (Lucknow),Restaurant,"Shop 70, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-118987,India
+511,Balaji Feast Caterers,Catering Service,"Shop 71, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9848-119037,India
+512,Laxmi Grocery Mart,Grocery Store,"Shop 72, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-119087,India
+513,Nilgiris Supermarket,Supermarket,"Shop 73, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9820-119137,India
+514,Saravana Bhavan,Restaurant,"Shop 74, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9820-119187,India
+515,Marwar Heritage Catering,Catering Service,"Shop 75, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-119237,India
+516,Patanjali Mega Store,Grocery Store,"Shop 76, Hazratganj, Patna, Bihar - 800001",Patna,+91-9825-119287,India
+517,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 77, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9839-119337,India
+518,WOW! Momo & Rolls,Restaurant,"Shop 78, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9810-119387,India
+519,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 79, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-119437,India
+520,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 80, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-119487,India
+521,Spencer's Retail (Mumbai),Supermarket,"Shop 81, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9839-119277,India
+522,MTR Heritage Restaurant,Restaurant,"Shop 82, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9848-119327,India
+523,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 83, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-119377,India
+524,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 84, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-119427,India
+525,Nilgiris Supermarket (Chennai),Supermarket,"Shop 85, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-119477,India
+526,Vidyarthi Bhavan Mess,Restaurant,"Shop 86, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9848-119527,India
+527,Marwar Heritage Catering (Pune),Catering Service,"Shop 87, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9845-119577,India
+528,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 88, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9820-119627,India
+529,Reliance Smart Bazaar,Supermarket,"Shop 89, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-119677,India
+530,Saravana Bhavan (Lucknow),Restaurant,"Shop 90, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9822-119727,India
+531,Shahi Dawat Caterers,Catering Service,"Shop 91, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9848-119777,India
+532,Daily Needs Grocery Mart,Grocery Store,"Shop 92, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-119827,India
+533,Spencer's Retail,Supermarket,"Shop 93, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9829-119877,India
+534,WOW! Momo & Rolls (Kochi),Restaurant,"Shop 94, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9825-119927,India
+535,Balaji Feast Caterers,Catering Service,"Shop 95, MI Road, Surat, Gujarat - 395017",Surat,+91-9820-119977,India
+536,Laxmi Grocery Mart,Grocery Store,"Shop 96, Hazratganj, Patna, Bihar - 800001",Patna,+91-9829-120027,India
+537,Nilgiris Supermarket,Supermarket,"Shop 97, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9848-120077,India
+538,MTR Heritage Restaurant (Coimbatore),Restaurant,"Shop 98, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9810-120127,India
+539,Marwar Heritage Catering,Catering Service,"Shop 99, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-120177,India
+540,Patanjali Mega Store,Grocery Store,"Shop 10, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9845-120227,India
+541,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 11, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9825-120017,India
+542,Vidyarthi Bhavan Mess (Delhi),Restaurant,"Shop 12, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9829-120067,India
+543,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 13, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9829-120117,India
+544,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 14, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-120167,India
+545,Spencer's Retail (Chennai),Supermarket,"Shop 15, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9830-120217,India
+546,Saravana Bhavan,Restaurant,"Shop 16, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-120267,India
+547,Balaji Feast Caterers (Pune),Catering Service,"Shop 17, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9839-120317,India
+548,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 18, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9829-120367,India
+549,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 19, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9822-120417,India
+550,WOW! Momo & Rolls,Restaurant,"Shop 20, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-120467,India
+551,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 21, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9825-120517,India
+552,Patanjali Mega Store (Indore),Grocery Store,"Shop 22, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-120567,India
+553,Reliance Smart Bazaar,Supermarket,"Shop 23, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9825-120617,India
+554,MTR Heritage Restaurant,Restaurant,"Shop 24, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9825-120667,India
+555,Shahi Dawat Caterers,Catering Service,"Shop 25, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-120717,India
+556,Daily Needs Grocery Mart,Grocery Store,"Shop 26, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-120767,India
+557,Spencer's Retail,Supermarket,"Shop 27, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9840-120817,India
+558,Vidyarthi Bhavan Mess,Restaurant,"Shop 28, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9829-120867,India
+559,Balaji Feast Caterers,Catering Service,"Shop 29, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-120917,India
+560,Laxmi Grocery Mart,Grocery Store,"Shop 30, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9848-120967,India
+561,Nilgiris Supermarket,Supermarket,"Shop 31, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9840-120757,India
+562,Saravana Bhavan (Delhi),Restaurant,"Shop 32, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9825-120807,India
+563,Marwar Heritage Catering,Catering Service,"Shop 33, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9810-120857,India
+564,Patanjali Mega Store,Grocery Store,"Shop 34, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9840-120907,India
+565,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 35, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-120957,India
+566,WOW! Momo & Rolls (Kolkata),Restaurant,"Shop 36, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9840-121007,India
+567,Shahi Dawat Caterers (Pune),Catering Service,"Shop 37, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9830-121057,India
+568,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 38, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9830-121107,India
+569,Spencer's Retail (Jaipur),Supermarket,"Shop 39, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9829-121157,India
+570,MTR Heritage Restaurant (Lucknow),Restaurant,"Shop 40, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9810-121207,India
+571,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 41, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-121257,India
+572,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 42, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-121307,India
+573,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 43, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9848-121357,India
+574,Vidyarthi Bhavan Mess (Kochi),Restaurant,"Shop 44, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9822-121407,India
+575,Marwar Heritage Catering (Surat),Catering Service,"Shop 45, MI Road, Surat, Gujarat - 395017",Surat,+91-9845-121457,India
+576,Patanjali Mega Store (Patna),Grocery Store,"Shop 46, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-121507,India
+577,Reliance Smart Bazaar,Supermarket,"Shop 47, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9810-121557,India
+578,Saravana Bhavan,Restaurant,"Shop 48, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9822-121607,India
+579,Shahi Dawat Caterers,Catering Service,"Shop 49, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9822-121657,India
+580,Daily Needs Grocery Mart,Grocery Store,"Shop 50, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9830-121707,India
+581,Spencer's Retail,Supermarket,"Shop 51, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9829-121497,India
+582,WOW! Momo & Rolls,Restaurant,"Shop 52, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9825-121547,India
+583,Balaji Feast Caterers,Catering Service,"Shop 53, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-121597,India
+584,Laxmi Grocery Mart,Grocery Store,"Shop 54, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9820-121647,India
+585,Nilgiris Supermarket,Supermarket,"Shop 55, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-121697,India
+586,MTR Heritage Restaurant,Restaurant,"Shop 56, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9822-121747,India
+587,Marwar Heritage Catering,Catering Service,"Shop 57, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9822-121797,India
+588,Patanjali Mega Store,Grocery Store,"Shop 58, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9839-121847,India
+589,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 59, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9820-121897,India
+590,Vidyarthi Bhavan Mess,Restaurant,"Shop 60, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9839-121947,India
+591,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 61, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9822-121997,India
+592,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 62, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9825-122047,India
+593,Spencer's Retail (Bhopal),Supermarket,"Shop 63, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9820-122097,India
+594,Saravana Bhavan (Kochi),Restaurant,"Shop 64, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9830-122147,India
+595,Balaji Feast Caterers (Surat),Catering Service,"Shop 65, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-122197,India
+596,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 66, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-122247,India
+597,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 67, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9822-122297,India
+598,WOW! Momo & Rolls (Coimbatore),Restaurant,"Shop 68, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9829-122347,India
+599,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 69, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9829-122397,India
+600,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 70, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9839-122447,India
+601,Reliance Smart Bazaar,Supermarket,"Shop 71, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9848-122237,India
+602,MTR Heritage Restaurant (Delhi),Restaurant,"Shop 72, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9825-122287,India
+603,Shahi Dawat Caterers,Catering Service,"Shop 73, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9848-122337,India
+604,Daily Needs Grocery Mart,Grocery Store,"Shop 74, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9840-122387,India
+605,Spencer's Retail,Supermarket,"Shop 75, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9822-122437,India
+606,Vidyarthi Bhavan Mess (Kolkata),Restaurant,"Shop 76, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-122487,India
+607,Balaji Feast Caterers,Catering Service,"Shop 77, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9820-122537,India
+608,Laxmi Grocery Mart,Grocery Store,"Shop 78, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9822-122587,India
+609,Nilgiris Supermarket,Supermarket,"Shop 79, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9830-122637,India
+610,Saravana Bhavan,Restaurant,"Shop 80, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9822-122687,India
+611,Marwar Heritage Catering,Catering Service,"Shop 81, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-122737,India
+612,Patanjali Mega Store,Grocery Store,"Shop 82, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9825-122787,India
+613,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 83, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9845-122837,India
+614,WOW! Momo & Rolls,Restaurant,"Shop 84, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9839-122887,India
+615,Shahi Dawat Caterers (Surat),Catering Service,"Shop 85, MI Road, Surat, Gujarat - 395017",Surat,+91-9829-122937,India
+616,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 86, Hazratganj, Patna, Bihar - 800001",Patna,+91-9820-122987,India
+617,Spencer's Retail (Nagpur),Supermarket,"Shop 87, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9822-123037,India
+618,MTR Heritage Restaurant,Restaurant,"Shop 88, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9839-123087,India
+619,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 89, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9839-123137,India
+620,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 90, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9820-123187,India
+621,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 91, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9810-122977,India
+622,Vidyarthi Bhavan Mess,Restaurant,"Shop 92, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9822-123027,India
+623,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 93, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9845-123077,India
+624,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 94, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-123127,India
+625,Reliance Smart Bazaar,Supermarket,"Shop 95, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9845-123177,India
+626,Saravana Bhavan (Kolkata),Restaurant,"Shop 96, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9820-123227,India
+627,Shahi Dawat Caterers,Catering Service,"Shop 97, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9840-123277,India
+628,Daily Needs Grocery Mart,Grocery Store,"Shop 98, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9822-123327,India
+629,Spencer's Retail,Supermarket,"Shop 99, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9830-123377,India
+630,WOW! Momo & Rolls (Lucknow),Restaurant,"Shop 10, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-123427,India
+631,Balaji Feast Caterers,Catering Service,"Shop 11, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9825-123477,India
+632,Laxmi Grocery Mart,Grocery Store,"Shop 12, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9830-123527,India
+633,Nilgiris Supermarket,Supermarket,"Shop 13, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9830-123577,India
+634,MTR Heritage Restaurant (Kochi),Restaurant,"Shop 14, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9822-123627,India
+635,Marwar Heritage Catering,Catering Service,"Shop 15, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-123677,India
+636,Patanjali Mega Store,Grocery Store,"Shop 16, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-123727,India
+637,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 17, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9840-123777,India
+638,Vidyarthi Bhavan Mess (Coimbatore),Restaurant,"Shop 18, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9810-123827,India
+639,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 19, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-123877,India
+640,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 20, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9820-123927,India
+641,Spencer's Retail (Mumbai),Supermarket,"Shop 21, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9829-123717,India
+642,Saravana Bhavan,Restaurant,"Shop 22, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-123767,India
+643,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 23, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9830-123817,India
+644,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 24, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9848-123867,India
+645,Nilgiris Supermarket (Chennai),Supermarket,"Shop 25, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9810-123917,India
+646,WOW! Momo & Rolls,Restaurant,"Shop 26, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9820-123967,India
+647,Marwar Heritage Catering (Pune),Catering Service,"Shop 27, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9820-124017,India
+648,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 28, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9848-124067,India
+649,Reliance Smart Bazaar,Supermarket,"Shop 29, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9848-124117,India
+650,MTR Heritage Restaurant,Restaurant,"Shop 30, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9820-124167,India
+651,Shahi Dawat Caterers,Catering Service,"Shop 31, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9839-124217,India
+652,Daily Needs Grocery Mart,Grocery Store,"Shop 32, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-124267,India
+653,Spencer's Retail,Supermarket,"Shop 33, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9848-124317,India
+654,Vidyarthi Bhavan Mess,Restaurant,"Shop 34, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9845-124367,India
+655,Balaji Feast Caterers,Catering Service,"Shop 35, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-124417,India
+656,Laxmi Grocery Mart,Grocery Store,"Shop 36, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-124467,India
+657,Nilgiris Supermarket,Supermarket,"Shop 37, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9839-124517,India
+658,Saravana Bhavan (Coimbatore),Restaurant,"Shop 38, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-124567,India
+659,Marwar Heritage Catering,Catering Service,"Shop 39, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-124617,India
+660,Patanjali Mega Store,Grocery Store,"Shop 40, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9840-124667,India
+661,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 41, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9830-124457,India
+662,WOW! Momo & Rolls (Delhi),Restaurant,"Shop 42, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9845-124507,India
+663,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 43, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-124557,India
+664,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 44, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-124607,India
+665,Spencer's Retail (Chennai),Supermarket,"Shop 45, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9810-124657,India
+666,MTR Heritage Restaurant (Kolkata),Restaurant,"Shop 46, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9845-124707,India
+667,Balaji Feast Caterers (Pune),Catering Service,"Shop 47, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9840-124757,India
+668,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 48, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9810-124807,India
+669,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 49, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9839-124857,India
+670,Vidyarthi Bhavan Mess (Lucknow),Restaurant,"Shop 50, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9820-124907,India
+671,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 51, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-124957,India
+672,Patanjali Mega Store (Indore),Grocery Store,"Shop 52, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9839-125007,India
+673,Reliance Smart Bazaar,Supermarket,"Shop 53, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9822-125057,India
+674,Saravana Bhavan,Restaurant,"Shop 54, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9822-125107,India
+675,Shahi Dawat Caterers,Catering Service,"Shop 55, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-125157,India
+676,Daily Needs Grocery Mart,Grocery Store,"Shop 56, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-125207,India
+677,Spencer's Retail,Supermarket,"Shop 57, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9839-125257,India
+678,WOW! Momo & Rolls,Restaurant,"Shop 58, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9848-125307,India
+679,Balaji Feast Caterers,Catering Service,"Shop 59, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9810-125357,India
+680,Laxmi Grocery Mart,Grocery Store,"Shop 60, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9840-125407,India
+681,Nilgiris Supermarket,Supermarket,"Shop 61, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9839-125197,India
+682,MTR Heritage Restaurant,Restaurant,"Shop 62, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9810-125247,India
+683,Marwar Heritage Catering,Catering Service,"Shop 63, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-125297,India
+684,Patanjali Mega Store,Grocery Store,"Shop 64, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9820-125347,India
+685,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 65, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9830-125397,India
+686,Vidyarthi Bhavan Mess,Restaurant,"Shop 66, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9829-125447,India
+687,Shahi Dawat Caterers (Pune),Catering Service,"Shop 67, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9822-125497,India
+688,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 68, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9830-125547,India
+689,Spencer's Retail (Jaipur),Supermarket,"Shop 69, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-125597,India
+690,Saravana Bhavan (Lucknow),Restaurant,"Shop 70, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-125647,India
+691,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 71, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9830-125697,India
+692,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 72, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9820-125747,India
+693,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 73, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9822-125797,India
+694,WOW! Momo & Rolls (Kochi),Restaurant,"Shop 74, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9825-125847,India
+695,Marwar Heritage Catering (Surat),Catering Service,"Shop 75, MI Road, Surat, Gujarat - 395017",Surat,+91-9810-125897,India
+696,Patanjali Mega Store (Patna),Grocery Store,"Shop 76, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-125947,India
+697,Reliance Smart Bazaar,Supermarket,"Shop 77, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9830-125997,India
+698,MTR Heritage Restaurant (Coimbatore),Restaurant,"Shop 78, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9825-126047,India
+699,Shahi Dawat Caterers,Catering Service,"Shop 79, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9845-126097,India
+700,Daily Needs Grocery Mart,Grocery Store,"Shop 80, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-126147,India
+701,Spencer's Retail,Supermarket,"Shop 81, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9845-125937,India
+702,Vidyarthi Bhavan Mess (Delhi),Restaurant,"Shop 82, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9829-125987,India
+703,Balaji Feast Caterers,Catering Service,"Shop 83, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-126037,India
+704,Laxmi Grocery Mart,Grocery Store,"Shop 84, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-126087,India
+705,Nilgiris Supermarket,Supermarket,"Shop 85, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9829-126137,India
+706,Saravana Bhavan,Restaurant,"Shop 86, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-126187,India
+707,Marwar Heritage Catering,Catering Service,"Shop 87, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9825-126237,India
+708,Patanjali Mega Store,Grocery Store,"Shop 88, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9822-126287,India
+709,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 89, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9839-126337,India
+710,WOW! Momo & Rolls,Restaurant,"Shop 90, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-126387,India
+711,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 91, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9830-126437,India
+712,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 92, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9848-126487,India
+713,Spencer's Retail (Bhopal),Supermarket,"Shop 93, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9810-126537,India
+714,MTR Heritage Restaurant,Restaurant,"Shop 94, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9840-126587,India
+715,Balaji Feast Caterers (Surat),Catering Service,"Shop 95, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-126637,India
+716,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 96, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-126687,India
+717,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 97, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-126737,India
+718,Vidyarthi Bhavan Mess,Restaurant,"Shop 98, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9839-126787,India
+719,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 99, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9839-126837,India
+720,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 10, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-126887,India
+721,Reliance Smart Bazaar,Supermarket,"Shop 11, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9830-126677,India
+722,Saravana Bhavan (Delhi),Restaurant,"Shop 12, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-126727,India
+723,Shahi Dawat Caterers,Catering Service,"Shop 13, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9825-126777,India
+724,Daily Needs Grocery Mart,Grocery Store,"Shop 14, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9830-126827,India
+725,Spencer's Retail,Supermarket,"Shop 15, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9845-126877,India
+726,WOW! Momo & Rolls (Kolkata),Restaurant,"Shop 16, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-126927,India
+727,Balaji Feast Caterers,Catering Service,"Shop 17, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9848-126977,India
+728,Laxmi Grocery Mart,Grocery Store,"Shop 18, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9830-127027,India
+729,Nilgiris Supermarket,Supermarket,"Shop 19, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9840-127077,India
+730,MTR Heritage Restaurant (Lucknow),Restaurant,"Shop 20, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9830-127127,India
+731,Marwar Heritage Catering,Catering Service,"Shop 21, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-127177,India
+732,Patanjali Mega Store,Grocery Store,"Shop 22, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9839-127227,India
+733,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 23, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9840-127277,India
+734,Vidyarthi Bhavan Mess (Kochi),Restaurant,"Shop 24, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9829-127327,India
+735,Shahi Dawat Caterers (Surat),Catering Service,"Shop 25, MI Road, Surat, Gujarat - 395017",Surat,+91-9820-127377,India
+736,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 26, Hazratganj, Patna, Bihar - 800001",Patna,+91-9829-127427,India
+737,Spencer's Retail (Nagpur),Supermarket,"Shop 27, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9848-127477,India
+738,Saravana Bhavan,Restaurant,"Shop 28, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9810-127527,India
+739,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 29, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9848-127577,India
+740,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 30, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-127627,India
+741,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 31, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9825-127417,India
+742,WOW! Momo & Rolls,Restaurant,"Shop 32, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9829-127467,India
+743,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 33, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9848-127517,India
+744,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 34, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-127567,India
+745,Reliance Smart Bazaar,Supermarket,"Shop 35, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-127617,India
+746,MTR Heritage Restaurant,Restaurant,"Shop 36, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-127667,India
+747,Shahi Dawat Caterers,Catering Service,"Shop 37, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9820-127717,India
+748,Daily Needs Grocery Mart,Grocery Store,"Shop 38, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9810-127767,India
+749,Spencer's Retail,Supermarket,"Shop 39, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9840-127817,India
+750,Vidyarthi Bhavan Mess,Restaurant,"Shop 40, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-127867,India
+751,Balaji Feast Caterers,Catering Service,"Shop 41, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9822-127917,India
+752,Laxmi Grocery Mart,Grocery Store,"Shop 42, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9848-127967,India
+753,Nilgiris Supermarket,Supermarket,"Shop 43, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9840-128017,India
+754,Saravana Bhavan (Kochi),Restaurant,"Shop 44, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9839-128067,India
+755,Marwar Heritage Catering,Catering Service,"Shop 45, MI Road, Surat, Gujarat - 395017",Surat,+91-9830-128117,India
+756,Patanjali Mega Store,Grocery Store,"Shop 46, Hazratganj, Patna, Bihar - 800001",Patna,+91-9825-128167,India
+757,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 47, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9829-128217,India
+758,WOW! Momo & Rolls (Coimbatore),Restaurant,"Shop 48, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9829-128267,India
+759,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 49, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9830-128317,India
+760,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 50, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9822-128367,India
+761,Spencer's Retail (Mumbai),Supermarket,"Shop 51, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9829-128157,India
+762,MTR Heritage Restaurant (Delhi),Restaurant,"Shop 52, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9830-128207,India
+763,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 53, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9830-128257,India
+764,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 54, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-128307,India
+765,Nilgiris Supermarket (Chennai),Supermarket,"Shop 55, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9840-128357,India
+766,Vidyarthi Bhavan Mess (Kolkata),Restaurant,"Shop 56, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9840-128407,India
+767,Marwar Heritage Catering (Pune),Catering Service,"Shop 57, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9840-128457,India
+768,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 58, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9848-128507,India
+769,Reliance Smart Bazaar,Supermarket,"Shop 59, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9810-128557,India
+770,Saravana Bhavan,Restaurant,"Shop 60, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-128607,India
+771,Shahi Dawat Caterers,Catering Service,"Shop 61, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9830-128657,India
+772,Daily Needs Grocery Mart,Grocery Store,"Shop 62, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9810-128707,India
+773,Spencer's Retail,Supermarket,"Shop 63, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9829-128757,India
+774,WOW! Momo & Rolls,Restaurant,"Shop 64, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9845-128807,India
+775,Balaji Feast Caterers,Catering Service,"Shop 65, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-128857,India
+776,Laxmi Grocery Mart,Grocery Store,"Shop 66, Hazratganj, Patna, Bihar - 800001",Patna,+91-9848-128907,India
+777,Nilgiris Supermarket,Supermarket,"Shop 67, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-128957,India
+778,MTR Heritage Restaurant,Restaurant,"Shop 68, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9840-129007,India
+779,Marwar Heritage Catering,Catering Service,"Shop 69, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9839-129057,India
+780,Patanjali Mega Store,Grocery Store,"Shop 70, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9829-129107,India
+781,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 71, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9839-128897,India
+782,Vidyarthi Bhavan Mess,Restaurant,"Shop 72, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9840-128947,India
+783,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 73, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9810-128997,India
+784,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 74, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9848-129047,India
+785,Spencer's Retail (Chennai),Supermarket,"Shop 75, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9840-129097,India
+786,Saravana Bhavan (Kolkata),Restaurant,"Shop 76, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9848-129147,India
+787,Balaji Feast Caterers (Pune),Catering Service,"Shop 77, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9830-129197,India
+788,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 78, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9845-129247,India
+789,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 79, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9840-129297,India
+790,WOW! Momo & Rolls (Lucknow),Restaurant,"Shop 80, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9820-129347,India
+791,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 81, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9829-129397,India
+792,Patanjali Mega Store (Indore),Grocery Store,"Shop 82, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9845-129447,India
+793,Reliance Smart Bazaar,Supermarket,"Shop 83, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9840-129497,India
+794,MTR Heritage Restaurant (Kochi),Restaurant,"Shop 84, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9820-129547,India
+795,Shahi Dawat Caterers,Catering Service,"Shop 85, MI Road, Surat, Gujarat - 395017",Surat,+91-9820-129597,India
+796,Daily Needs Grocery Mart,Grocery Store,"Shop 86, Hazratganj, Patna, Bihar - 800001",Patna,+91-9829-129647,India
+797,Spencer's Retail,Supermarket,"Shop 87, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9840-129697,India
+798,Vidyarthi Bhavan Mess (Coimbatore),Restaurant,"Shop 88, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9845-129747,India
+799,Balaji Feast Caterers,Catering Service,"Shop 89, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-129797,India
+800,Laxmi Grocery Mart,Grocery Store,"Shop 90, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9810-129847,India
+801,Nilgiris Supermarket,Supermarket,"Shop 91, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9820-129637,India
+802,Saravana Bhavan,Restaurant,"Shop 92, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9839-129687,India
+803,Marwar Heritage Catering,Catering Service,"Shop 93, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-129737,India
+804,Patanjali Mega Store,Grocery Store,"Shop 94, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-129787,India
+805,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 95, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-129837,India
+806,WOW! Momo & Rolls,Restaurant,"Shop 96, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-129887,India
+807,Shahi Dawat Caterers (Pune),Catering Service,"Shop 97, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9830-129937,India
+808,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 98, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9845-129987,India
+809,Spencer's Retail (Jaipur),Supermarket,"Shop 99, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9820-130037,India
+810,MTR Heritage Restaurant,Restaurant,"Shop 10, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-130087,India
+811,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 11, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9825-130137,India
+812,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 12, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9810-130187,India
+813,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 13, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9810-130237,India
+814,Vidyarthi Bhavan Mess,Restaurant,"Shop 14, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9822-130287,India
+815,Marwar Heritage Catering (Surat),Catering Service,"Shop 15, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-130337,India
+816,Patanjali Mega Store (Patna),Grocery Store,"Shop 16, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-130387,India
+817,Reliance Smart Bazaar,Supermarket,"Shop 17, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9839-130437,India
+818,Saravana Bhavan (Coimbatore),Restaurant,"Shop 18, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9820-130487,India
+819,Shahi Dawat Caterers,Catering Service,"Shop 19, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9845-130537,India
+820,Daily Needs Grocery Mart,Grocery Store,"Shop 20, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9845-130587,India
+821,Spencer's Retail,Supermarket,"Shop 21, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9839-130377,India
+822,WOW! Momo & Rolls (Delhi),Restaurant,"Shop 22, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9840-130427,India
+823,Balaji Feast Caterers,Catering Service,"Shop 23, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9810-130477,India
+824,Laxmi Grocery Mart,Grocery Store,"Shop 24, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9848-130527,India
+825,Nilgiris Supermarket,Supermarket,"Shop 25, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9810-130577,India
+826,MTR Heritage Restaurant (Kolkata),Restaurant,"Shop 26, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9829-130627,India
+827,Marwar Heritage Catering,Catering Service,"Shop 27, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9822-130677,India
+828,Patanjali Mega Store,Grocery Store,"Shop 28, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9839-130727,India
+829,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 29, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9839-130777,India
+830,Vidyarthi Bhavan Mess (Lucknow),Restaurant,"Shop 30, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9839-130827,India
+831,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 31, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9848-130877,India
+832,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 32, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9829-130927,India
+833,Spencer's Retail (Bhopal),Supermarket,"Shop 33, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9822-130977,India
+834,Saravana Bhavan,Restaurant,"Shop 34, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9825-131027,India
+835,Balaji Feast Caterers (Surat),Catering Service,"Shop 35, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-131077,India
+836,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 36, Hazratganj, Patna, Bihar - 800001",Patna,+91-9840-131127,India
+837,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 37, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9839-131177,India
+838,WOW! Momo & Rolls,Restaurant,"Shop 38, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9822-131227,India
+839,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 39, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9840-131277,India
+840,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 40, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9839-131327,India
+841,Reliance Smart Bazaar,Supermarket,"Shop 41, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9839-131117,India
+842,MTR Heritage Restaurant,Restaurant,"Shop 42, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-131167,India
+843,Shahi Dawat Caterers,Catering Service,"Shop 43, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-131217,India
+844,Daily Needs Grocery Mart,Grocery Store,"Shop 44, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9810-131267,India
+845,Spencer's Retail,Supermarket,"Shop 45, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-131317,India
+846,Vidyarthi Bhavan Mess,Restaurant,"Shop 46, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9848-131367,India
+847,Balaji Feast Caterers,Catering Service,"Shop 47, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9840-131417,India
+848,Laxmi Grocery Mart,Grocery Store,"Shop 48, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9810-131467,India
+849,Nilgiris Supermarket,Supermarket,"Shop 49, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9845-131517,India
+850,Saravana Bhavan (Lucknow),Restaurant,"Shop 50, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-131567,India
+851,Marwar Heritage Catering,Catering Service,"Shop 51, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-131617,India
+852,Patanjali Mega Store,Grocery Store,"Shop 52, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9829-131667,India
+853,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 53, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9810-131717,India
+854,WOW! Momo & Rolls (Kochi),Restaurant,"Shop 54, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9845-131767,India
+855,Shahi Dawat Caterers (Surat),Catering Service,"Shop 55, MI Road, Surat, Gujarat - 395017",Surat,+91-9820-131817,India
+856,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 56, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-131867,India
+857,Spencer's Retail (Nagpur),Supermarket,"Shop 57, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9825-131917,India
+858,MTR Heritage Restaurant (Coimbatore),Restaurant,"Shop 58, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9839-131967,India
+859,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 59, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-132017,India
+860,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 60, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9840-132067,India
+861,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 61, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9820-131857,India
+862,Vidyarthi Bhavan Mess (Delhi),Restaurant,"Shop 62, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9848-131907,India
+863,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 63, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9840-131957,India
+864,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 64, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9840-132007,India
+865,Reliance Smart Bazaar,Supermarket,"Shop 65, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-132057,India
+866,Saravana Bhavan,Restaurant,"Shop 66, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9810-132107,India
+867,Shahi Dawat Caterers,Catering Service,"Shop 67, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9848-132157,India
+868,Daily Needs Grocery Mart,Grocery Store,"Shop 68, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9840-132207,India
+869,Spencer's Retail,Supermarket,"Shop 69, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9839-132257,India
+870,WOW! Momo & Rolls,Restaurant,"Shop 70, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-132307,India
+871,Balaji Feast Caterers,Catering Service,"Shop 71, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9822-132357,India
+872,Laxmi Grocery Mart,Grocery Store,"Shop 72, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9810-132407,India
+873,Nilgiris Supermarket,Supermarket,"Shop 73, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9829-132457,India
+874,MTR Heritage Restaurant,Restaurant,"Shop 74, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9848-132507,India
+875,Marwar Heritage Catering,Catering Service,"Shop 75, MI Road, Surat, Gujarat - 395017",Surat,+91-9845-132557,India
+876,Patanjali Mega Store,Grocery Store,"Shop 76, Hazratganj, Patna, Bihar - 800001",Patna,+91-9840-132607,India
+877,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 77, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9845-132657,India
+878,Vidyarthi Bhavan Mess,Restaurant,"Shop 78, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9810-132707,India
+879,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 79, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9820-132757,India
+880,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 80, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9845-132807,India
+881,Spencer's Retail (Mumbai),Supermarket,"Shop 81, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9840-132597,India
+882,Saravana Bhavan (Delhi),Restaurant,"Shop 82, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9839-132647,India
+883,Balaji Feast Caterers (Bengaluru),Catering Service,"Shop 83, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9839-132697,India
+884,Laxmi Grocery Mart (Hyderabad),Grocery Store,"Shop 84, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9840-132747,India
+885,Nilgiris Supermarket (Chennai),Supermarket,"Shop 85, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-132797,India
+886,WOW! Momo & Rolls (Kolkata),Restaurant,"Shop 86, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9810-132847,India
+887,Marwar Heritage Catering (Pune),Catering Service,"Shop 87, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9825-132897,India
+888,Patanjali Mega Store (Ahmedabad),Grocery Store,"Shop 88, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9840-132947,India
+889,Reliance Smart Bazaar,Supermarket,"Shop 89, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9822-132997,India
+890,MTR Heritage Restaurant (Lucknow),Restaurant,"Shop 90, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9840-133047,India
+891,Shahi Dawat Caterers,Catering Service,"Shop 91, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9829-133097,India
+892,Daily Needs Grocery Mart,Grocery Store,"Shop 92, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9829-133147,India
+893,Spencer's Retail,Supermarket,"Shop 93, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9825-133197,India
+894,Vidyarthi Bhavan Mess (Kochi),Restaurant,"Shop 94, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9825-133247,India
+895,Balaji Feast Caterers,Catering Service,"Shop 95, MI Road, Surat, Gujarat - 395017",Surat,+91-9810-133297,India
+896,Laxmi Grocery Mart,Grocery Store,"Shop 96, Hazratganj, Patna, Bihar - 800001",Patna,+91-9839-133347,India
+897,Nilgiris Supermarket,Supermarket,"Shop 97, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9820-133397,India
+898,Saravana Bhavan,Restaurant,"Shop 98, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9822-133447,India
+899,Marwar Heritage Catering,Catering Service,"Shop 99, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9830-133497,India
+900,Patanjali Mega Store,Grocery Store,"Shop 10, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9839-133547,India
+901,Reliance Smart Bazaar (Mumbai),Supermarket,"Shop 11, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9840-133337,India
+902,WOW! Momo & Rolls,Restaurant,"Shop 12, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9820-133387,India
+903,Shahi Dawat Caterers (Bengaluru),Catering Service,"Shop 13, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9810-133437,India
+904,Daily Needs Grocery Mart (Hyderabad),Grocery Store,"Shop 14, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9848-133487,India
+905,Spencer's Retail (Chennai),Supermarket,"Shop 15, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9839-133537,India
+906,MTR Heritage Restaurant,Restaurant,"Shop 16, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9839-133587,India
+907,Balaji Feast Caterers (Pune),Catering Service,"Shop 17, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9820-133637,India
+908,Laxmi Grocery Mart (Ahmedabad),Grocery Store,"Shop 18, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9840-133687,India
+909,Nilgiris Supermarket (Jaipur),Supermarket,"Shop 19, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9839-133737,India
+910,Vidyarthi Bhavan Mess,Restaurant,"Shop 20, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9820-133787,India
+911,Marwar Heritage Catering (Chandigarh),Catering Service,"Shop 21, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9845-133837,India
+912,Patanjali Mega Store (Indore),Grocery Store,"Shop 22, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9825-133887,India
+913,Reliance Smart Bazaar,Supermarket,"Shop 23, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9829-133937,India
+914,Saravana Bhavan (Kochi),Restaurant,"Shop 24, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9825-133987,India
+915,Shahi Dawat Caterers,Catering Service,"Shop 25, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-134037,India
+916,Daily Needs Grocery Mart,Grocery Store,"Shop 26, Hazratganj, Patna, Bihar - 800001",Patna,+91-9845-134087,India
+917,Spencer's Retail,Supermarket,"Shop 27, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9839-134137,India
+918,WOW! Momo & Rolls (Coimbatore),Restaurant,"Shop 28, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9822-134187,India
+919,Balaji Feast Caterers,Catering Service,"Shop 29, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9825-134237,India
+920,Laxmi Grocery Mart,Grocery Store,"Shop 30, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9810-134287,India
+921,Nilgiris Supermarket,Supermarket,"Shop 31, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9825-134077,India
+922,MTR Heritage Restaurant (Delhi),Restaurant,"Shop 32, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9830-134127,India
+923,Marwar Heritage Catering,Catering Service,"Shop 33, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9822-134177,India
+924,Patanjali Mega Store,Grocery Store,"Shop 34, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9830-134227,India
+925,Reliance Smart Bazaar (Chennai),Supermarket,"Shop 35, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9830-134277,India
+926,Vidyarthi Bhavan Mess (Kolkata),Restaurant,"Shop 36, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9810-134327,India
+927,Shahi Dawat Caterers (Pune),Catering Service,"Shop 37, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9845-134377,India
+928,Daily Needs Grocery Mart (Ahmedabad),Grocery Store,"Shop 38, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9830-134427,India
+929,Spencer's Retail (Jaipur),Supermarket,"Shop 39, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9822-134477,India
+930,Saravana Bhavan,Restaurant,"Shop 40, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9825-134527,India
+931,Balaji Feast Caterers (Chandigarh),Catering Service,"Shop 41, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9840-134577,India
+932,Laxmi Grocery Mart (Indore),Grocery Store,"Shop 42, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9822-134627,India
+933,Nilgiris Supermarket (Bhopal),Supermarket,"Shop 43, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9829-134677,India
+934,WOW! Momo & Rolls,Restaurant,"Shop 44, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9820-134727,India
+935,Marwar Heritage Catering (Surat),Catering Service,"Shop 45, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-134777,India
+936,Patanjali Mega Store (Patna),Grocery Store,"Shop 46, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-134827,India
+937,Reliance Smart Bazaar,Supermarket,"Shop 47, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9830-134877,India
+938,MTR Heritage Restaurant,Restaurant,"Shop 48, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9840-134927,India
+939,Shahi Dawat Caterers,Catering Service,"Shop 49, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9830-134977,India
+940,Daily Needs Grocery Mart,Grocery Store,"Shop 50, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9810-135027,India
+941,Spencer's Retail,Supermarket,"Shop 51, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9822-134817,India
+942,Vidyarthi Bhavan Mess,Restaurant,"Shop 52, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9829-134867,India
+943,Balaji Feast Caterers,Catering Service,"Shop 53, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9820-134917,India
+944,Laxmi Grocery Mart,Grocery Store,"Shop 54, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9829-134967,India
+945,Nilgiris Supermarket,Supermarket,"Shop 55, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9825-135017,India
+946,Saravana Bhavan (Kolkata),Restaurant,"Shop 56, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9822-135067,India
+947,Marwar Heritage Catering,Catering Service,"Shop 57, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9820-135117,India
+948,Patanjali Mega Store,Grocery Store,"Shop 58, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9848-135167,India
+949,Reliance Smart Bazaar (Jaipur),Supermarket,"Shop 59, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9829-135217,India
+950,WOW! Momo & Rolls (Lucknow),Restaurant,"Shop 60, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9830-135267,India
+951,Shahi Dawat Caterers (Chandigarh),Catering Service,"Shop 61, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9839-135317,India
+952,Daily Needs Grocery Mart (Indore),Grocery Store,"Shop 62, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9825-135367,India
+953,Spencer's Retail (Bhopal),Supermarket,"Shop 63, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9825-135417,India
+954,MTR Heritage Restaurant (Kochi),Restaurant,"Shop 64, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9820-135467,India
+955,Balaji Feast Caterers (Surat),Catering Service,"Shop 65, MI Road, Surat, Gujarat - 395017",Surat,+91-9848-135517,India
+956,Laxmi Grocery Mart (Patna),Grocery Store,"Shop 66, Hazratganj, Patna, Bihar - 800001",Patna,+91-9840-135567,India
+957,Nilgiris Supermarket (Nagpur),Supermarket,"Shop 67, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9829-135617,India
+958,Vidyarthi Bhavan Mess (Coimbatore),Restaurant,"Shop 68, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9845-135667,India
+959,Marwar Heritage Catering (Visakhapatnam),Catering Service,"Shop 69, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9840-135717,India
+960,Patanjali Mega Store (Vadodara),Grocery Store,"Shop 70, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9825-135767,India
+961,Reliance Smart Bazaar,Supermarket,"Shop 71, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9825-135557,India
+962,Saravana Bhavan,Restaurant,"Shop 72, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9810-135607,India
+963,Shahi Dawat Caterers,Catering Service,"Shop 73, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9820-135657,India
+964,Daily Needs Grocery Mart,Grocery Store,"Shop 74, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9839-135707,India
+965,Spencer's Retail,Supermarket,"Shop 75, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-135757,India
+966,WOW! Momo & Rolls,Restaurant,"Shop 76, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9845-135807,India
+967,Balaji Feast Caterers,Catering Service,"Shop 77, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9840-135857,India
+968,Laxmi Grocery Mart,Grocery Store,"Shop 78, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9829-135907,India
+969,Nilgiris Supermarket,Supermarket,"Shop 79, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9820-135957,India
+970,MTR Heritage Restaurant,Restaurant,"Shop 80, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9829-136007,India
+971,Marwar Heritage Catering,Catering Service,"Shop 81, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9822-136057,India
+972,Patanjali Mega Store,Grocery Store,"Shop 82, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9810-136107,India
+973,Reliance Smart Bazaar (Bhopal),Supermarket,"Shop 83, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9848-136157,India
+974,Vidyarthi Bhavan Mess,Restaurant,"Shop 84, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9810-136207,India
+975,Shahi Dawat Caterers (Surat),Catering Service,"Shop 85, MI Road, Surat, Gujarat - 395017",Surat,+91-9825-136257,India
+976,Daily Needs Grocery Mart (Patna),Grocery Store,"Shop 86, Hazratganj, Patna, Bihar - 800001",Patna,+91-9810-136307,India
+977,Spencer's Retail (Nagpur),Supermarket,"Shop 87, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9845-136357,India
+978,Saravana Bhavan (Coimbatore),Restaurant,"Shop 88, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9825-136407,India
+979,Balaji Feast Caterers (Visakhapatnam),Catering Service,"Shop 89, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9840-136457,India
+980,Laxmi Grocery Mart (Vadodara),Grocery Store,"Shop 90, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9829-136507,India
+981,Nilgiris Supermarket (Mumbai),Supermarket,"Shop 91, MG Road, Mumbai, Maharashtra - 400001",Mumbai,+91-9840-136297,India
+982,WOW! Momo & Rolls (Delhi),Restaurant,"Shop 92, Station Road, Delhi, Delhi NCR - 110016",Delhi,+91-9822-136347,India
+983,Marwar Heritage Catering (Bengaluru),Catering Service,"Shop 93, Linking Road, Bengaluru, Karnataka - 560038",Bengaluru,+91-9825-136397,India
+984,Patanjali Mega Store (Hyderabad),Grocery Store,"Shop 94, Connaught Circle, Hyderabad, Telangana - 500032",Hyderabad,+91-9825-136447,India
+985,Reliance Smart Bazaar,Supermarket,"Shop 95, Brigade Road, Chennai, Tamil Nadu - 600096",Chennai,+91-9848-136497,India
+986,MTR Heritage Restaurant (Kolkata),Restaurant,"Shop 96, Ring Road, Kolkata, West Bengal - 700001",Kolkata,+91-9825-136547,India
+987,Shahi Dawat Caterers,Catering Service,"Shop 97, Airport Road, Pune, Maharashtra - 411004",Pune,+91-9829-136597,India
+988,Daily Needs Grocery Mart,Grocery Store,"Shop 98, Bandra Kurla Complex, Ahmedabad, Gujarat - 380015",Ahmedabad,+91-9845-136647,India
+989,Spencer's Retail,Supermarket,"Shop 99, Cyber Hub, Jaipur, Rajasthan - 302020",Jaipur,+91-9822-136697,India
+990,Vidyarthi Bhavan Mess (Lucknow),Restaurant,"Shop 10, Gachibowli Main Rd, Lucknow, Uttar Pradesh - 226028",Lucknow,+91-9848-136747,India
+991,Balaji Feast Caterers,Catering Service,"Shop 11, Anna Salai, Chandigarh, Chandigarh - 160017",Chandigarh,+91-9839-136797,India
+992,Laxmi Grocery Mart,Grocery Store,"Shop 12, Park Street, Indore, Madhya Pradesh - 452008",Indore,+91-9829-136847,India
+993,Nilgiris Supermarket,Supermarket,"Shop 13, FC Road, Bhopal, Madhya Pradesh - 462016",Bhopal,+91-9845-136897,India
+994,Saravana Bhavan,Restaurant,"Shop 14, C.G. Road, Kochi, Kerala - 682030",Kochi,+91-9810-136947,India
+995,Marwar Heritage Catering,Catering Service,"Shop 15, MI Road, Surat, Gujarat - 395017",Surat,+91-9840-136997,India
+996,Patanjali Mega Store,Grocery Store,"Shop 16, Hazratganj, Patna, Bihar - 800001",Patna,+91-9822-137047,India
+997,Reliance Smart Bazaar (Nagpur),Supermarket,"Shop 17, Sector 17 Plaza, Nagpur, Maharashtra - 440010",Nagpur,+91-9830-137097,India
+998,WOW! Momo & Rolls,Restaurant,"Shop 18, Vijay Nagar Main Rd, Coimbatore, Tamil Nadu - 641012",Coimbatore,+91-9829-137147,India
+999,Shahi Dawat Caterers (Visakhapatnam),Catering Service,"Shop 19, MP Nagar Zone 1, Visakhapatnam, Andhra Pradesh - 530045",Visakhapatnam,+91-9840-137197,India
+1000,Daily Needs Grocery Mart (Vadodara),Grocery Store,"Shop 20, Marine Drive, Vadodara, Gujarat - 390025",Vadodara,+91-9820-137247,India
